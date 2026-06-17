@@ -37,7 +37,8 @@ function parseItems(xml){
     const title = decode((b.match(/<title>([\s\S]*?)<\/title>/i)||[])[1]);
     const link  = decode((b.match(/<link>([\s\S]*?)<\/link>/i)||[])[1]);
     if (!title || !link) continue;
-    const merchant = (b.match(/<pepper:merchant\b[^>]*\bname="([^"]+)"/i)||[])[1] || null;
+    const merchantRaw = (b.match(/<pepper:merchant\b[^>]*\bname="([^"]+)"/i)||[])[1] || null;
+    const merchant = merchantRaw ? decode(decode(merchantRaw)) : null;
     const mprice   = (b.match(/<pepper:merchant\b[^>]*\bprice="([^"]+)"/i)||[])[1] || null;
     items.push({ title, link, merchant, mprice });
   }
