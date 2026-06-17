@@ -34,5 +34,8 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: refresh deals ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-            git push
+            # Rebase onto any newer remote commits, then push (with one retry) to
+            # avoid "fetch first" rejections when runs overlap.
+            git pull --rebase --autostash origin main || true
+            git push || (git pull --rebase --autostash origin main && git push)
           fi
