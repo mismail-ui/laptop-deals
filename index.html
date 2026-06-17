@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Laptop Deals Tracker — UK & US</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #f3f5f8; color: #14171a; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 24px 20px 56px; }
+header h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: -.01em; }
+.sub { color: #5b6470; font-size: 15px; margin: 0 0 18px; }
+.regiontabs { display: inline-flex; background: #e6eaf0; border-radius: 12px; padding: 4px; margin-bottom: 18px; }
+.regiontabs button { border: 0; background: transparent; font-size: 15px; font-weight: 700; color: #5b6470; padding: 9px 22px; border-radius: 9px; cursor: pointer; }
+.regiontabs button.active { background: #fff; color: #14171a; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.storefilter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; align-items: center; }
+.storefilter .lbl { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: #8a929c; margin-right: 4px; }
+.storechip { border: 1.5px solid #d3d9e0; background: #fff; color: #2f3b52; font-size: 14px; font-weight: 600; padding: 8px 15px; border-radius: 999px; cursor: pointer; transition: all .12s; }
+.storechip:hover { border-color: #2455c2; color: #2455c2; }
+.storechip.active { background: #2455c2; border-color: #2455c2; color: #fff; }
+.bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 18px; }
+.bar input, .bar select { font-size: 15px; padding: 10px 13px; border: 1.5px solid #d3d9e0; border-radius: 10px; background: #fff; }
+.bar input { flex: 1; min-width: 220px; }
+.count { font-size: 14px; font-weight: 600; color: #5b6470; margin-left: auto; }
+.cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+@media (max-width: 1180px) { .cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 880px)  { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px)  { .cards { grid-template-columns: 1fr; } }
+.card { background: #fff; border: 1px solid #e3e7ee; border-radius: 13px; padding: 14px; display: flex; flex-direction: column; gap: 10px; box-shadow: 0 1px 2px rgba(20,30,50,.04); }
+.card .top { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
+.model { font-weight: 800; font-size: 16px; line-height: 1.25; letter-spacing: -.01em; }
+.disc { background: #1a7f4b; color: #fff; font-weight: 800; font-size: 14px; padding: 4px 9px; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+.disc.big { background: #d23b2b; }
+.priceline { display: flex; align-items: baseline; flex-wrap: wrap; gap: 7px; }
+.price { font-size: 23px; font-weight: 800; letter-spacing: -.02em; }
+.was { color: #98a0aa; text-decoration: line-through; font-size: 14px; font-weight: 500; }
+.save { font-size: 12px; font-weight: 700; color: #1a7f4b; background: #e8f7ee; padding: 3px 8px; border-radius: 6px; }
+.save.big { color: #d23b2b; background: #fdecea; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 12px; font-weight: 600; padding: 3px 9px; border-radius: 7px; background: #eef1f5; color: #41495a; }
+.chip.retailer { background: #e7eefc; color: #1f4fb8; font-weight: 700; }
+.specs { display: grid; grid-template-columns: 1fr 1fr; gap: 7px 14px; background: #f7f9fb; border: 1px solid #e8ecf1; border-radius: 9px; padding: 11px 12px; }
+.specs div { font-size: 12.5px; display: flex; justify-content: space-between; gap: 8px; }
+.specs div span:first-child { color: #8a929c; font-weight: 500; }
+.specs div span:last-child { font-weight: 700; color: #1c2330; text-align: right; }
+.note { font-size: 12.5px; color: #5b6470; font-style: italic; }
+.card a.link { margin-top: auto; font-size: 14px; color: #1f4fb8; text-decoration: none; font-weight: 700; }
+.card a.link:hover { text-decoration: underline; }
+.section-title { font-size: 14px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: #8a929c; margin: 26px 0 12px; }
+.retailers { display: flex; flex-wrap: wrap; gap: 9px; }
+.retailers a { font-size: 14px; padding: 9px 14px; border: 1.5px solid #d3d9e0; border-radius: 999px; background: #fff; color: #1f4fb8; text-decoration: none; font-weight: 600; }
+.retailers a:hover { background: #eef3ff; border-color: #2455c2; }
+.banner { background: #fff6e6; border: 1px solid #f2dba8; color: #715315; font-size: 14px; padding: 13px 15px; border-radius: 12px; margin-bottom: 18px; }
+footer { margin-top: 32px; font-size: 13px; color: #9aa1ab; }
+.empty { padding: 40px; text-align: center; color: #8a929c; font-size: 15px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Laptop Deals Tracker</h1>
+    <p class="sub">Best current discounts on new laptops · UK &amp; US · Last refreshed: <strong id="updated">loading…</strong></p>
+  </header>
+
+  <div class="regiontabs">
+    <button id="tab-uk" class="active" onclick="setRegion('uk')">🇬🇧 UK (£)</button>
+    <button id="tab-us" onclick="setRegion('us')">🇺🇸 US ($)</button>
+  </div>
+
+  <div class="storefilter" id="storefilter"></div>
+
+  <div class="banner">
+    Live deals pulled hourly from community deal feeds (hotukdeals, dealnews, Slickdeals) and refreshed automatically — no app needed. Discounts and specs are shown where the source provides them; always confirm price and spec on the retailer's site before buying.
+  </div>
+
+  <div class="bar">
+    <input id="search" type="text" placeholder="Filter by model, brand, retailer or spec…">
+    <select id="sort">
+      <option value="disc">Sort: biggest discount</option>
+      <option value="priceup">Sort: price low → high</option>
+      <option value="pricedown">Sort: price high → low</option>
+    </select>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="cards" id="cards"></div>
+
+  <div class="section-title">Browse every seller's deals page</div>
+  <div class="retailers" id="retailers"></div>
+
+  <footer>
+    Auto-updating via GitHub Actions + Vercel. Data curated from public deal feeds. Not affiliated with any retailer; no prices guaranteed.
+  </footer>
+</div>
+
+<script>
+const RETAILERS = {
+  uk: [
+    ["Currys","https://www.currys.co.uk/laptops/sale"],
+    ["Amazon UK","https://www.amazon.co.uk/deals?node=429886031"],
+    ["Argos","https://www.argos.co.uk/browse/technology/laptops-and-pcs/laptops/c:30049/"],
+    ["John Lewis","https://www.johnlewis.com/browse/electricals/laptops-macbooks/_/N-7099"],
+    ["AO","https://www.ao.com/laptops-1432.aspx"],
+    ["Very","https://www.very.co.uk/electricals/laptops/e/b/2014.end"],
+    ["Laptops Direct","https://www.laptopsdirect.co.uk/ct/laptops-and-netbooks/laptops"],
+    ["Box","https://www.box.co.uk/Laptops_1394.html"],
+    ["hotukdeals","https://www.hotukdeals.com/tag/laptop"]
+  ],
+  us: [
+    ["Best Buy","https://www.bestbuy.com/site/all-computers-tablets-on-sale/laptops-on-sale/pcmcat1720704669400.c?id=pcmcat1720704669400"],
+    ["Walmart","https://www.walmart.com/cp/laptops/1089430"],
+    ["Amazon US","https://www.amazon.com/deals"],
+    ["Costco","https://www.costco.com/laptops.html"],
+    ["Dell US","https://www.dell.com/en-us/shop/deals/pc-laptop-deals"],
+    ["Best Buy under $500","https://www.bestbuy.com/site/laptop-computers/laptops-under-500/pcmcat1516833528361.c?id=pcmcat1516833528361"],
+    ["dealnews","https://www.dealnews.com/c49/Computers/Laptops/"],
+    ["Slickdeals","https://slickdeals.net/laptop-deals/"]
+  ]
+};
+
+let DATA = { updated: "—", uk: [], us: [] };
+let region = "uk";
+let store = "All";
+const cardsEl = document.getElementById('cards');
+const searchEl = document.getElementById('search');
+const sortEl = document.getElementById('sort');
+const countEl = document.getElementById('count');
+const retailersEl = document.getElementById('retailers');
+const storeFilterEl = document.getElementById('storefilter');
+
+function pct(d){ return (d.was && d.was > d.price) ? Math.round((1 - d.price/d.was) * 100) : null; }
+function specRow(k,v){ return (v && v !== "—") ? `<div><span>${k}</span><span>${v}</span></div>` : ""; }
+function setRegion(r){ region = r; store = "All"; document.getElementById('tab-uk').classList.toggle('active', r==='uk'); document.getElementById('tab-us').classList.toggle('active', r==='us'); render(); }
+function setStore(s){ store = s; render(); }
+const sym = () => region === 'uk' ? '£' : '$';
+
+function renderStoreChips(){
+  const stores = [...new Set(DATA[region].map(d => d.retailer))].sort();
+  const chips = ['All', ...stores];
+  storeFilterEl.innerHTML = `<span class="lbl">Store</span>` + chips.map(s =>
+    `<button class="storechip ${s===store?'active':''}" onclick="setStore('${s.replace(/'/g,"\\'")}')">${s}</button>`
+  ).join('');
+}
+
+function render(){
+  renderStoreChips();
+  const s$ = sym();
+  const q = searchEl.value.trim().toLowerCase();
+  let list = DATA[region].filter(d =>
+    (store==="All" || d.retailer===store) &&
+    (!q || (d.model+" "+d.retailer+" "+(d.cat||"")+" "+(d.cpu||"")+" "+(d.gpu||"")+" "+(d.ram||"")).toLowerCase().includes(q))
+  );
+  const s = sortEl.value;
+  list.sort((a,b) => {
+    if (s==='priceup') return a.price-b.price;
+    if (s==='pricedown') return b.price-a.price;
+    return (pct(b)||0)-(pct(a)||0);
+  });
+  if (!list.length){ cardsEl.innerHTML = `<div class="empty">No deals to show yet — the next hourly refresh will populate this.</div>`; }
+  else cardsEl.innerHTML = list.map(d => {
+    const p = pct(d); const big = p!==null && p>=30;
+    const saved = (d.was && d.was>d.price) ? d.was-d.price : null;
+    const specs = [specRow('CPU',d.cpu),specRow('RAM',d.ram),specRow('Storage',d.storage),specRow('Screen',d.screen),specRow('Graphics',d.gpu),specRow('Battery',d.battery),specRow('Weight',d.weight)].join('');
+    return `<div class="card">
+      <div class="top">
+        <span class="model">${d.model}</span>
+        ${p!==null?`<span class="disc ${big?'big':''}">-${p}%</span>`:''}
+      </div>
+      <div class="priceline">
+        <span class="price">${d.price?s$+d.price:'See site'}</span>
+        ${d.was&&d.was>d.price?`<span class="was">${s$}${d.was}</span>`:''}
+        ${saved!==null?`<span class="save ${big?'big':''}">Save ${s$}${saved}</span>`:''}
+      </div>
+      <div class="meta">
+        <span class="chip retailer">${d.retailer}</span>
+        ${d.cat?`<span class="chip">${d.cat}</span>`:''}
+      </div>
+      ${specs?`<div class="specs">${specs}</div>`:''}
+      ${d.note?`<div class="note">${d.note}</div>`:''}
+      <a class="link" href="${d.link}" target="_blank" rel="noopener">View deal →</a>
+    </div>`;
+  }).join('');
+  countEl.textContent = list.length + ' deal' + (list.length===1?'':'s');
+  retailersEl.innerHTML = RETAILERS[region].map(([n,u]) => `<a href="${u}" target="_blank" rel="noopener">${n}</a>`).join('');
+}
+
+searchEl.addEventListener('input', render);
+sortEl.addEventListener('change', render);
+
+fetch('./deals.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(j => { DATA = j; document.getElementById('updated').textContent = j.updated || '—'; render(); })
+  .catch(() => { document.getElementById('updated').textContent = 'feed unavailable'; render(); });
+</script>
+</body>
+</html>
