@@ -125,10 +125,55 @@ async function buildRegion(region){
   return out.slice(0, 24);
 }
 
+// OPTIONAL spec-filler: if ANTHROPIC_API_KEY is set, ask Claude Haiku to infer
+// missing CPU/RAM/storage/screen/GPU from each deal's title. Free mode skips this.
+async function enrichSpecs(data){
+  const key = process.env.ANTHROPIC_API_KEY;
+  if (!key){ console.log("No ANTHROPIC_API_KEY set — skipping spec enrichment (free mode)."); return; }
+  const all = [...data.uk, ...data.us];
+  const targets = all.filter(d => [d.cpu, d.ram, d.storage, d.screen].some(v => v === "—"));
+  if (!targets.length){ console.log("Nothing to enrich."); return; }
+  const items = targets.map((d, i) => ({ id: i, title: d.model }));
+  const prompt =
+`You are a laptop hardware expert. For each item below, infer specs from its name/title.
+Return ONLY a JSON object mapping each id (as a string) to an object with keys:
+cpu, ram, storage, screen, gpu, battery, weight.
+Use concise values, e.g. "Intel Core i5-1335U", "16GB", "512GB SSD", "15.6\\" FHD", "RTX 4060", "Up to 8h", "1.7kg".
+If a value is not reasonably inferable from the name, use "—". Do NOT fabricate precise battery life or weight unless standard for that exact model.
+
+Items:
+${JSON.stringify(items)}`;
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+      body: JSON.stringify({ model: "claude-haiku-4-5-20251001", max_tokens: 4000, messages: [{ role: "user", content: prompt }] })
+    });
+    if (!res.ok){ console.error("Enrich API error", res.status, (await res.text()).slice(0,300)); return; }
+    const j = await res.json();
+    const text = (j.content || []).map(c => c.text || "").join("");
+    const m = text.match(/\{[\s\S]*\}/);
+    if (!m){ console.error("Enrich: no JSON found in response."); return; }
+    const specs = JSON.parse(m[0]);
+    let n = 0;
+    targets.forEach((d, i) => {
+      const s = specs[i] ?? specs[String(i)];
+      if (!s) return;
+      let touched = false;
+      for (const k of ["cpu","ram","storage","screen","gpu","battery","weight"]){
+        if ((d[k] === undefined || d[k] === "—") && s[k] && s[k] !== "—"){ d[k] = String(s[k]); touched = true; }
+      }
+      if (touched) n++;
+    });
+    console.log(`Enriched ${n} deals via Claude Haiku.`);
+  } catch (e){ console.error("Enrich failed:", e.message); }
+}
+
 const data = {
   updated: new Date().toISOString().replace("T"," ").slice(0,16) + " UTC",
   uk: await buildRegion("uk"),
   us: await buildRegion("us")
 };
+await enrichSpecs(data);
 writeFileSync("deals.json", JSON.stringify(data, null, 2));
 console.log(`Wrote deals.json — UK: ${data.uk.length}, US: ${data.us.length} deals.`);

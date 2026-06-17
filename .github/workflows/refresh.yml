@@ -24,6 +24,8 @@ jobs:
 
       - name: Pull latest deals
         run: node scripts/refresh.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Commit if changed
         run: |
