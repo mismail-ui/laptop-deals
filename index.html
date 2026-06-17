@@ -28,6 +28,8 @@ header h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: -.01em; }
 @media (max-width: 880px)  { .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 560px)  { .cards { grid-template-columns: 1fr; } }
 .card { background: #fff; border: 1px solid #e3e7ee; border-radius: 13px; padding: 14px; display: flex; flex-direction: column; gap: 10px; box-shadow: 0 1px 2px rgba(20,30,50,.04); }
+.thumb { height: 120px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #eef0f3; border-radius: 9px; overflow: hidden; }
+.thumb img { max-height: 108px; max-width: 92%; object-fit: contain; }
 .card .top { display: flex; justify-content: space-between; gap: 8px; align-items: flex-start; }
 .model { font-weight: 800; font-size: 16px; line-height: 1.25; letter-spacing: -.01em; }
 .disc { background: #1a7f4b; color: #fff; font-weight: 800; font-size: 14px; padding: 4px 9px; border-radius: 8px; white-space: nowrap; box-shadow: 0 1px 2px rgba(0,0,0,.12); }
@@ -163,6 +165,7 @@ function render(){
     const saved = (d.was && d.was>d.price) ? d.was-d.price : null;
     const specs = [specRow('CPU',d.cpu),specRow('RAM',d.ram),specRow('Storage',d.storage),specRow('Screen',d.screen),specRow('Graphics',d.gpu),specRow('Battery',d.battery),specRow('Weight',d.weight)].join('');
     return `<div class="card">
+      ${d.img ? `<div class="thumb"><img src="${d.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb').remove()"></div>` : ''}
       <div class="top">
         <span class="model">${d.model}</span>
         ${p!==null?`<span class="disc ${big?'big':''}">-${p}%</span>`:''}

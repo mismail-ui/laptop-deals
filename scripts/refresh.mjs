@@ -40,7 +40,19 @@ function parseItems(xml){
     const merchantRaw = (b.match(/<pepper:merchant\b[^>]*\bname="([^"]+)"/i)||[])[1] || null;
     const merchant = merchantRaw ? decode(decode(merchantRaw)) : null;
     const mprice   = (b.match(/<pepper:merchant\b[^>]*\bprice="([^"]+)"/i)||[])[1] || null;
-    items.push({ title, link, merchant, mprice });
+    // Image: hotukdeals exposes <media:content>/<media:thumbnail>; dealnews embeds <img> in the description.
+    let img = (b.match(/<media:(?:content|thumbnail)\b[^>]*\burl="([^"]+)"/i)||[])[1] || null;
+    if (!img){
+      const desc = ((b.match(/<description>([\s\S]*?)<\/description>/i)||[])[1] || "").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">");
+      const im = desc.match(/<img[^>]+src=['"]([^'"]+)['"]/i);
+      if (im) img = im[1];
+    }
+    if (img){
+      img = img.replace(/&amp;/g, "&")
+               .replace(/\/re\/150x150\//, "/re/320x320/")        // hotukdeals → larger
+               .replace(/([?&]h=)\d+/, "$1240").replace(/([?&]w=)\d+/, "$1320"); // dealnews → larger
+    }
+    items.push({ title, link, merchant, mprice, img });
   }
   return items;
 }
@@ -56,10 +68,35 @@ function priceFromTitle(title, sym){
   const re = sym === "£" ? /£\s?([\d,]+(?:\.\d{1,2})?)/ : /\$\s?([\d,]+(?:\.\d{1,2})?)/;
   return num((title.match(re)||[])[1]);
 }
-function wasFrom(title, sym){
+// Only returns an original price the source ACTUALLY states (no guessing).
+function statedWas(title, sym, price){
+  if (/up to/i.test(title)) return null; // "Up to £X off" = sale roundup, not one RRP
   const s = sym === "£" ? "£" : "\\$";
-  const m = title.match(new RegExp("(?:was|rrp|orig(?:inal)?|down from|reg(?:ularly)?)\\D{0,8}" + s + "\\s?([\\d,]+)", "i"));
-  return num((m||[])[1]);
+  let m = title.match(new RegExp("(?:was|rrp|orig(?:inal)?|down from|reg(?:ularly)?|list(?:ed)?(?:\\s*price)?)\\D{0,8}" + s + "\\s?([\\d,]+)", "i"));
+  if (m){ const w = num(m[1]); if (w && price && w > price) return w; }
+  m = title.match(/(\d{1,2}(?:\.\d)?)\s*%\s*off/i);
+  if (m && price){ const pct = parseFloat(m[1]); if (pct > 0 && pct < 95) return Math.round(price / (1 - pct/100)); }
+  return null;
+}
+
+// Scrape hotukdeals deal pages for the genuine original price (nextBestPrice) and
+// discount %, set only when the page actually records one. Skips silently on any error.
+async function scrapeHukDiscounts(deals){
+  for (const d of deals){
+    if (d.was || !d.price || !/hotukdeals\.com\/deals\//.test(d.link)) continue;
+    try {
+      const html = await (await fetch(d.link, { headers: { "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)" }, redirect: "follow" })).text();
+      const re = /"price":\s*([\d.]+)\s*,\s*"nextBestPrice":\s*([\d.]*)\s*,\s*"percentage":\s*([\d.]+)/g;
+      let m;
+      while ((m = re.exec(html))){
+        const p = Math.round(parseFloat(m[1]));
+        const nbp = m[2] ? parseFloat(m[2]) : null;
+        const pct = parseFloat(m[3]);
+        if (p === d.price && nbp && pct > 0 && nbp > d.price){ d.was = Math.round(nbp); break; }
+      }
+    } catch { /* ignore — leave price-only */ }
+    await new Promise(r => setTimeout(r, 120)); // be polite to the server
+  }
 }
 function usRetailer(title){
   for (const s of US_STORES) if (new RegExp("\\b"+s.replace(/[&]/g,"\\&")+"\\b","i").test(title)) return s;
@@ -105,7 +142,7 @@ async function buildRegion(region){
       seen.add(key);
 
       const price = num(it.mprice) ?? priceFromTitle(t, sym);
-      const was = wasFrom(t, sym);
+      const was = statedWas(t, sym, price);
       const retailer = it.merchant || (region === "us" ? (usRetailer(t) || feed.retailerHint) : feed.retailerHint);
       const g = specGuess(t);
       let model = t.replace(/\s*\(\d+\s*replies?\)\s*$/i, "").trim();
@@ -117,6 +154,7 @@ async function buildRegion(region){
         cat: categorize(t),
         cpu: g.cpu || "—", ram: g.ram || "—", storage: g.storage || "—",
         screen: g.screen || "—", gpu: g.gpu || "—", battery: "—", weight: "—",
+        img: it.img || null,
         link: it.link,
         note: "From " + retailer + " feed — confirm spec on retailer site"
       });
@@ -175,6 +213,9 @@ const data = {
   uk: await buildRegion("uk"),
   us: await buildRegion("us")
 };
+await scrapeHukDiscounts(data.uk);
+const withDisc = [...data.uk, ...data.us].filter(d => d.was && d.was > d.price).length;
+console.log(`Real discounts found on ${withDisc} deals.`);
 await enrichSpecs(data);
 writeFileSync("deals.json", JSON.stringify(data, null, 2));
 console.log(`Wrote deals.json — UK: ${data.uk.length}, US: ${data.us.length} deals.`);
