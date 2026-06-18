@@ -1,6 +1,40 @@
 {
-  "updated": "2026-06-17 22:48 UTC",
+  "updated": "2026-06-18 00:14 UTC",
   "uk": [
+    {
+      "model": "Asus Zenbook 14 - FHD+, Touch, OLED, Intel Ultra 5 225H, 16GB RAM, 512GB SSD,…",
+      "retailer": "Very",
+      "price": 584,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Intel Core Ultra 5 225H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14\" FHD+ OLED Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/3wtfA/4914914_1/re/320x320/qt/55/4914914_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-zenbook-14-fhd-touch-oled-intel-ultra-5-225h-16gb-ram-512gb-ssd-win11-laptop-blue-wcode-4914914",
+      "note": "From Very feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Acer Nitro V16 Gaming Laptop - GeForce RTX 5070 - AMD Ryzen 7 - 16GB RAM - 1T…",
+      "retailer": "Very",
+      "price": 1079,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "RTX 5070",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/x5DOr/4914883_1/re/320x320/qt/55/4914883_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/acer-nitro-v16-gaming-laptop-geforce-rtx-5070-amd-ryzen-7-16gb-ram-1tb-16in-wcode-free-cc-4914883",
+      "note": "From Very feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 7 AI 14\" - 2K, OLED, Intel Ultra 5 225U, 16GB, 512GB, Laptop / In…",
       "retailer": "Currys",
@@ -164,7 +198,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core",
+      "gpu": "5-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/J37Sz/4912518_1/re/320x320/qt/55/4912518_1.jpg",
@@ -255,23 +289,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/0soU8/4911318_1/re/320x320/qt/55/4911318_1.jpg",
       "link": "https://www.hotukdeals.com/deals/galaxy-book4-156-i5-8gb-via-perks-at-work-4911318",
       "note": "From Samsung feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Vivobook 15 X1504VA",
-      "retailer": "ASUS",
-      "price": 370,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/kfdBH/4911221_1/re/320x320/qt/55/4911221_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-vivobook-15-x1504va-4911221",
-      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -420,7 +437,7 @@
       "cpu": "Intel N100",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1 Touch",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
