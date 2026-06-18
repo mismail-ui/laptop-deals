@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18 14:09 UTC",
+  "updated": "2026-06-18 17:58 UTC",
   "uk": [
     {
       "model": "Lenovo Legion go 2 Z2 extreme - With code",
@@ -181,7 +181,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/J37Sz/4912518_1/re/320x320/qt/55/4912518_1.jpg",
@@ -214,7 +214,7 @@
       "cpu": "Intel Core Ultra",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
+      "screen": "14\" FHD+",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -451,7 +451,7 @@
       "price": 249,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Intel Celeron N100",
+      "cpu": "Intel N100",
       "ram": "—",
       "storage": "—",
       "screen": "14\" Touch",
@@ -531,10 +531,10 @@
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
-      "model": "HP Omen Max 45L - RTX 5090 GPU, 9800X3D 32GB 1TB 1200W $4259.99",
+      "model": "HP Omen Max 45L - RTX 5090 GPU, 9800X3D 32GB 1TB 1200W $4,119.74 (was $4259.99)",
       "retailer": "HP",
-      "price": 4260,
-      "was": null,
+      "price": 4120,
+      "was": 4259,
       "cat": "Gaming",
       "cpu": "AMD Ryzen 9 9800X3D",
       "ram": "32GB",
@@ -544,7 +544,7 @@
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19642119-hp-omen-max-45l-rtx-5090-gpu-9800x3d-32gb-1tb-1200w-4259-99",
+      "link": "https://slickdeals.net/f/19642119-hp-omen-max-45l-rtx-5090-gpu-9800x3d-32gb-1tb-1200w-4-119-74-was-4259-99",
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
