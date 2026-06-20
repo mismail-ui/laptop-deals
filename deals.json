@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 15:49 UTC",
+  "updated": "2026-06-20 17:25 UTC",
   "uk": [
     {
       "model": "Apple MacBook Air 15 Inch M4 16GB RAM 512GB SSD 2025 - Midnight (10-core GPU)…",
@@ -383,7 +383,7 @@
       "price": 470,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
