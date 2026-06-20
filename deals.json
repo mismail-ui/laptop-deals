@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-20 05:12 UTC",
+  "updated": "2026-06-20 08:53 UTC",
   "uk": [
+    {
+      "model": "Apple MacBook Air 15 Inch M4 16GB RAM 512GB SSD 2025 - Midnight (10-core GPU)…",
+      "retailer": "Costco",
+      "price": 839,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M4",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15\"",
+      "gpu": "10-core GPU",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/ZxHkZ/4916700_1/re/320x320/qt/55/4916700_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-air-15-inch-m4-16gb-ram-512gb-ssd-2025-midnight-10-core-gpu-4916700",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop, M4 chip 15.3-inch Liquid Retina Displa…",
       "retailer": "Amazon",
@@ -214,7 +231,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" WUXGA OLED Touch",
+      "screen": "14\" WUXGA Touch OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -306,23 +323,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/MVRz3/4913184_1/re/320x320/qt/55/4913184_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-neo-13-inch-laptop-512gb-ssd-touch-id-8gb-ram-silver-4913184",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Neo 13-inch Laptop with A18 Pro chip: Liquid Retina Display, 8G…",
-      "retailer": "Amazon",
-      "price": 549,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple A18 Pro",
-      "ram": "8GB",
-      "storage": "256GB",
-      "screen": "13\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/26uT0/4912825_1/re/320x320/qt/55/4912825_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-neo-13-inch-laptop-with-a18-pro-chip-liquid-retina-display-8gb-unified-memory-256gb-ssd-storage-citrusblush-4912825",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -375,23 +375,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1781891437-24c1_omen_avid_17_shadow-black_nt_1-zone_hdcam_nonfpr_hfr_coreset_front_4126115.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-OMEN-Ryzen-AI-7-17-3-RTX-5070-Gaming-Laptop-for-1-500-free-shipping/21843345.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 5 Flip 14\" Core 3 2-in-1 Touch Laptop for $510 + free shipping",
-      "retailer": "HP",
-      "price": 510,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core 3",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2-in-1 Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1781889437-hp-laptop-front-view-55to.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Omni-Book-5-Flip-14-Core-3-2-in-1-Touch-Laptop-for-510-free-shipping/21843341.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
@@ -562,6 +545,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Dell 15 Core 3 100U 15.6\" Laptop for $350 + free shipping",
+      "retailer": "Dell",
+      "price": 350,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 3 100U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1781540939-laptop-dell-dc15250nt-bk-plastic-gallery-1-psd.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/Dell-15-Core-3-100-U-15-6-Laptop-for-350-free-shipping/21840779.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
