@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 00:12 UTC",
+  "updated": "2026-06-20 05:12 UTC",
   "uk": [
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop, M4 chip 15.3-inch Liquid Retina Displa…",
@@ -395,40 +395,6 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo Yoga 7a Ryzen AI 5 430 14\" 2K Touch Laptop for $800 + free shipping",
-      "retailer": "Lenovo",
-      "price": 800,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 5 430",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2K Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1781870734-lenovo-laptop-amd-ryzen-5-prid.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-a-Ryzen-AI-5-430-14-2-K-Touch-Laptop/499562.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 3 Ultra 5 16\" 2K Touch Laptop (2025) for $520 + free shipping",
-      "retailer": "HP",
-      "price": 520,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\" 2K Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1781869499-hp-laptop-intel-core-ultra-5-hpn9.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Ultra-5-16-2-K-Touch-Laptop-2025/499560.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
       "model": "Lenovo IdeaPad Slim 3i 13th-Gen. i5 15.6\" Laptop for $470 + free shipping",
       "retailer": "Lenovo",
       "price": 470,
@@ -582,21 +548,21 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Acer Swift Go 16 AI (2026): 16\" FHD+ IPS 120Hz Touch, Ryzen AI 7 445, 16GB LP…",
-      "retailer": "Acer",
+      "model": "Dell 16 Plus Core Ultra 5 226V 16\" Laptop w/ 16GB RAM for $800 + free shipping",
+      "retailer": "Dell",
       "price": 800,
       "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 7 445",
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 5 226V",
       "ram": "16GB",
-      "storage": "1TB",
-      "screen": "16\" FHD+ IPS 120Hz Touch",
+      "storage": "—",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19648971-acer-swift-go-16-ai-2026-16-fhd-ips-120hz-touch-ryzen-ai-7-445-16gb-lpddr5-1tb-ssd-799-99",
-      "note": "From Acer feed — confirm spec on retailer site"
+      "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + free shipping",
