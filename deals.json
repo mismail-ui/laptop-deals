@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-21 11:47 UTC",
+  "updated": "2026-06-21 14:07 UTC",
   "uk": [
+    {
+      "model": "Lenovo Legion Tab 3rd Gen - 8.8\" 2.5K (2560x1600), 12GB RAM, 256GB UFS, Andro…",
+      "retailer": "Lenovo",
+      "price": 315,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "12GB",
+      "storage": "256GB",
+      "screen": "8.8\" 2.5K",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/9PBbt/4917364_1/re/320x320/qt/55/4917364_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lenovo-legion-tab-3rd-gen-88-25k-2560x1600-12gb-ram-256gb-ufs-android-14-eclipse-black-tab-via-unidays-wcode-4917364",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple - MacBook Air 15inch (M4) -10-core CPU/ 10-core GPU -16GB/512GB - Sky B…",
       "retailer": "Joybuy",
@@ -248,7 +265,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" WUXGA OLED Touch",
+      "screen": "14\" OLED Touch WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -322,23 +339,6 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/7K9UM/4914009_1/re/320x320/qt/55/4914009_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-neo-13-inch-laptop-with-a18-pro-chip-8gb-unified-memory-512gb-ssd-storage-touch-id-silver-prime-members-price-4914009",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Neo A18, 512GB SSD, Touch ID, 8GB RAM 13-inch Laptop - Silver",
-      "retailer": "Amazon",
-      "price": 630,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple A18",
-      "ram": "8GB",
-      "storage": "512GB",
-      "screen": "13\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/MVRz3/4913184_1/re/320x320/qt/55/4913184_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-neo-13-inch-laptop-512gb-ssd-touch-id-8gb-ram-silver-4913184",
       "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
