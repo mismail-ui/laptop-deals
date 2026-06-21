@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 16:44 UTC",
+  "updated": "2026-06-21 18:18 UTC",
   "uk": [
     {
       "model": "Lenovo Legion Tab 3rd Gen - 8.8\" 2.5K (2560x1600), 12GB RAM, 256GB UFS, Andro…",
@@ -112,7 +112,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "34\" QHD OLED",
+      "screen": "34\" OLED QHD 240Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -265,7 +265,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" OLED Touch",
+      "screen": "14\" WUXGA Touch OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -437,7 +437,7 @@
       "cpu": "Ryzen 7 250",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
