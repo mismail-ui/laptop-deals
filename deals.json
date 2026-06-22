@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22 00:10 UTC",
+  "updated": "2026-06-22 06:28 UTC",
   "uk": [
     {
       "model": "LENOVO Yoga Slim laptop 7 14.5\" 3K OLED Screen, 16GB Ram, Snapdragon X Plus, …",
@@ -129,7 +129,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "34\" OLED QHD 240Hz",
+      "screen": "34\" OLED 1440p 240Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -282,7 +282,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" OLED WUXGA Touch",
+      "screen": "14\" WUXGA OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -417,7 +417,7 @@
       "price": 470,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -468,7 +468,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -597,6 +597,23 @@
       "img": "https://d.dlnws.com/64599/1781540939-laptop-dell-dc15250nt-bk-plastic-gallery-1-psd.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-15-Core-3-100-U-15-6-Laptop-for-350-free-shipping/21840779.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "OMEN MAX 45L Gaming Desktop PC: Ryzen 7 9700X, RTX 5090, 32GB DDR5, 1TB SSD, …",
+      "retailer": "Slickdeals",
+      "price": 4072,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7 9700X",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "—",
+      "gpu": "RTX 5090",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19647657-omen-max-45l-gaming-desktop-pc-ryzen-7-9700x-rtx-5090-32gb-ddr5-1tb-ssd-1200w-4072-49",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + free shipping",
