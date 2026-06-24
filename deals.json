@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-24 20:47 UTC",
+  "updated": "2026-06-24 22:15 UTC",
   "uk": [
+    {
+      "model": "KRCS Special Sales Event - Save 10% on Any Mac - Get the MacBook Neo from £53…",
+      "retailer": "KRCS",
+      "price": 539,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/QAANQ/4921180_1/re/320x320/qt/55/4921180_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/krcs-special-sales-event-save-10-on-any-mac-get-the-macbook-neo-from-ps539-macbook-air-from-ps989-inc-free-2-year-warranty-4921180",
+      "note": "From KRCS feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple MacBook Pro, Apple M4 Max Chip 16-Core CPU, 40-Core GPU, 48GB RAM, 1TB …",
       "retailer": "Costco",
@@ -369,7 +386,7 @@
       "storage": "—",
       "screen": "—",
       "gpu": "—",
-      "battery": "—",
+      "battery": "25000mAh",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/3tlJr/4919330_1/re/320x320/qt/55/4919330_1.jpg",
       "link": "https://www.hotukdeals.com/deals/cuktech-20-3-port-power-bank-25000mah-140w-usb-c1-portable-laptop-charger-pd-31-pps-qc5-dcp-sfc2-sfc3-4919330",
@@ -391,23 +408,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/AtaBe/4919150_1/re/320x320/qt/55/4919150_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-156-laptop-amd-ryzen-3-7320u-processor-15-fc0045sa-4919150",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Air 13.6\" (2025) - M4, 512GB SSD, RAM 16GB - Silver / Midnight …",
-      "retailer": "Currys",
-      "price": 799,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M4",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "13.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/MdRTQ/4919073_1/re/320x320/qt/55/4919073_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-16-gb-silver-midnight-4919073",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -437,7 +437,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "1TB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -621,7 +621,7 @@
       "price": 149,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Intel Celeron N4500",
+      "cpu": "Intel N4500",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
