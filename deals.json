@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 19:58 UTC",
+  "updated": "2026-06-25 21:48 UTC",
   "uk": [
     {
       "model": "Apple 14\" MacBook Pro, M5 Pro, 48GB RAM, 16 Core GPU, 1TB, 2026",
@@ -19,16 +19,16 @@
       "note": "From ao feed — confirm spec on retailer site"
     },
     {
-      "model": "ASUS TUF A16 FA608UMI 16.0\" WUXGA 165Hz Gaming Laptop Prime Deal",
+      "model": "ASUS TUF A16 FA608UMI 16.0\" WUXGA 165Hz RYZEN 7 NVIDIA RTX5060 Gaming Laptop …",
       "retailer": "Amazon",
       "price": 930,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "RYZEN 7 NVIDIA",
       "ram": "—",
       "storage": "—",
       "screen": "16\" WUXGA 165Hz",
-      "gpu": "—",
+      "gpu": "RTX5060",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/JSYYA/4922133_1/re/320x320/qt/55/4922133_1.jpg",
@@ -299,7 +299,7 @@
       "cpu": "Core Ultra 7 255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED Touchscreen",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -367,7 +367,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA 1200p",
+      "screen": "16\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -411,6 +411,40 @@
     }
   ],
   "us": [
+    {
+      "model": "Acer Nitro V 16S AI AMD Ryzen 7 260 16\" Gaming Laptop w/ NVIDIA GeForce RTX 5…",
+      "retailer": "Acer",
+      "price": 1100,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7 260",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" —",
+      "gpu": "RTX 5060",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1782420080-71hhf2junpl.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Acer/Acer-Nitro-V-16-S-AI-AMD-Ryzen-7-260-16-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5060/501545.html?iref=rss-c49",
+      "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Dell 16 Ryzen 7 16\" Laptop for $600 w/ Prime + free shipping",
+      "retailer": "Dell",
+      "price": 600,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 7 16",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" —",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1782418229-719zdjmdwal.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Dell/Dell-16-Ryzen-7-16-Laptop/501543.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
     {
       "model": "HP 4th of July Laptop Sale for Up to 65% off, deals from $400 + free shipping",
       "retailer": "HP",
@@ -468,7 +502,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\" —",
@@ -616,6 +650,23 @@
       "note": "From Acer feed — confirm spec on retailer site"
     },
     {
+      "model": "$1149 | Apple MacBook Air 15.3\" Laptop (2026): M5 10-Core Chip, 16GB RAM, 512…",
+      "retailer": "Amazon",
+      "price": 1149,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.3\" —",
+      "gpu": "10-Core GPU",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19684356-1149-apple-macbook-air-15-3-laptop-2026-m5-10-core-chip-16gb-ram-512gb-ssd-at-amazon",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
+    {
       "model": "eBay Summer Laptop Deals: Up to 65% off + extra 20% off + free shipping",
       "retailer": "dealnews",
       "price": null,
@@ -631,23 +682,6 @@
       "img": "https://d.dlnws.com/64599/1782235105-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/eBay-Summer-Laptop-Deals-Up-to-65-off-extra-20-off-free-shipping/21851356.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Amazon Prime Day Laptop Deals: Up to 70% off w/ Prime + free shipping",
-      "retailer": "Amazon",
-      "price": null,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782220180-hp-17-inch-laptop-intel-i7-windows-11-pro-ydqa.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/Amazon-Prime-Day-Laptop-Deals-Up-to-70-off-w-Prime-free-shipping/21851143.html?iref=rss-c49",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ]
 }
