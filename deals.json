@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-25 11:46 UTC",
+  "updated": "2026-06-25 14:29 UTC",
   "uk": [
+    {
+      "model": "Dell 16 Plus Laptop - Intel Core Ultra 7 256V, 16GB, 512GB storage, 16\" IPS d…",
+      "retailer": "Dell",
+      "price": 599,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 256V",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\" IPS",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/8065r/4921864_1/re/320x320/qt/55/4921864_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/dell-16-plus-laptop-intel-core-ultra-7-256v-16gb-512gb-storage-16-ips-display-4921864",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad 1 15\"Full HD Laptop AMD Ryzen 5 7520U 16GB RAM 512GB SSD Windo…",
       "retailer": "Amazon",
@@ -44,7 +61,7 @@
       "cpu": "Ryzen 7 5825U",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "15.6\"",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
@@ -160,7 +177,7 @@
       "price": 1970,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro (15-Core)",
+      "cpu": "Apple M5 Pro (15-Core CPU)",
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -214,7 +231,7 @@
       "cpu": "Core Ultra 7 255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED Touchscreen",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -391,13 +408,15 @@
       "img": "https://images.hotukdeals.com/threads/raw/EOHo6/4919653_1/re/320x320/qt/55/4919653_1.jpg",
       "link": "https://www.hotukdeals.com/deals/dell-16-laptop-dc16255-16-inch-2k-1920x1200-amd-ryzen-7-250-amd-radeon-graphics-16gb-ddr5-ram-1tb-4919653",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
+    }
+  ],
+  "us": [
     {
-      "model": "ASUS TUF GAMING Z890-PLUS WIFI Intel ATX motherboard - Prime Exclusive",
-      "retailer": "Amazon",
-      "price": 187,
+      "model": "HP 4th of July Laptop Sale for Up to 65% off, deals from $400 + free shipping",
+      "retailer": "HP",
+      "price": 400,
       "was": null,
-      "cat": "Gaming",
+      "cat": "Windows laptop",
       "cpu": "—",
       "ram": "—",
       "storage": "—",
@@ -405,12 +424,10 @@
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/Unaqn/4919571_1/re/320x320/qt/55/4919571_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-z890-plus-wifi-intel-atx-motherboard-prime-exclusive-4919571",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    }
-  ],
-  "us": [
+      "img": "https://d.dlnws.com/64599/1782395283-c07044502.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-4-th-of-July-Laptop-Sale-for-Up-to-65-off-deals-from-400-free-shipping/21853147.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS CX14 14\" Chromebook Laptop for $179 + free shipping",
       "retailer": "ASUS",
@@ -597,23 +614,6 @@
       "img": "https://d.dlnws.com/64599/1782231475-76675617-189a-472e-8c86-a518156d6d3b-a505c5bb8400eb932de2c22f6d77ad63.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-315-N4500-15-6-Laptop/353336.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Dell Inspiron 14 7440 13th-Gen. i5 2-in-1 14\" Laptop for $510 + free shipping",
-      "retailer": "Dell",
-      "price": 510,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2-in-1",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782210837-in7440-xtb-05030rf105-ice-bl-fpr.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Dell/Dell-Inspiron-14-7440-13-th-Gen-i5-2-in-1-14-Laptop/501127.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
     },
     {
       "model": "eBay Summer Laptop Deals: Up to 65% off + extra 20% off + free shipping",
