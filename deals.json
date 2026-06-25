@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 05:03 UTC",
+  "updated": "2026-06-25 08:58 UTC",
   "uk": [
     {
       "model": "KRCS Special Sales Event - Save 10% on Any Mac - Get the MacBook Neo from £53…",
@@ -437,7 +437,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "1TB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -451,7 +451,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -531,40 +531,6 @@
       "note": "From Walmart feed — confirm spec on retailer site"
     },
     {
-      "model": "Dell 13th-Gen. i5 15.6\" Touch Laptop for $450 + free shipping",
-      "retailer": "Dell",
-      "price": 450,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\" Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1775210794-dell-laptop-front-view-xvy7.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Dell/Dell-13-th-Gen-i5-15-6-Touch-Laptop/498161.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "MSI Thin A15 Ryzen 5 15.6\" Gaming Laptop for $740 + free shipping",
-      "retailer": "dealnews",
-      "price": 740,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 5 15",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782285301-msi-gaming-laptop-front-view-n5ox.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/MSI/MSI-Thin-A15-Ryzen-5-15-6-Gaming-Laptop/501208.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
       "model": "Dell 16 Plus Core Ultra 5 226V 16\" Laptop w/ 16GB RAM for $600 + free shipping",
       "retailer": "Dell",
       "price": 600,
@@ -631,6 +597,23 @@
       "img": "https://d.dlnws.com/64599/1782231475-76675617-189a-472e-8c86-a518156d6d3b-a505c5bb8400eb932de2c22f6d77ad63.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-315-N4500-15-6-Laptop/353336.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Dell Inspiron 14 7440 13th-Gen. i5 2-in-1 14\" Laptop for $510 + free shipping",
+      "retailer": "Dell",
+      "price": 510,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core i5 (13th-Gen)",
+      "ram": "—",
+      "storage": "—",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1782210837-in7440-xtb-05030rf105-ice-bl-fpr.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Dell/Dell-Inspiron-14-7440-13-th-Gen-i5-2-in-1-14-Laptop/501127.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
     },
     {
       "model": "eBay Summer Laptop Deals: Up to 65% off + extra 20% off + free shipping",
