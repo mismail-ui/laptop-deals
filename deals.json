@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 22:15 UTC",
+  "updated": "2026-06-25 00:11 UTC",
   "uk": [
     {
       "model": "KRCS Special Sales Event - Save 10% on Any Mac - Get the MacBook Neo from £53…",
@@ -437,7 +437,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "1TB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -451,7 +451,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -536,7 +536,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1782231475-76675617-189a-472e-8c86-a518156d6d3b-a505c5bb8400eb932de2c22f6d77ad63.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-315-N4500-15-6-Laptop/353336.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Muscletech Whey Protein Powder 5 Pounds Nitro-Tech Whey Protein Isolate $49 S…",
-      "retailer": "Amazon",
-      "price": 49,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19676394-muscletech-whey-protein-powder-5-pounds-nitro-tech-whey-protein-isolate-49-s-s-amazon",
-      "note": "From Amazon feed — confirm spec on retailer site"
     },
     {
       "model": "eBay Summer Laptop Deals: Up to 65% off + extra 20% off + free shipping",
