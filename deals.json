@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 00:11 UTC",
+  "updated": "2026-06-25 05:03 UTC",
   "uk": [
     {
       "model": "KRCS Special Sales Event - Save 10% on Any Mac - Get the MacBook Neo from £53…",
@@ -437,7 +437,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "1TB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -621,7 +621,7 @@
       "price": 149,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Intel N4500",
+      "cpu": "Intel Celeron N4500",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
