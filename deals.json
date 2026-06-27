@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-27 07:48 UTC",
+  "updated": "2026-06-27 10:06 UTC",
   "uk": [
+    {
+      "model": "Apple 13.6\" MacBook 24 GB RAM 1TB M5 macOS - Starlight 13.6 Inches with code.…",
+      "retailer": "eBay",
+      "price": 1270,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "24GB",
+      "storage": "1TB",
+      "screen": "13.6\" Retina",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/IiFFs/4923409_1/re/320x320/qt/55/4923409_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/13-macbook-air-2026-m5-24-gb-ram-1-tb-ssd-starlight-via-ao-4923409",
+      "note": "From eBay feed — confirm spec on retailer site"
+    },
     {
       "model": "New Midnight 2026 Macbook Air M5 13.6\" - 16GB RAM 512GB Storage - W/Code - So…",
       "retailer": "eBay",
@@ -10,7 +27,7 @@
       "cpu": "Apple M5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13.6\" Liquid Retina",
+      "screen": "13.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -255,23 +272,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/8065r/4921864_1/re/320x320/qt/55/4921864_1.jpg",
       "link": "https://www.hotukdeals.com/deals/dell-16-plus-laptop-intel-core-ultra-7-256v-16gb-512gb-storage-16-ips-display-4921864",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "LG gram 15Z80T (Excl.)- 15.6\" FHD IPS Ultra-Light Laptop, AMD Ryzen AI 7 350,…",
-      "retailer": "Amazon",
-      "price": 530,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 7 350",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "15.6\" FHD IPS",
-      "gpu": "RADEON 860M",
-      "battery": "—",
-      "weight": "Ultra-light",
-      "img": "https://images.hotukdeals.com/threads/raw/ccgXo/4921642_1/re/320x320/qt/55/4921642_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lg-gram-15z80t-excl-156-fhd-ips-ultra-light-laptop-amd-ryzen-ai-7-350-radeon-860m-gpu-16gb-ram-512gb-ssd-copilot-pc-windows-11-4921642",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -512,23 +512,6 @@
       "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "eBay Summer Laptop Deals: Up to 65% off + extra 20% off + free shipping",
-      "retailer": "dealnews",
-      "price": null,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782235105-product-trimmed.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/eBay-Summer-Laptop-Deals-Up-to-65-off-extra-20-off-free-shipping/21851356.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     }
   ]
 }
