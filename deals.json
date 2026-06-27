@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-27 10:06 UTC",
+  "updated": "2026-06-27 12:08 UTC",
   "uk": [
+    {
+      "model": "Apple MacBook Pro M5 10core CPU 10core GPU 16GB RAM 512GB SSD 14.2\" MacOS Tah…",
+      "retailer": "Box.co.uk",
+      "price": 1239,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14.2\"",
+      "gpu": "10-core GPU",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-m5-10core-cpu-10core-gpu-16gb-ram-512gb-ssd-142-macos-tahoe-wcode-4923528",
+      "note": "From Box.co.uk feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple 13.6\" MacBook 24 GB RAM 1TB M5 macOS - Starlight 13.6 Inches with code.…",
       "retailer": "eBay",
@@ -10,7 +27,7 @@
       "cpu": "Apple M5",
       "ram": "24GB",
       "storage": "1TB",
-      "screen": "13.6\" Retina",
+      "screen": "13.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -78,7 +95,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD Touchscreen",
+      "screen": "13\" LCD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -95,7 +112,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" WUXGA OLED Touch",
+      "screen": "14\" WUXGA OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -281,7 +298,7 @@
       "price": 650,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 150U",
+      "cpu": "Intel Core Ultra 7 150U",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -417,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -512,6 +529,23 @@
       "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "AAFES Apple MacBook Air 15 in. 16GB RAM 1TB SSD with M5 Chip $1299",
+      "retailer": "Slickdeals",
+      "price": 1299,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "15\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19688916-aafes-apple-macbook-air-15-in-16gb-ram-1tb-ssd-with-m5-chip-1299",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
