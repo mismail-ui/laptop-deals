@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27 12:08 UTC",
+  "updated": "2026-06-27 14:28 UTC",
   "uk": [
     {
       "model": "Apple MacBook Pro M5 10core CPU 10core GPU 16GB RAM 512GB SSD 14.2\" MacOS Tah…",
@@ -95,7 +95,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD",
+      "screen": "13\" LCD Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -112,7 +112,7 @@
       "cpu": "Intel Core Ultra 5 225H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" WUXGA OLED",
+      "screen": "14\" WUXGA OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -514,38 +514,21 @@
       "note": "From Walmart feed — confirm spec on retailer site"
     },
     {
-      "model": "Dell 16 Plus Core Ultra 5 226V 16\" Laptop w/ 16GB RAM for $600 + free shipping",
-      "retailer": "Dell",
-      "price": 600,
+      "model": "Newegg Laptop Clearance at eBay: Up to 55% off + extra 20% off select items +…",
+      "retailer": "Newegg",
+      "price": null,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Core Ultra 5 226V",
-      "ram": "16GB",
+      "cpu": "—",
+      "ram": "—",
       "storage": "—",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "AAFES Apple MacBook Air 15 in. 16GB RAM 1TB SSD with M5 Chip $1299",
-      "retailer": "Slickdeals",
-      "price": 1299,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "15\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19688916-aafes-apple-macbook-air-15-in-16gb-ram-1tb-ssd-with-m5-chip-1299",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
+      "img": "https://d.dlnws.com/64599/1781363746-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/Newegg-Laptop-Clearance-at-eBay-Up-to-55-off-extra-20-off-select-items-free-shipping/21858074.html?iref=rss-c49",
+      "note": "From Newegg feed — confirm spec on retailer site"
     }
   ]
 }
