@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28 17:09 UTC",
+  "updated": "2026-06-28 19:17 UTC",
   "uk": [
     {
       "model": "HP OmniBook 5 16\" Laptop, Snapdragon X, 16GB, 512GB",
@@ -130,7 +130,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14.2\"",
-      "gpu": "10-core GPU",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
