@@ -1,6 +1,23 @@
 {
-  "updated": "2026-06-28 13:42 UTC",
+  "updated": "2026-06-28 15:16 UTC",
   "uk": [
+    {
+      "model": "HP OmniBook 5 16\" Laptop, Snapdragon X, 16GB, 512GB",
+      "retailer": "HP",
+      "price": 599,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Snapdragon X",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/1uH25/4924127_1/re/320x320/qt/55/4924127_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-omnibook-5-16-laptop-snapdragon-x-16gb-512gb-4924127",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple MacBook Pro 14.2-inch Base M5 chip, 24GB Unified Memory, 1TB SSD Storag…",
       "retailer": "Amazon",
@@ -44,7 +61,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 3K OLED 120Hz dual-touchscreen",
+      "screen": "14\" OLED 120Hz dual-touchscreen 3K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -62,7 +79,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "NVIDIA GeForce NOW",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -113,7 +130,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14.2\"",
-      "gpu": "10-core GPU",
+      "gpu": "M5 10-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
@@ -272,23 +289,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/zEZz0/4922491_1/re/320x320/qt/55/4922491_1.jpg",
       "link": "https://www.hotukdeals.com/deals/macbook-air-m5-24gb-ram-1tb-storage-midnight-black-4922491",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS TUF Gaming A16 - FHD+, 144Hz, 16:10, | AMD R7 170 | RTX 4050 | 16GB RAM …",
-      "retailer": "Amazon",
-      "price": 599,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "AMD Ryzen 7 170",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "16\" FHD+ 144Hz",
-      "gpu": "RTX 4050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/J1mEB/4922438_1/re/320x320/qt/55/4922438_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-a16-fhd-144hz-1610-amd-r7-170-rtx-4050-16gb-ram-512gb-ssd-windows-11-laptop-prime-deal-4922438",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
