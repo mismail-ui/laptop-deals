@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 21:25 UTC",
+  "updated": "2026-06-29 22:55 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -147,7 +147,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "—",
+      "gpu": "NVIDIA GeForce NOW",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -198,7 +198,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14.2\"",
-      "gpu": "10-core GPU",
+      "gpu": "M5 10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
@@ -497,20 +497,20 @@
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
-      "model": "Very YMMV: Open Boxes: LG gram Max: 17\" QHD+ IPS Touch, Intel Ultra 7 355, 32…",
+      "model": "THUNDEROBOT ZERO 16 PRO Gaming Laptop: 16\" 2.5K IPS 360Hz, Intel Ultra 9 275H…",
       "retailer": "Slickdeals",
-      "price": 850,
+      "price": 1769,
       "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Intel Ultra 7 355",
+      "cat": "Gaming",
+      "cpu": "Intel Ultra 9 275H",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "17\" QHD+ IPS Touch",
-      "gpu": "—",
+      "screen": "16\" 2.5K IPS 360Hz",
+      "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19701456-very-ymmv-open-boxes-lg-gram-max-17-qhd-ips-touch-intel-ultra-7-355-32gb-lpddr5-1tb-ssd-849-99",
+      "link": "https://slickdeals.net/f/19701627-thunderobot-zero-16-pro-gaming-laptop-16-2-5k-ips-360hz-intel-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-1768-99",
       "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
