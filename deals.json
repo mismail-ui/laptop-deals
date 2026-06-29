@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 17:35 UTC",
+  "updated": "2026-06-29 19:54 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -112,7 +112,7 @@
       "cpu": "Ryzen 7 260",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA 165Hz",
+      "screen": "WUXGA 165Hz",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -129,7 +129,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K dual OLED",
+      "screen": "14\" 120Hz 3K OLED dual-touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -147,7 +147,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "—",
+      "gpu": "NVIDIA GeForce NOW",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD",
+      "screen": "13\" LCD touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -495,6 +495,23 @@
       "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Acer Swift Go 16 AI: 16â FHD+ OLED Touch, Intel Ultra 7 355, 32GB LPDDR5, 1…",
+      "retailer": "Acer",
+      "price": 900,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Intel Core Ultra 7 355",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\" FHD+ OLED touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19698894-acer-swift-go-16-ai-16-fhd-oled-touch-intel-ultra-7-355-32gb-lpddr5-1tb-ssd-899-99",
+      "note": "From Acer feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + extra 20% off select items +…",
