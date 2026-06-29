@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 19:54 UTC",
+  "updated": "2026-06-29 21:25 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -129,7 +129,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K OLED dual-touch",
+      "screen": "14\" 120Hz 3K dual OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -147,7 +147,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "NVIDIA GeForce NOW",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD touchscreen",
+      "screen": "13\" LCD Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -497,21 +497,21 @@
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
-      "model": "Acer Swift Go 16 AI: 16â FHD+ OLED Touch, Intel Ultra 7 355, 32GB LPDDR5, 1…",
-      "retailer": "Acer",
-      "price": 900,
+      "model": "Very YMMV: Open Boxes: LG gram Max: 17\" QHD+ IPS Touch, Intel Ultra 7 355, 32…",
+      "retailer": "Slickdeals",
+      "price": 850,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 7 355",
+      "cpu": "Intel Ultra 7 355",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\" FHD+ OLED touch",
+      "screen": "17\" QHD+ IPS Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19698894-acer-swift-go-16-ai-16-fhd-oled-touch-intel-ultra-7-355-32gb-lpddr5-1tb-ssd-899-99",
-      "note": "From Acer feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19701456-very-ymmv-open-boxes-lg-gram-max-17-qhd-ips-touch-intel-ultra-7-355-32gb-lpddr5-1tb-ssd-849-99",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + extra 20% off select items +…",
