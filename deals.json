@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 00:03 UTC",
+  "updated": "2026-06-30 05:01 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -129,7 +129,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K dual-touchscreen OLED",
+      "screen": "14\" 120Hz 3K OLED dual-touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD Touchscreen",
+      "screen": "13\" LCD touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -417,7 +417,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -495,23 +495,6 @@
       "img": "https://d.dlnws.com/64599/1768990969-microsoft-surface-laptop-front-view-zyge.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-16-Plus-Core-Ultra-5-226-V-16-Laptop-w-16-GB-RAM/497372.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "THUNDEROBOT ZERO 16 PRO Gaming Laptop: 16\" 2.5K IPS 360Hz, Intel Ultra 9 275H…",
-      "retailer": "Slickdeals",
-      "price": 1769,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Ultra 9 275H",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "16\" 2.5K IPS 360Hz",
-      "gpu": "RTX 5070",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19701627-thunderobot-zero-16-pro-gaming-laptop-16-2-5k-ips-360hz-intel-ultra-9-275hx-rtx-5070-ti-32gb-ddr5-1tb-ssd-1768-99",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + extra 20% off select items +…",
