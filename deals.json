@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 05:01 UTC",
+  "updated": "2026-06-30 09:31 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -112,7 +112,7 @@
       "cpu": "Ryzen 7 260",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "WUXGA 165Hz",
+      "screen": "16\" WUXGA 165Hz",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -129,7 +129,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K OLED dual-touchscreen",
+      "screen": "14\" 3K OLED 120Hz dual-touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -147,7 +147,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "—",
+      "gpu": "NVIDIA GeForce NOW",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13\" LCD touchscreen",
+      "screen": "13\" LCD Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
