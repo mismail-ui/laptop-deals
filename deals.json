@@ -1,6 +1,40 @@
 {
-  "updated": "2026-06-30 19:53 UTC",
+  "updated": "2026-06-30 21:26 UTC",
   "uk": [
+    {
+      "model": "Macbook Air 2025 15inch M4 with 16GB and 1TB SSD - Discount at Checkout",
+      "retailer": "Costco",
+      "price": 1099,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M4",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "15\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/Uylpt/4925881_1/re/320x320/qt/55/4925881_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/macbook-air-2025-15inch-m4-with-16gb-and-1tb-ssd-4925881",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP 15.6\" Laptop | Intel Core 5 120U Processor | 16 GB RAM | 512 GB SSD | Inte…",
+      "retailer": "Amazon",
+      "price": 370,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 5 120U",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.6\"",
+      "gpu": "Intel Integrated",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/1yxwq/4925846_1/re/320x320/qt/55/4925846_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-156-laptop-intel-core-5-120u-processor-16-gb-ram-512-gb-ssd-intel-graphics-fhd-anti-glare-display-windows-11-home-4925846",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Dell Alienware 16 Aurora - Intel Core 7 240H, 16GB RAM, 1TB SSD, NVIDIA RTX 5…",
       "retailer": "Dell",
@@ -10,7 +44,7 @@
       "cpu": "Intel Core 7 240H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -272,23 +306,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/AZl4Y/4923670_1/re/320x320/qt/55/4923670_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-a16-fa607nuq-gaming-laptop-156-full-hd-144hz-screen-amd-ryzen-7-170-nvidia-geforce-rtx-4050-16gb-ram-512gb-ssd-4923670",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro M5 10core CPU 10core GPU 16GB RAM 512GB SSD 14.2\" MacOS Tah…",
-      "retailer": "Box.co.uk",
-      "price": 1239,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14.2\"",
-      "gpu": "10-core GPU",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-m5-10core-cpu-10core-gpu-16gb-ram-512gb-ssd-142-macos-tahoe-wcode-4923528",
-      "note": "From Box.co.uk feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -417,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5-13th Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -478,23 +495,6 @@
       "img": "https://d.dlnws.com/64599/1782308877-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Omni-Book-3-Ryzen-3-30-17-3-Laptop-for-400-w-Prime-free-shipping/21851864.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS TUF Gaming A16 Ryzen 7 170 16\" Laptop w/ NVIDIA GeForce RTX 4050 for $79…",
-      "retailer": "ASUS",
-      "price": 799,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 170",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "RTX 4050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782232755-asus-tuf-gaming-a16-gaming-laptop-16-wuxga-144hz-display-amd-ryzen-7-170-nvidia-geforce-rtx-4050-16g.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/ASUS-TUF-Gaming-A16-Ryzen-7-170-16-Laptop-w-NVIDIA-Ge-Force-RTX-4050-for-799-free-shipping/21851322.html?iref=rss-c49",
-      "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
       "model": "Newegg Laptop Clearance at eBay: Up to 55% off + extra 20% off select items +…",
