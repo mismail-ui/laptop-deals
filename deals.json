@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 22:55 UTC",
+  "updated": "2026-06-30 00:03 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL Copilot+ PC Laptop | 14\" Full HD+ OLED Screen…",
@@ -129,7 +129,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K dual OLED",
+      "screen": "14\" 120Hz 3K dual-touchscreen OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -147,7 +147,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "NVIDIA GeForce NOW",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/p6Tjg/4923814_1/re/320x320/qt/55/4923814_1.jpg",
@@ -198,7 +198,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14.2\"",
-      "gpu": "M5 10-core GPU",
+      "gpu": "10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/6VyRp/4923528_1/re/320x320/qt/55/4923528_1.jpg",
@@ -417,7 +417,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
