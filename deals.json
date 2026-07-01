@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 19:52 UTC",
+  "updated": "2026-07-01 21:26 UTC",
   "uk": [
     {
       "model": "Integral 32GB DDR4 RAM 3200MHz SODIMM Laptop Notebook MacBook Memory Module",
@@ -61,7 +61,7 @@
       "cpu": "Intel Core 7 240H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -265,7 +265,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K Dual OLED",
+      "screen": "14\" 120Hz 3K OLED Dual",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
