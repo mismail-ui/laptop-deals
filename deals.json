@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 17:53 UTC",
+  "updated": "2026-07-01 19:52 UTC",
   "uk": [
     {
       "model": "Integral 32GB DDR4 RAM 3200MHz SODIMM Laptop Notebook MacBook Memory Module",
@@ -45,7 +45,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
-      "gpu": "—",
+      "gpu": "Intel Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1yxwq/4925846_1/re/320x320/qt/55/4925846_1.jpg",
@@ -180,7 +180,7 @@
       "cpu": "Snapdragon X1",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" WUXGA 1920x1200 OLED",
+      "screen": "14\" WUXGA OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -232,7 +232,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14.2\"",
-      "gpu": "—",
+      "gpu": "Apple Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/ZdKbl/4923998_1/re/320x320/qt/55/4923998_1.jpg",
@@ -265,7 +265,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "2TB",
-      "screen": "14\" 120Hz 3K dual-touchscreen OLED",
+      "screen": "14\" 120Hz 3K Dual OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -275,6 +275,23 @@
     }
   ],
   "us": [
+    {
+      "model": "Dell 14 Core 7 150U 14\" Laptop for $700 + free shipping",
+      "retailer": "Dell",
+      "price": 700,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 7 150U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1782929238-laptop-dc14250nt-fpr-plastic-intel-sl-gallery-1-psd-2.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/Dell-14-Core-7-150-U-14-Laptop-for-700-free-shipping/21866827.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad Slim 3i 13th-Gen. i5 15.6\" Laptop for $450 + free shipping",
       "retailer": "Lenovo",
@@ -301,7 +318,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "2K Touch",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
