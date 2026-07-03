@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 17:23 UTC",
+  "updated": "2026-07-03 19:19 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook 14 OLED 14\" WUXGA Touch Ultra 9-285H 32GB RAM 1TB SSD Laptop wit…",
@@ -62,7 +62,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "—",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/LcxOj/4927073_1/re/320x320/qt/55/4927073_1.jpg",
@@ -198,7 +198,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
-      "gpu": "Intel",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1yxwq/4925846_1/re/320x320/qt/55/4925846_1.jpg",
@@ -383,7 +383,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -519,7 +519,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
