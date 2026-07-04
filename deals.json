@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04 20:55 UTC",
+  "updated": "2026-07-04 21:57 UTC",
   "uk": [
     {
       "model": "Kindle Scribe (2022 release) - 16 GB, the first Kindle and digital notebook, …",
@@ -9,7 +9,7 @@
       "cat": "Windows laptop",
       "cpu": "—",
       "ram": "16GB",
-      "storage": "16GB",
+      "storage": "—",
       "screen": "—",
       "gpu": "—",
       "battery": "—",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X 16GB",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" FHD+ IPS 120Hz",
+      "screen": "14\" FHD+ 120Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -570,7 +570,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
