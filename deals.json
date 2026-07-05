@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 02:54 UTC",
+  "updated": "2026-07-05 06:39 UTC",
   "uk": [
     {
       "model": "Kindle Scribe (2022 release) - 16 GB, the first Kindle and digital notebook, …",
@@ -10,7 +10,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "16GB",
-      "screen": "10.2\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -146,7 +146,7 @@
       "cpu": "Intel Core Ultra 9 285H",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "14\" WUXGA OLED Touch",
+      "screen": "14\" WUXGA OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -570,7 +570,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
