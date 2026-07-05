@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 09:41 UTC",
+  "updated": "2026-07-05 11:28 UTC",
   "uk": [
     {
       "model": "Kindle Scribe (2022 release) - 16 GB, the first Kindle and digital notebook, …",
@@ -9,7 +9,7 @@
       "cat": "Windows laptop",
       "cpu": "—",
       "ram": "16GB",
-      "storage": "16GB",
+      "storage": "—",
       "screen": "—",
       "gpu": "—",
       "battery": "—",
@@ -143,7 +143,7 @@
       "price": 849,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 9-285H",
+      "cpu": "Intel Ultra 9-285H",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\" WUXGA OLED Touch",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -570,7 +570,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1782308877-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Omni-Book-3-Ryzen-3-30-17-3-Laptop-for-400-w-Prime-free-shipping/21851864.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS ROG GM700 Gaming Desktop Tower: Ryzen 7 8700F, RX 9600 XT 16G, 32GB DDR5…",
-      "retailer": "ASUS",
-      "price": 1200,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 8700F",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19720785-asus-rog-gm700-gaming-desktop-tower-ryzen-7-8700f-rx-9600-xt-16g-32gb-ddr5-1tb-gen4-ssd-600w-psu-win11h-1200-f-s",
-      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
