@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06 17:41 UTC",
+  "updated": "2026-07-06 19:53 UTC",
   "uk": [
     {
       "model": "Apple MacBook Air 2026, Apple M5 Chip, 16GB RAM, 1TB SSD, 13 Inch",
@@ -94,7 +94,7 @@
       "cat": "Windows laptop",
       "cpu": "—",
       "ram": "16GB",
-      "storage": "16GB",
+      "storage": "—",
       "screen": "—",
       "gpu": "—",
       "battery": "—",
@@ -299,7 +299,7 @@
       "cpu": "Core Ultra 5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -367,7 +367,7 @@
       "cpu": "Snapdragon X 16GB",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" FHD+ IPS 120Hz",
+      "screen": "14\" FHD+ 120Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -437,7 +437,7 @@
       "cpu": "Intel N355",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touchscreen",
+      "screen": "14\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -631,6 +631,23 @@
       "img": "https://d.dlnws.com/64599/1782311526-71ginpfzwzl.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-Plus-515-15-6-1080-p-IPS-Touch-Laptop/501236.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
+      "model": "$999 Book Store Apple 13-inch MacBook Air: Apple M5 chip with 10âcore CPU a…",
+      "retailer": "Slickdeals",
+      "price": 999,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "13\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19727727-999-book-store-apple-13-inch-macbook-air-apple-m5-chip-with-10-core-cpu-and-8-core-gpu-16gb-512gb-ssd-sky-blue",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
