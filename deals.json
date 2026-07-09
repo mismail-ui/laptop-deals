@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-09 20:46 UTC",
+  "updated": "2026-07-09 22:20 UTC",
   "uk": [
+    {
+      "model": "APPLE MacBook Pro 14\" (2025) - M5, 512 GB SSD, Space Black/Silver",
+      "retailer": "Currys",
+      "price": 1359,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "—",
+      "storage": "512GB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/vRvnB/4932635_1/re/320x320/qt/55/4932635_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-blacksilver-4932635",
+      "note": "From Currys feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple MacBook Air 2025, Apple M4 Chip, 24GB RAM, 512GB SSD, 13 Inch",
       "retailer": "Costco",
@@ -357,23 +374,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/s8R5Z/4928337_1/re/320x320/qt/55/4928337_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-neo-2026-a18-pro-chip-8gb-256gb-ssd-13-inch-mhfh4ba-4928337",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Air 13\" (2020) M1 8-Core CPU 7-Core GPU 8GB 256GB Grey - Very G…",
-      "retailer": "eBay",
-      "price": 374,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M1",
-      "ram": "8GB",
-      "storage": "256GB",
-      "screen": "13\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/24DNd/4928203_1/re/320x320/qt/55/4928203_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-air-13-2020-m1-8-core-cpu-7-core-gpu-8gb-256gb-grey-very-good-4928203",
-      "note": "From eBay feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -655,7 +655,7 @@
       "price": 680,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 120U",
+      "cpu": "Intel Core Ultra 5 120U",
       "ram": "—",
       "storage": "—",
       "screen": "14\"",
@@ -682,23 +682,6 @@
       "img": "https://d.dlnws.com/64599/1780682107-vlad-jetblack-front-573x430.avif?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Core-Ultra-5-225-U-17-3-Laptop-for-460-free-shipping/21886305.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga Slim 7x Snapdragon Copilot+ PC 14\" OLED Laptop for $1,000 + free …",
-      "retailer": "Lenovo",
-      "price": 1000,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1783456142-27739492774_yogaslim7icb_202511131145491768984993356-png.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Yoga-Slim-7-x-Snapdragon-Copilot-PC-14-OLED-Laptop-for-1-000-free-shipping/21886300.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
