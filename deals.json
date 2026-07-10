@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-10 16:54 UTC",
+  "updated": "2026-07-10 18:21 UTC",
   "uk": [
+    {
+      "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
+      "retailer": "Amazon",
+      "price": 979,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M4",
+      "ram": "16GB",
+      "storage": "256GB",
+      "screen": "15\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/oNfYN/4933280_1/re/320x320/qt/55/4933280_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-2025-macbook-air-15-inch-laptop-with-m4-chip-153-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-sky-blue-4933280",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Acer Extensa 15 15.6\" Laptop – Intel Core i5, 16 GB RAM, 512 GB SSD, Windows …",
       "retailer": "Joybuy",
@@ -211,7 +228,7 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M1 3.2GHz",
+      "cpu": "Apple M1",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -374,26 +391,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/JXrib/4928749_1/re/320x320/qt/55/4928749_1.jpg",
       "link": "https://www.hotukdeals.com/deals/kindle-scribe-2022-release-16-gb-the-first-kindle-and-digital-notebook-all-in-one-with-a-102-300-ppi-4928749",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: 13.6-inch Liquid Retina D…",
-      "retailer": "Amazon",
-      "price": 799,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M4",
-      "ram": "16GB",
-      "storage": "256GB",
-      "screen": "13\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/DRBGx/4928745_1/re/320x320/qt/55/4928745_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-2025-macbook-air-13-inch-laptop-with-m4-chip-136-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-sky-blue-4928745",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "BiTECOOL AMD 3020e 15.6\" Laptop w/ Windows Pro for $219 + free shipping",
+      "retailer": "dealnews",
+      "price": 219,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "AMD 3020e",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1783704728-bz0ys2509160m2vj6cc-jpg.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Bi-TECOOL-AMD-3020-e-15-6-Laptop-w-Windows-Pro-for-219-free-shipping/21891872.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
     {
       "model": "Acer Aspire Go 15 Ryzen 7 15.6\" Laptop for $550 + free shipping",
       "retailer": "Acer",
@@ -682,40 +699,6 @@
       "img": "https://d.dlnws.com/64599/1783523240-s-l1600.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Victus-Ryzen-7-15-6-Gaming-Laptop-w-RTX-4050-for-950-free-shipping/21888149.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP Core Ultra 7 OmniBook 5 16\" Touchscreen Laptop for $900 + free shipping",
-      "retailer": "HP",
-      "price": 900,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 OmniBook",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1783517173-2026-07-08_09-25-59.png?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Core-Ultra-7-Omni-Book-5-16-Touchscreen-Laptop-for-900-free-shipping/21888104.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga 7a 2-in-1 (2026): 14\" FHD+ OLED Touch, Ryzen AI 430, 16GB LPDDR5,…",
-      "retailer": "Lenovo",
-      "price": 750,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 430",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14\" FHD+ OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19745097-lenovo-yoga-7a-2-in-1-2026-14-fhd-oled-touch-ryzen-ai-430-16gb-lpddr5-512gb-ssd-749-99",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
