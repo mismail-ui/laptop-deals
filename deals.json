@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 07:52 UTC",
+  "updated": "2026-07-11 09:26 UTC",
   "uk": [
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
@@ -228,7 +228,7 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M1",
+      "cpu": "Apple M1 3.2GHz",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -383,7 +383,7 @@
       "cat": "Windows laptop",
       "cpu": "—",
       "ram": "16GB",
-      "storage": "16GB",
+      "storage": "—",
       "screen": "—",
       "gpu": "—",
       "battery": "—",
@@ -638,10 +638,10 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "AMD Ryzen",
       "ram": "—",
       "storage": "—",
-      "screen": "15\" Touchscreen",
+      "screen": "15\" 2-in-1 Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
