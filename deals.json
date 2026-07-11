@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 09:26 UTC",
+  "updated": "2026-07-11 11:02 UTC",
   "uk": [
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
@@ -61,7 +61,7 @@
       "cpu": "AMD Ryzen Z1 Extreme",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "8\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -228,7 +228,7 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M1 3.2GHz",
+      "cpu": "Apple M1",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -333,7 +333,7 @@
       "cpu": "Ryzen 7 8840HS",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -638,10 +638,10 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen",
+      "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "15\" 2-in-1 Touchscreen",
+      "screen": "15\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -699,6 +699,23 @@
       "img": "https://d.dlnws.com/64599/1780560535-hp-laptop-snapdragon-front-tzvr.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Snapdragon-X-14-2-K-Touchscreen-Laptop/499019.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "LG gram Book: 15\" FHD IPS Touch, Intel Ultra 5 115U, 32GB LPDDR5, 512GB SSD $…",
+      "retailer": "Slickdeals",
+      "price": 730,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Intel Ultra 5 115U",
+      "ram": "32GB",
+      "storage": "512GB",
+      "screen": "15\" FHD IPS Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19747308-lg-gram-book-15-fhd-ips-touch-intel-ultra-5-115u-32gb-lpddr5-512gb-ssd-729-99",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
