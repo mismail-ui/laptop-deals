@@ -1,6 +1,40 @@
 {
-  "updated": "2026-07-12 14:54 UTC",
+  "updated": "2026-07-12 15:58 UTC",
   "uk": [
+    {
+      "model": "Lenovo IdeaPad Slim 5 Copilot +, AMD Ryzen AI 7, 16GB RAM, 512GB SSD, 16 Inch…",
+      "retailer": "Costco",
+      "price": 780,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 7",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/ezo5v/4934324_1/re/320x320/qt/55/4934324_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/great-offer-4934324",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS Zenbook Copilot+ PC, AMD Ryzen AI 7, 16GB RAM, 1TB SSD, 14 Inch OLED Lap…",
+      "retailer": "Costco",
+      "price": 830,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 7",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/ZzDLj/4934308_1/re/320x320/qt/55/4934308_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/nice-laptop-4934308",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
       "retailer": "Amazon",
@@ -61,7 +95,7 @@
       "cpu": "AMD Ryzen Z1 Extreme",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "8\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -340,23 +374,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/WOjkx/4929797_1/re/320x320/qt/55/4929797_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-envy-x360-14-2in1-laptop-amd-ryzen-7-8840hs-processor-ai-enhanced-16-gb-ram-1tb-ssd-amd-radeon-graphics-wuxga-ips-touchscreen-4929797",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro 14 inch M5 Chip 16GB, 1TB - space black only",
-      "retailer": "Very",
-      "price": 1599,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/zaLJA/4929413_1/re/320x320/qt/55/4929413_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-inch-m5-chip-16gb-1tb-space-black-only-4929413",
-      "note": "From Very feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -604,7 +621,7 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen",
+      "cpu": "—",
       "ram": "—",
       "storage": "—",
       "screen": "15\"",
