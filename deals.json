@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 20:42 UTC",
+  "updated": "2026-07-12 21:47 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 5 Copilot +, AMD Ryzen AI 7, 16GB RAM, 512GB SSD, 16 Inch…",
@@ -454,7 +454,7 @@
       "cpu": "Core Ultra 7 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -590,7 +590,7 @@
       "cpu": "Ryzen AI 5 430",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -624,7 +624,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "15\" Touchscreen",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -665,6 +665,40 @@
       "img": "https://d.dlnws.com/64599/1783535321-ed97597e-899a-4b9d-9c225e43e1d53d36_sc7.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-V14-G4-FHD-14-Intel-Core-i7-Laptop-for-450-free-shipping/21888199.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS Vivobook Laptop: 18\" WUXGA 144Hz IPS Display, AMD Ryzen 7 260, 32GB DDR5…",
+      "retailer": "ASUS",
+      "price": 870,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 7 260",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "18\" WUXGA 144Hz",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19751958-asus-vivobook-laptop-18-wuxga-144hz-ips-display-amd-ryzen-7-260-32gb-ddr5-ram-1tb-ssd-870-free-shipping",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS TUF Gaming F16 Gaming Laptop, $799.99, 16â FHD, IntelÂ® Coreâ¢ 5 210H…",
+      "retailer": "ASUS",
+      "price": 800,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Intel Core 5 210H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\" FHD",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19752129-asus-tuf-gaming-f16-gaming-laptop-799-99-16-fhd-intel-core-5-210h-nvidia-geforce-rtx-4050-16gb-ddr5-512gb-pcie-gen4-ssd",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
