@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 17:06 UTC",
+  "updated": "2026-07-12 19:02 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 5 Copilot +, AMD Ryzen AI 7, 16GB RAM, 512GB SSD, 16 Inch…",
@@ -367,7 +367,7 @@
       "cpu": "Ryzen 7 8840HS",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -454,7 +454,7 @@
       "cpu": "Core Ultra 7 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -590,7 +590,7 @@
       "cpu": "Ryzen AI 5 430",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -624,7 +624,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "15\" Touchscreen",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
