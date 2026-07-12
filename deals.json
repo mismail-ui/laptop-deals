@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 13:36 UTC",
+  "updated": "2026-07-12 14:54 UTC",
   "uk": [
     {
       "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
@@ -357,23 +357,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/zaLJA/4929413_1/re/320x320/qt/55/4929413_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-inch-m5-chip-16gb-1tb-space-black-only-4929413",
       "note": "From Very feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro 14 inch M5 Chip 16GB, 1TB",
-      "retailer": "EE Tech & Gaming",
-      "price": 1699,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/cKWqZ/4929223_1/re/320x320/qt/55/4929223_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-inch-m5-chip-16gb-1tb-4929223",
-      "note": "From EE Tech & Gaming feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -621,7 +604,7 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "AMD Ryzen",
       "ram": "—",
       "storage": "—",
       "screen": "15\"",
