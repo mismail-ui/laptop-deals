@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 22:54 UTC",
+  "updated": "2026-07-13 23:53 UTC",
   "uk": [
     {
       "model": "Acer Nitro V16, Ryzen 7, RTX 5070 - 16GB RAM - 1TB - 16in Gaming Laptop w/ code",
@@ -417,7 +417,7 @@
       "price": 219,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD 3020e",
+      "cpu": "AMD Ryzen 3020e",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -502,7 +502,7 @@
       "price": 199,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Intel N50",
+      "cpu": "Intel Celeron N50",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -621,7 +621,7 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen AI",
+      "cpu": "—",
       "ram": "—",
       "storage": "—",
       "screen": "15\" Touchscreen",
