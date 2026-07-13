@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 06:15 UTC",
+  "updated": "2026-07-13 10:23 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 16 X1605VA Laptop | 16.0\" WUXGA 16:10 Screen | Intel Core 7-150…",
@@ -7,7 +7,7 @@
       "price": 424,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7-150U",
+      "cpu": "Intel Core i7-150U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16.0\" WUXGA 16:10",
@@ -279,7 +279,7 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M1 3.2GHz",
+      "cpu": "Apple M1",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -356,23 +356,6 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/uRGCw/4930172_1/re/320x320/qt/55/4930172_1.jpg",
       "link": "https://www.hotukdeals.com/deals/good-laptop-4930172",
-      "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro - M4 Pro Chip, 48GB RAM, 512GB SSD, 16 Inch in Space Black …",
-      "retailer": "Costco",
-      "price": 1999,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M4 Pro",
-      "ram": "48GB",
-      "storage": "512GB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/7AFzB/4930171_1/re/320x320/qt/55/4930171_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-apple-m4-pro-chip-48gb-ram-512gb-ssd-16-inch-in-space-black-automatic-discount-at-checkout-4930171",
       "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
@@ -665,6 +648,23 @@
       "img": "https://d.dlnws.com/64599/1783535321-ed97597e-899a-4b9d-9c225e43e1d53d36_sc7.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-V14-G4-FHD-14-Intel-Core-i7-Laptop-for-450-free-shipping/21888199.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "School Supplies: 2-Pocket Folder $0.25, 70-Page Notebook $0.35, 24-Count Cray…",
+      "retailer": "Staples",
+      "price": 0,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19753011-school-supplies-2-pocket-folder-0-25-70-page-notebook-0-35-24-count-crayola-crayons-0-50-more-at-staples-w-free-store-pickup",
+      "note": "From Staples feed — confirm spec on retailer site"
     }
   ]
 }
