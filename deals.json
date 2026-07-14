@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 12:10 UTC",
+  "updated": "2026-07-14 14:48 UTC",
   "uk": [
     {
       "model": "Acer Nitro V16, Ryzen 7, RTX 5070 - 16GB RAM - 1TB - 16in Gaming Laptop w/ code",
@@ -24,10 +24,10 @@
       "price": 424,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7-150",
+      "cpu": "Intel Core 7-150U",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA",
+      "screen": "16.0\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -327,6 +327,40 @@
   ],
   "us": [
     {
+      "model": "Dell Core i5 1334U 15.6\" 2K Touchscreen Laptop w/ 512GB SSD for $450 + free s…",
+      "retailer": "Dell",
+      "price": 450,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core i5",
+      "ram": "—",
+      "storage": "512GB",
+      "screen": "15.6\" 2K Touchscreen",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1784033799-12d8df20-f834-486b-bc00-5ddcd1b3dc33.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Dell-Core-i5-1334-U-15-6-2-K-Touchscreen-Laptop-w-512-GB-SSD-for-450-free-shipping/21901956.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OmniBook 3 Ryzen 5 16\" 2K Touchscreen Laptop for $380 + free shipping",
+      "retailer": "HP",
+      "price": 380,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 5 16",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" 2K Touchscreen",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1784032295-2cebe792-693a-4300-be80-470d1ff22eea.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Ryzen-5-16-2-K-Touchscreen-Laptop/499117.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
       "model": "BiTECOOL Pentium Gold 6500Y 15.6\" Laptop for $279 + free shipping",
       "retailer": "dealnews",
       "price": 279,
@@ -529,40 +563,6 @@
       "img": "https://d.dlnws.com/64599/1783603830-bcd450f5-6679-4a0c-b249-73a9ac7849ad-jpg-maxheight-1920-maxwidth-900.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Snapdragon-X-14-Laptop/507217.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Windows 11 Laptop Deals at Best Buy for from $300 + free shipping",
-      "retailer": "Best Buy",
-      "price": 300,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1783602894-6582826_sd-jpg-maxheight-1920-maxwidth-900.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Windows-11-Laptop-Deals-at-Best-Buy-for-from-300-free-shipping/21889907.html?iref=rss-c49",
-      "note": "From Best Buy feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga 7a Ryzen AI 5 430 14\" 2K Touch Laptop for $800 + free shipping",
-      "retailer": "Lenovo",
-      "price": 800,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 5 430",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2K Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1781870734-lenovo-laptop-amd-ryzen-5-prid.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-a-Ryzen-AI-5-430-14-2-K-Touch-Laptop/499562.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
