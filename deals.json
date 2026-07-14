@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 20:09 UTC",
+  "updated": "2026-07-14 21:55 UTC",
   "uk": [
     {
       "model": "Acer Nitro V16, Ryzen 7, RTX 5070 - 16GB RAM - 1TB - 16in Gaming Laptop w/ code",
@@ -27,7 +27,7 @@
       "cpu": "Intel Core 7-150U",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA",
+      "screen": "16.0\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -545,6 +545,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1783615171-vtpwha86geo2ku2kfxduyrx0mh0cdg696870-png-2.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Think-Pad-P14-s-Ryzen-AI-7-350-14-Laptop-w-1-TB-SSD-for-1-929-free-shipping/21889975.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Lenovo IdeaPad 5 2-in-1 Laptop: 14\" 1200p, Ryzen AI 5 340, 16GB RAM, 512GB SS…",
+      "retailer": "Lenovo",
+      "price": 529,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen AI 5 340",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14\" 1200p",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19761405-lenovo-ideapad-5-2-in-1-laptop-14-1200p-ryzen-ai-5-340-16gb-ram-512gb-ssd-529-free-s-h",
       "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
