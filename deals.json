@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 16:19 UTC",
+  "updated": "2026-07-15 18:05 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 5 | 16 inch WUXGA 1200p Laptop | Intel Core i5-13420H | 1…",
@@ -96,7 +96,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "15\"",
-      "gpu": "—",
+      "gpu": "M4 Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/oNfYN/4933280_1/re/320x320/qt/55/4933280_1.jpg",
@@ -147,7 +147,7 @@
       "ram": "32GB",
       "storage": "1TB",
       "screen": "8\"",
-      "gpu": "—",
+      "gpu": "Radeon Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/oimbd/4933014_1/re/320x320/qt/55/4933014_1.jpg",
@@ -215,7 +215,7 @@
       "ram": "—",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "M5 Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/vRvnB/4932635_1/re/320x320/qt/55/4932635_1.jpg",
@@ -313,11 +313,11 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "M1",
+      "cpu": "Apple M1",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "—",
+      "gpu": "M1 Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/RXLWx/4931390_1/re/320x320/qt/55/4931390_1.jpg",
@@ -563,23 +563,6 @@
       "img": "https://d.dlnws.com/64599/1783615171-vtpwha86geo2ku2kfxduyrx0mh0cdg696870-png-2.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Think-Pad-P14-s-Ryzen-AI-7-350-14-Laptop-w-1-TB-SSD-for-1-929-free-shipping/21889975.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Anker 25,000mAh 165W Laptop Power Bank with Built-In Cables $104.99",
-      "retailer": "Slickdeals",
-      "price": 105,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19763574-anker-25-000mah-165w-laptop-power-bank-with-built-in-cables-104-99",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
