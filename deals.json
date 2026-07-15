@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 20:06 UTC",
+  "updated": "2026-07-15 21:58 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 5 | 16 inch WUXGA 1200p Laptop | Intel Core i5-13420H | 1…",
@@ -41,7 +41,7 @@
       "price": 424,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7-150",
+      "cpu": "Intel Core 7-150U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" WUXGA",
@@ -92,7 +92,7 @@
       "price": 979,
       "was": null,
       "cat": "Mac",
-      "cpu": "M4",
+      "cpu": "Apple M4",
       "ram": "16GB",
       "storage": "256GB",
       "screen": "15\"",
@@ -211,7 +211,7 @@
       "price": 1359,
       "was": null,
       "cat": "Mac",
-      "cpu": "M5",
+      "cpu": "Apple M5",
       "ram": "—",
       "storage": "512GB",
       "screen": "14\"",
@@ -313,7 +313,7 @@
       "price": 343,
       "was": null,
       "cat": "Mac",
-      "cpu": "M1",
+      "cpu": "Apple M1",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -323,23 +323,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/RXLWx/4931390_1/re/320x320/qt/55/4931390_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-13-m1-32ghz-2020-8gb-ram-256gb-ssd-space-grey-good-4931390",
       "note": "From eBay feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS ROG STRIX Z890-A GAMING WIFI Intel DDR5 PCIE 5.0 LGA 1851 ATX Motherboard",
-      "retailer": "AWD-IT",
-      "price": 230,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/RVdfl/4931375_1/re/320x320/qt/55/4931375_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-rog-strix-z890-a-gaming-wifi-intel-ddr5-pcie-50-lga-1851-atx-motherboard-4931375",
-      "note": "From AWD-IT feed — confirm spec on retailer site"
     }
   ],
   "us": [
