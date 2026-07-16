@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 14:59 UTC",
+  "updated": "2026-07-16 16:24 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
@@ -129,7 +129,7 @@
       "cpu": "Intel Core 7-150",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16.0\" WUXGA",
+      "screen": "16\" WUXGA 16:10",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -289,23 +289,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/T4t8B/4932881_1/re/320x320/qt/55/4932881_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-pro-5-copilot-pc-amd-ryzen-ai-7-32gb-ram-1tb-14-inch-oled-laptop-83jl001luk-4932881",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "APPLE MacBook Pro 14\" (2025) - M5, 512 GB SSD, Space Black/Silver",
-      "retailer": "Currys",
-      "price": 1359,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/vRvnB/4932635_1/re/320x320/qt/55/4932635_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-blacksilver-4932635",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -315,7 +298,7 @@
       "price": 1000,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon X",
+      "cpu": "Snapdragon",
       "ram": "—",
       "storage": "—",
       "screen": "16\" Touch",
@@ -335,7 +318,7 @@
       "cpu": "Core i5",
       "ram": "—",
       "storage": "512GB",
-      "screen": "15.6\" 2K Touch",
+      "screen": "15.6\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -352,7 +335,7 @@
       "cpu": "Ryzen 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -454,7 +437,7 @@
       "cpu": "Core Ultra 7 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -494,6 +477,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1783626289-hp-chromebook-14-inch-2k-intel-n150-4gb-ram-128-gb-ufs-meteor-silver_bdb8c937-3c87-4f95-b23b-debfef6485b2-e227c1090ab7b8d217218d4891a65a00-jpeg.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Intel-N150-14-2-K-Chromebook-Laptop-for-279-free-shipping/21890021.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OMEN MAX 16\" Gaming Laptop: Ryzen AI 9 HX 375, RTX 5080 (16GB), 32GB DDR5,…",
+      "retailer": "HP",
+      "price": 3700,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen AI 9 HX",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "RTX 5080",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19767303-hp-omen-max-16-gaming-laptop-ryzen-ai-9-hx-375-rtx-5080-16gb-32gb-ddr5-1tb-ssd-16-1600p-240hz-3700-hp-2199-99",
       "note": "From HP feed — confirm spec on retailer site"
     }
   ]
