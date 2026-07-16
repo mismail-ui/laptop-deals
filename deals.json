@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 12:22 UTC",
+  "updated": "2026-07-16 14:59 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
@@ -78,7 +78,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -129,7 +129,7 @@
       "cpu": "Intel Core 7-150",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA",
+      "screen": "16.0\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -315,7 +315,7 @@
       "price": 1000,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon 8cx Gen 3",
+      "cpu": "Snapdragon X",
       "ram": "—",
       "storage": "—",
       "screen": "16\" Touch",
@@ -335,7 +335,7 @@
       "cpu": "Core i5",
       "ram": "—",
       "storage": "512GB",
-      "screen": "15.6\" 2K Touchscreen",
+      "screen": "15.6\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -352,7 +352,7 @@
       "cpu": "Ryzen 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touchscreen",
+      "screen": "16\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -454,7 +454,7 @@
       "cpu": "Core Ultra 7 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -495,23 +495,6 @@
       "img": "https://d.dlnws.com/64599/1783626289-hp-chromebook-14-inch-2k-intel-n150-4gb-ram-128-gb-ufs-meteor-silver_bdb8c937-3c87-4f95-b23b-debfef6485b2-e227c1090ab7b8d217218d4891a65a00-jpeg.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Intel-N150-14-2-K-Chromebook-Laptop-for-279-free-shipping/21890021.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Chromebook 315 N50 15.6\" Laptop for $199 + free shipping",
-      "retailer": "Acer",
-      "price": 199,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Intel N50",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1783625788-acer-chromebook-315-15-6-full-hd-1920-x-1080-laptop-intel-processor-n50-4gb-ram-128gb-emmc-elemental-blue-cb315-7h-c7f8-chromeos_c04f78e1-31a3-4b41-946e-a3b7a9420729-533593fc198bee510d726b354f91acd5.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/Acer-Chromebook-315-N50-15-6-Laptop-for-199-free-shipping/21890019.html?iref=rss-c49",
-      "note": "From Acer feed — confirm spec on retailer site"
     }
   ]
 }
