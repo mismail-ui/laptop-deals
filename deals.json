@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 23:57 UTC",
+  "updated": "2026-07-17 03:13 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
@@ -75,10 +75,10 @@
       "price": 800,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "Z2",
       "ram": "—",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -129,7 +129,7 @@
       "cpu": "Intel Core 7-150",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA 16:10",
+      "screen": "16\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -315,7 +315,7 @@
       "price": 1000,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon",
+      "cpu": "Snapdragon X",
       "ram": "—",
       "storage": "—",
       "screen": "16\" Touch",
@@ -461,6 +461,23 @@
       "img": "https://d.dlnws.com/64599/1783691734-cd775580-5027-4355-93a4-fadf821e27c0-jpg-maxheight-1920-maxwidth-900.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Yoga-7-i-2-in-1-Core-Ultra-7-16-Touchscreen-Laptop-for-800-free-shipping/21891773.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "[Bundle] Ryzen 7 5800X3D 10th Anniv. CPU + ASUS TUF GAMING B550-PLUS WIFI II …",
+      "retailer": "ASUS",
+      "price": 530,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7 5800X3D",
+      "ram": "16GB",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19771422-bundle-ryzen-7-5800x3d-10th-anniv-cpu-asus-tuf-gaming-b550-plus-wifi-ii-mb-16gb-team-t-force-ram-aio-fan-530-free-shipping",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
