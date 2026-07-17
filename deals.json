@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-17 19:04 UTC",
+  "updated": "2026-07-17 20:52 UTC",
   "uk": [
+    {
+      "model": "Asus TUF GAMING X870E-PLUS WIFI7, AMD X870, AM5, ATX, 4 DDR5, HDMI, 2 USB4, W…",
+      "retailer": "Amazon",
+      "price": 250,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/vvzXW/4938249_1/re/320x320/qt/55/4938249_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-x870e-plus-wifi7-4938249",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
       "retailer": "Costco",
@@ -177,7 +194,7 @@
       "price": 979,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M4",
+      "cpu": "M4",
       "ram": "16GB",
       "storage": "256GB",
       "screen": "15\"",
@@ -221,23 +238,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/RGsv4/4933125_1/re/320x320/qt/55/4933125_1.jpg",
       "link": "https://www.hotukdeals.com/deals/dell-15-laptop-dc15250-156-fhd-120hz-anti-glare-intel-core-i5-1334u-16gb-ram-512gb-ssd-intel-uhd-graphics-windows-11-home-4933125",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Legion Go S 8APU1 - AMD Ryzen Z1 Extreme - SteamOS - 32 GB - 1 TB SSD …",
-      "retailer": "Very",
-      "price": 719,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "AMD Ryzen Z1 Extreme",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/oimbd/4933014_1/re/320x320/qt/55/4933014_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-legion-go-s-8apu1-amd-ryzen-z1-extreme-steamos-32-gb-1-tb-ssd-8in-wcode-free-cc-4933014",
-      "note": "From Very feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -250,7 +250,7 @@
       "cpu": "Ryzen 5 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17\" Touchscreen",
+      "screen": "17\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -318,7 +318,7 @@
       "cpu": "Core i5",
       "ram": "—",
       "storage": "512GB",
-      "screen": "15.6\" 2K Touchscreen",
+      "screen": "15.6\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -335,7 +335,7 @@
       "cpu": "Ryzen 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touchscreen",
+      "screen": "16\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -427,6 +427,23 @@
       "img": "https://d.dlnws.com/64599/1783698447-34-360-410-01-jpg.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Acer-Aspire-Go-15-Ryzen-7-15-6-Laptop-for-550-free-shipping/21891839.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Lenovo IdeaPad 5 2-in-1 Laptop: 14\" 1200p, Ryzen AI 7 350, 16GB RAM, 512GB SS…",
+      "retailer": "Lenovo",
+      "price": 549,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen AI 7 350",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14\" 1200p 2-in-1",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19774464-lenovo-ideapad-5-2-in-1-laptop-14-1200p-ryzen-ai-7-350-16gb-ram-512gb-ssd-549-free-s-h",
+      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
