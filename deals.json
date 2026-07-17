@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 03:13 UTC",
+  "updated": "2026-07-17 06:13 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
@@ -75,7 +75,7 @@
       "price": 800,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Z2",
+      "cpu": "—",
       "ram": "—",
       "storage": "512GB",
       "screen": "OLED",
@@ -129,7 +129,7 @@
       "cpu": "Intel Core 7-150",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" WUXGA",
+      "screen": "16\" WUXGA 16:10",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -298,7 +298,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5 225U",
+      "cpu": "Intel Ultra 5 225U",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -310,23 +310,6 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Samsung Galaxy Book4 Edge Copilot+ Snapdragon 16\" Touch Laptop for $1,000 + f…",
-      "retailer": "Samsung",
-      "price": 1000,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Snapdragon X",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\" Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1718637590-dn-image-7843930.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Book4-Edge-Copilot-Snapdragon-16-Touch-Laptop/475277.html?iref=rss-c49",
-      "note": "From Samsung feed — confirm spec on retailer site"
-    },
-    {
       "model": "Dell Core i5 1334U 15.6\" 2K Touchscreen Laptop w/ 512GB SSD for $450 + free s…",
       "retailer": "Dell",
       "price": 450,
@@ -335,7 +318,7 @@
       "cpu": "Core i5",
       "ram": "—",
       "storage": "512GB",
-      "screen": "15.6\" 2K Touch",
+      "screen": "15.6\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -352,7 +335,7 @@
       "cpu": "Ryzen 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -454,7 +437,7 @@
       "cpu": "Core Ultra 7 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -463,21 +446,21 @@
       "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
-      "model": "[Bundle] Ryzen 7 5800X3D 10th Anniv. CPU + ASUS TUF GAMING B550-PLUS WIFI II …",
-      "retailer": "ASUS",
-      "price": 530,
+      "model": "Dell Back to School Laptop Deals : Up to $900 off + free shipping",
+      "retailer": "Dell",
+      "price": 900,
       "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 5800X3D",
-      "ram": "16GB",
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
       "storage": "—",
       "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19771422-bundle-ryzen-7-5800x3d-10th-anniv-cpu-asus-tuf-gaming-b550-plus-wifi-ii-mb-16gb-team-t-force-ram-aio-fan-530-free-shipping",
-      "note": "From ASUS feed — confirm spec on retailer site"
+      "img": "https://d.dlnws.com/64599/1783628806-2026-07-09_16-26-25.png?h=240&w=320",
+      "link": "https://www.dealnews.com/Dell-Back-to-School-Laptop-Deals-Up-to-900-off-free-shipping/21890031.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
     }
   ]
 }
