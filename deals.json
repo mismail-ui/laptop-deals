@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 09:07 UTC",
+  "updated": "2026-07-17 11:19 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 5 14AGP11 Copilot+ PC, AMD Ryzen 5 AI, 16GB RAM, 512GB SSD, 14…",
@@ -75,7 +75,7 @@
       "price": 800,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "AMD Z2",
       "ram": "—",
       "storage": "512GB",
       "screen": "OLED",
