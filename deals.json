@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 21:52 UTC",
+  "updated": "2026-07-17 22:47 UTC",
   "uk": [
     {
       "model": "Asus TUF GAMING X870E-PLUS WIFI7, AMD X870, AM5, ATX, 4 DDR5, HDMI, 2 USB4, W…",
@@ -143,7 +143,7 @@
       "price": 424,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7-150",
+      "cpu": "Intel Core 7-150U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16.0\" WUXGA",
