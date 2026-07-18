@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 20:43 UTC",
+  "updated": "2026-07-18 21:48 UTC",
   "uk": [
     {
       "model": "Asus TUF GAMING X870E-PLUS WIFI7, AMD X870, AM5, ATX, 4 DDR5, HDMI, 2 USB4, W…",
@@ -146,7 +146,7 @@
       "cpu": "Intel Core 7-150",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16.0\" WUXGA",
+      "screen": "16\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -349,7 +349,7 @@
       "price": 219,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD 3020e",
+      "cpu": "AMD Ryzen 3020e",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
