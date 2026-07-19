@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 14:53 UTC",
+  "updated": "2026-07-19 15:55 UTC",
   "uk": [
     {
       "model": "Apple 13\" MacBook Air, M4, 16GB RAM, 8 Core GPU, 256GB, 2025 - Sky Blue - £79…",
@@ -160,7 +160,7 @@
       "price": 424,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7-1505U",
+      "cpu": "Intel Core 7-150U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" WUXGA",
@@ -332,7 +332,7 @@
       "price": 219,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD 3020e",
+      "cpu": "AMD Ryzen 3020e",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
