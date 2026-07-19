@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19 02:31 UTC",
+  "updated": "2026-07-19 05:50 UTC",
   "uk": [
     {
       "model": "Apple 13\" MacBook Air, M4, 16GB RAM, 8 Core GPU, 256GB, 2025 - Sky Blue - £79…",
@@ -12,8 +12,8 @@
       "storage": "256GB",
       "screen": "13\" Retina",
       "gpu": "8-core GPU",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 16h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-13-macbook-air-m4-16gb-ram-8-core-gpu-256gb-2025-sky-blue-ps790-for-ao-members-4938853",
       "note": "From ao feed — confirm spec on retailer site"
@@ -109,10 +109,10 @@
       "price": 800,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "AMD Z2",
       "ram": "—",
       "storage": "512GB",
-      "screen": "OLED",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -204,23 +204,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/ZzDLj/4934308_1/re/320x320/qt/55/4934308_1.jpg",
       "link": "https://www.hotukdeals.com/deals/nice-laptop-4934308",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple 2025 MacBook Air 15-inch Laptop with M4 chip, 15.3-inch Liquid Retina D…",
-      "retailer": "Amazon",
-      "price": 979,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M4",
-      "ram": "16GB",
-      "storage": "256GB",
-      "screen": "15\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/oNfYN/4933280_1/re/320x320/qt/55/4933280_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-2025-macbook-air-15-inch-laptop-with-m4-chip-153-inch-liquid-retina-display-16gb-unified-memory-256gb-ssd-storage-sky-blue-4933280",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
