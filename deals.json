@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-21 04:13 UTC",
+  "updated": "2026-07-21 07:31 UTC",
   "uk": [
+    {
+      "model": "ASUS Vivobook S, Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD, 14 Inch OLED Lap…",
+      "retailer": "Costco",
+      "price": 650,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Core Ultra 7 256V",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/bQ6qr/4940121_1/re/320x320/qt/55/4940121_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-14-inch-oled-laptop-s5406sa-qd006w-4940121",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
     {
       "model": "LG gram Copilot+PC, WQXGA 2560 x 1600, Intel Core Ultra 7 255H, 16GB RAM, 512…",
       "retailer": "Costco",
@@ -27,10 +44,10 @@
       "cpu": "Apple M5",
       "ram": "24GB",
       "storage": "1TB",
-      "screen": "13\"",
+      "screen": "13\" Liquid Retina",
       "gpu": "10-core GPU",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 18h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-13-macbook-air-m5-24gb-ram-10-core-gpu-1tb-2026-starlight-4939534",
       "note": "From ao feed — confirm spec on retailer site"
@@ -44,10 +61,10 @@
       "cpu": "Apple M4",
       "ram": "16GB",
       "storage": "256GB",
-      "screen": "13\"",
+      "screen": "13\" Liquid Retina",
       "gpu": "8-core GPU",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 16h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-13-macbook-air-m4-16gb-ram-8-core-gpu-256gb-2025-sky-blue-ps790-for-ao-members-4938853",
       "note": "From ao feed — confirm spec on retailer site"
@@ -58,7 +75,7 @@
       "price": 250,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "AMD X870",
       "ram": "—",
       "storage": "—",
       "screen": "—",
@@ -143,7 +160,7 @@
       "price": 800,
       "was": null,
       "cat": "Gaming",
-      "cpu": "—",
+      "cpu": "AMD Z2",
       "ram": "—",
       "storage": "512GB",
       "screen": "OLED",
@@ -250,7 +267,7 @@
       "cpu": "Core Ultra 7 256V",
       "ram": "—",
       "storage": "1TB",
-      "screen": "16\"",
+      "screen": "16\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -291,23 +308,6 @@
       "img": "https://d.dlnws.com/64599/1782311526-71ginpfzwzl.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-Plus-515-15-6-1080-p-IPS-Touch-Laptop/501236.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Chromebook Plus Core 3 N355 15.3\" Touchscreen Laptop for $349 + free s…",
-      "retailer": "Lenovo",
-      "price": 349,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Intel Core 3 N355",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.3\" Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1784536764-2392ae66-dece-4df8-b1f4-c13f5005b62b.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Chromebook-Plus-Core-3-N355-15-3-Touchscreen-Laptop-for-349-free-shipping/21915214.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
       "model": "HP AI 15t-fd200 Ultra 5 225U 15.6\" Laptop for $440 + free shipping",
@@ -376,6 +376,23 @@
       "img": "https://d.dlnws.com/64599/1783938487-bz0ys2509050g4mop73.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Bi-TECOOL-Pentium-Gold-6500-Y-15-6-Laptop-for-279-free-shipping/21900200.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS Vivobook 18 AMD Ryzen 7 18\" Laptop for $870 + free shipping",
+      "retailer": "ASUS",
+      "price": 870,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 7 18",
+      "ram": "—",
+      "storage": "—",
+      "screen": "18\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1778003828-vivobook1.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/ASUS/ASUS-Vivobook-18-AMD-Ryzen-7-18-Laptop/498543.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
