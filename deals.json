@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-21 19:18 UTC",
+  "updated": "2026-07-21 21:06 UTC",
   "uk": [
+    {
+      "model": "Dell 14 Plus Laptop DB14250 – 14-inch 16:10 2.5K (2560 x 1600), Intel Core Ul…",
+      "retailer": "Amazon",
+      "price": 999,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 Series",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "ARC GRAPHICS",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/JatlK/4940603_1/re/320x320/qt/55/4940603_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/dell-14-plus-laptop-db14250-140-inch-1610-25k-2560-x-1600-intel-core-ultra-7-series-2-intel-arc-graphics-32gb-ram-1tb-ssd-4940603",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Dell 15 Laptop DC15250 15.6\" FHD 120Hz, Intel Core i7-1355U Processor, 16GB D…",
       "retailer": "Amazon",
@@ -62,7 +79,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10 Core",
+      "gpu": "10 Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -79,7 +96,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8 Core",
+      "gpu": "8 Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -186,23 +203,6 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/tpgnM/4936774_1/re/320x320/qt/55/4936774_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lenovo-legion-go-2-z2-non-extreme-512gb-oled-4936774",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo IdeaPad Slim 5 | 16 inch WUXGA 1200p Laptop | Intel Core i5-13420H | 1…",
-      "retailer": "Amazon",
-      "price": 500,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core i5-13420H",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/oGrT8/4936581_1/re/320x320/qt/55/4936581_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-5-16-inch-wuxga-1200p-laptop-intel-core-i5-13420h-16gb-ram-1tb-ssd-windows-11-home-cosmic-blue-4936581",
       "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
