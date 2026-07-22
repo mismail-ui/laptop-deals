@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-22 08:25 UTC",
+  "updated": "2026-07-22 11:07 UTC",
   "uk": [
+    {
+      "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
+      "retailer": "Dell",
+      "price": 899,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 258V",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/J4yrv/4940916_1/re/320x320/qt/55/4940916_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/dell-16-plus-db16250-laptop-32gb-ram-intel-core-ultra-7-258v-1tb-4940916",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
     {
       "model": "Dell 14 Plus Laptop DB14250 – 14-inch 16:10 2.5K (2560 x 1600), Intel Core Ul…",
       "retailer": "Amazon",
@@ -79,7 +96,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10 Core",
+      "gpu": "10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -96,7 +113,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8 Core",
+      "gpu": "8-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -170,40 +187,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/uWy4z/4936907_1/re/320x320/qt/55/4936907_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-omnibook-7-ai-14-laptop-intel-core-ultra-5-512-gb-ssd-silver-4936907",
       "note": "From Currys feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Asus ProArt GoPro Edition PX13 - 13.3in 3k OLED - AMD AI MAX+ 395 - Radeon 80…",
-      "retailer": "Very",
-      "price": 2527,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "AMD Ryzen AI MAX+ 395",
-      "ram": "—",
-      "storage": "128GB",
-      "screen": "13.3\" 3K OLED",
-      "gpu": "RADEON 8060S",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/E9r6b/4936868_1/re/320x320/qt/55/4936868_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-proart-gopro-edition-px13-133in-3k-oled-amd-ai-max-395-8060s-128gb-ram-2tb-2-in-1-laptop-black-wcode-4936868",
-      "note": "From Very feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo legion go 2 z2 non-extreme 512gb OLED",
-      "retailer": "Amazon",
-      "price": 800,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/tpgnM/4936774_1/re/320x320/qt/55/4936774_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-legion-go-2-z2-non-extreme-512gb-oled-4936774",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
