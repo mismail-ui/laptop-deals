@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 19:14 UTC",
+  "updated": "2026-07-22 21:09 UTC",
   "uk": [
     {
       "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
@@ -96,7 +96,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10 Core GPU",
+      "gpu": "10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -113,7 +113,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8 Core GPU",
+      "gpu": "8-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -182,7 +182,7 @@
       "cpu": "Ryzen 5 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17\" Touchscreen",
+      "screen": "17\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
