@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 15:39 UTC",
+  "updated": "2026-07-22 17:16 UTC",
   "uk": [
     {
       "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
@@ -199,7 +199,7 @@
       "cpu": "Ryzen 5 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17\"",
+      "screen": "17\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -264,7 +264,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7 240H",
+      "cpu": "Intel Core Ultra 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -403,7 +403,7 @@
       "cpu": "Core i5",
       "ram": "—",
       "storage": "512GB",
-      "screen": "15.6\" 2K Touch",
+      "screen": "15.6\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
