@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 11:07 UTC",
+  "updated": "2026-07-22 13:47 UTC",
   "uk": [
     {
       "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
@@ -96,7 +96,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10-core GPU",
+      "gpu": "10-Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -113,7 +113,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8-core GPU",
+      "gpu": "8-Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -410,23 +410,6 @@
       "img": "https://d.dlnws.com/64599/1784033799-12d8df20-f834-486b-bc00-5ddcd1b3dc33.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-Core-i5-1334-U-15-6-2-K-Touchscreen-Laptop-w-512-GB-SSD-for-450-free-shipping/21901956.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "$21.05 | CRKD Nitro Deck Handheld Pro Controller for Nintendo Switch at Woot!",
-      "retailer": "Woot",
-      "price": 21,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19793997-21-05-crkd-nitro-deck-handheld-pro-controller-for-nintendo-switch-at-woot",
-      "note": "From Woot feed — confirm spec on retailer site"
     }
   ]
 }
