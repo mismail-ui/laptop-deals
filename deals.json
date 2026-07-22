@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 17:16 UTC",
+  "updated": "2026-07-22 19:14 UTC",
   "uk": [
     {
       "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
@@ -96,7 +96,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10-core GPU",
+      "gpu": "10 Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -113,7 +113,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8-core GPU",
+      "gpu": "8 Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -170,23 +170,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/nZJBM/4936989_1/re/320x320/qt/55/4936989_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lg-gram-15z80t-excl-156-inch-fhd-ips-laptop-amd-ryzen-ai-7-350-amd-radeon-860m-gpu-50-tops-npu-16gb-ram-512gb-ssd-4936989",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 7 AI 14\" Laptop - Intel Core Ultra 5, 512 GB SSD, Silver",
-      "retailer": "Currys",
-      "price": 499,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 5",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/uWy4z/4936907_1/re/320x320/qt/55/4936907_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-omnibook-7-ai-14-laptop-intel-core-ultra-5-512-gb-ssd-silver-4936907",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -264,7 +247,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core Ultra 7 240H",
+      "cpu": "Intel Core 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
