@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 05:51 UTC",
+  "updated": "2026-07-23 08:26 UTC",
   "uk": [
     {
       "model": "Acer Predator Helios NEO 16 AI, Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, …",
@@ -36,7 +36,8 @@
       "note": "From Costco feed — confirm spec on retailer site"
     },
     {
-      "model": "Apple MacBook Pro 13\" 2020 Grey - i5 1.4GHz 16GB RAM 256GB SSD - Good Condition",
+      "model": "Apple MacBook Pro 13\" 2020 Grey - i5 1.4GHz 16GB RAM 256GB SSD - Good Conditi…",
+      "retailer": "eBay",
       "price": 307,
       "was": null,
       "cat": "Mac",
@@ -49,7 +50,7 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/ZSWEb/4941639_1/re/320x320/qt/55/4941639_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-13-2020-grey-i5-14ghz-16gb-ram-256gb-ssd-good-condition-4941639",
-      "note": "From undefined feed — confirm spec on retailer site"
+      "note": "From eBay feed — confirm spec on retailer site"
     },
     {
       "model": "Dell 16 Plus DB16250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
@@ -146,7 +147,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "13\"",
-      "gpu": "10-core GPU",
+      "gpu": "10-Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/dr4dx/4939534_1/re/320x320/qt/55/4939534_1.jpg",
@@ -163,7 +164,7 @@
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "8-core GPU",
+      "gpu": "8-Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/t2W3Q/4938853_1/re/320x320/qt/55/4938853_1.jpg",
@@ -220,26 +221,43 @@
       "img": "https://images.hotukdeals.com/threads/raw/uWy4z/4936907_1/re/320x320/qt/55/4936907_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-omnibook-7-ai-14-laptop-intel-core-ultra-5-512-gb-ssd-silver-4936907",
       "note": "From Currys feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Asus ProArt GoPro Edition PX13 - 13.3in 3k OLED - AMD AI MAX+ 395 - Radeon 80…",
-      "retailer": "Very",
-      "price": 2527,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "AMD AI MAX+ 395",
-      "ram": "—",
-      "storage": "128GB",
-      "screen": "13.3\" 3K OLED",
-      "gpu": "RADEON 8060S",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/E9r6b/4936868_1/re/320x320/qt/55/4936868_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-proart-gopro-edition-px13-133in-3k-oled-amd-ai-max-395-8060s-128gb-ram-2tb-2-in-1-laptop-black-wcode-4936868",
-      "note": "From Very feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "ASUS CX14 Core 3 14\" Chromebook Plus Laptop for $399 + free shipping",
+      "retailer": "ASUS",
+      "price": 399,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "Intel Core 3",
+      "ram": "—",
+      "storage": "—",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1784792881-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/ASUS-CX14-Core-3-14-Chromebook-Plus-Laptop-for-399-free-shipping/21923044.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Lenovo IdeaPad Slim 3i Intel N150 15.6\" Laptop for $250 + free shipping",
+      "retailer": "Lenovo",
+      "price": 250,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N150",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1776285783-lenovo.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-i-Intel-N150-15-6-Laptop/498298.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "HP AMD Ryzen 5 17\" Touchscreen Laptop for $800 + free shipping",
       "retailer": "HP",
@@ -317,7 +335,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" OLED Touch",
+      "screen": "14\" OLED Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
