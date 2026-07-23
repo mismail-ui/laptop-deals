@@ -1,6 +1,40 @@
 {
-  "updated": "2026-07-23 08:26 UTC",
+  "updated": "2026-07-23 11:07 UTC",
   "uk": [
+    {
+      "model": "HP Chromebook 14\" | Intel Celeron N4500 Processor | 4GB RAM | 64GB eMMC | Int…",
+      "retailer": "Amazon",
+      "price": 119,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "Celeron",
+      "ram": "4GB",
+      "storage": "64GB eMMC",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/hBk5j/4941883_1/re/320x320/qt/55/4941883_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-chromebook-14-intel-celeron-n4500-processor-4gb-ram-64gb-emmc-intel-uhd-graphics-hd-anti-glare-display-4941883",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
+    {
+      "model": "PCSpecialist 16\" Defiance Intel Core i7 16 Core Processor 14650HX Laptop - 24…",
+      "retailer": "PC Specialist",
+      "price": 1792,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core i7",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/VOCxy/4941835_1/re/320x320/qt/55/4941835_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/pcspecialist-laptop-240hz-5070ti-32gb-1tb-no-os-4941835",
+      "note": "From PC Specialist feed — confirm spec on retailer site"
+    },
     {
       "model": "Acer Predator Helios NEO 16 AI, Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, …",
       "retailer": "Costco",
@@ -204,26 +238,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/nZJBM/4936989_1/re/320x320/qt/55/4936989_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lg-gram-15z80t-excl-156-inch-fhd-ips-laptop-amd-ryzen-ai-7-350-amd-radeon-860m-gpu-50-tops-npu-16gb-ram-512gb-ssd-4936989",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 7 AI 14\" Laptop - Intel Core Ultra 5, 512 GB SSD, Silver",
-      "retailer": "Currys",
-      "price": 499,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 5",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/uWy4z/4936907_1/re/320x320/qt/55/4936907_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-omnibook-7-ai-14-laptop-intel-core-ultra-5-512-gb-ssd-silver-4936907",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Best Buy Black Friday in July Windows Laptop Deals for From $190 + free shipping",
+      "retailer": "Best Buy",
+      "price": 190,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1784795188-3bd638b3-4542-4115-8e43-34faa18a2382.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Best-Buy-Black-Friday-in-July-Windows-Laptop-Deals-for-From-190-free-shipping/21923061.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS CX14 Core 3 14\" Chromebook Plus Laptop for $399 + free shipping",
       "retailer": "ASUS",
@@ -315,7 +349,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7 240H",
+      "cpu": "Intel Core 7-240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -335,7 +369,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" OLED Touchscreen",
+      "screen": "14\" OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +468,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5 225U",
+      "cpu": "Intel Core Ultra 5-225U",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -461,23 +495,6 @@
       "img": "https://d.dlnws.com/64599/1784033799-12d8df20-f834-486b-bc00-5ddcd1b3dc33.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-Core-i5-1334-U-15-6-2-K-Touchscreen-Laptop-w-512-GB-SSD-for-450-free-shipping/21901956.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 3 Ryzen 5 16\" 2K Touchscreen Laptop for $380 + free shipping",
-      "retailer": "HP",
-      "price": 380,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen 5 16",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\" 2K Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1784032295-2cebe792-693a-4300-be80-470d1ff22eea.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Ryzen-5-16-2-K-Touchscreen-Laptop/499117.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
