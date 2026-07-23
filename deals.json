@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 15:53 UTC",
+  "updated": "2026-07-23 17:20 UTC",
   "uk": [
     {
       "model": "Microsoft Surface Laptop 7 Copilot+ PC, Snapdragon X Elite, 16GB RAM, 512GB S…",
@@ -281,7 +281,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5-115U",
+      "cpu": "Intel Core Ultra 5 115U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -298,7 +298,7 @@
       "price": 590,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 3-304",
+      "cpu": "Intel Core 3 304",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -536,7 +536,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5-225U",
+      "cpu": "Intel Core Ultra 5 225U",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -546,23 +546,6 @@
       "img": "https://d.dlnws.com/64599/1784235529-yrc5me5aj6.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-AI-15-t-fd200-Ultra-5-225-U-15-6-Laptop/509031.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Latitude Run Power Lift Recliner Chair w/ Heat & Massage (Brown) $350 + Free S/H",
-      "retailer": "Slickdeals",
-      "price": 350,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19798320-latitude-run-power-lift-recliner-chair-w-heat-massage-brown-350-free-s-h",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
