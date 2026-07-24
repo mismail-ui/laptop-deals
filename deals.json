@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 09:19 UTC",
+  "updated": "2026-07-24 11:40 UTC",
   "uk": [
     {
       "model": "LG gram, Intel Core Ultra 7 256V, 16GB RAM, 512GB SSD, WQXGA 2560 x 1600 16 I…",
@@ -276,12 +276,29 @@
   ],
   "us": [
     {
+      "model": "BiTECOOL Pentium Gold 6500Y 15.6\" Laptop for $279 + free shipping",
+      "retailer": "dealnews",
+      "price": 279,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Pentium",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1784886361-bz0ys2509050g4mop73.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Bi-TECOOL-Pentium-Gold-6500-Y-15-6-Laptop-for-279-free-shipping/21925980.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
       "model": "Dell 13th-Gen. i5 15.6\" Touch Laptop for $450 + free shipping",
       "retailer": "Dell",
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -298,7 +315,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -349,7 +366,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5-115U",
+      "cpu": "Intel Core Ultra 5 115U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -366,7 +383,7 @@
       "price": 590,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 3-304",
+      "cpu": "Intel Core 3 304",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -451,7 +468,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7-240H",
+      "cpu": "Intel Core 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -528,23 +545,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1752088545-de5afb27-9974-44c4-bfcf-9ffe3f85dc94.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Victus-Ryzen-7-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-4050/491498.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook X Flip Core Ultra 7 256V 16\" 2-in-1 Laptop w/ 1TB SSD for $750 + …",
-      "retailer": "HP",
-      "price": 750,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 256V",
-      "ram": "—",
-      "storage": "1TB",
-      "screen": "16\" 2-in-1",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1784557068-3909cb40-136f-4a58-b500-4f79b55a0f44.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-X-Flip-Core-Ultra-7-256-V-16-2-in-1-Laptop-w-1-TB-SSD/510107.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
     }
   ]
