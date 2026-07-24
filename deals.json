@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 21:00 UTC",
+  "updated": "2026-07-24 22:59 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook 14 - Intel Core Ultra 9 285H, 32GB RAM, 1TB SSD, 14\" WUXGA OLED,…",
@@ -298,7 +298,7 @@
       "price": 541,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Ultra 5 115U",
+      "cpu": "Intel Core Ultra 5 115U",
       "ram": "—",
       "storage": "—",
       "screen": "15.9\"",
@@ -417,7 +417,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Ultra 5 115U",
+      "cpu": "Intel Core Ultra 5 115U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
