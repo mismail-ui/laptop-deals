@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 13:20 UTC",
+  "updated": "2026-07-25 15:00 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 14 X1407QA 14\" Laptop, Copilot+ PC - Snapdragon X, 512 GB SSD, …",
@@ -8,7 +8,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Snapdragon X",
-      "ram": "512GB",
+      "ram": "—",
       "storage": "512GB",
       "screen": "14\"",
       "gpu": "—",
@@ -24,7 +24,7 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Ultra 5 226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "17.3\" FHD",
