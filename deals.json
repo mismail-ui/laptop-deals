@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-25 15:00 UTC",
+  "updated": "2026-07-25 16:54 UTC",
   "uk": [
+    {
+      "model": "Acer Aspire Go 15 AG15-71P Laptop - Intel Core i7-13620H, 16GB, 512GB SSD, In…",
+      "retailer": "Amazon",
+      "price": 509,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core i7-13620H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/YVZa2/4943459_1/re/320x320/qt/55/4943459_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/acer-aspire-go-15-ag15-71p-laptop-intel-core-i7-13620h-16gb-512gb-ssd-integrated-graphics-156-full-hd-windows-11-silver-4943459",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Vivobook 14 X1407QA 14\" Laptop, Copilot+ PC - Snapdragon X, 512 GB SSD, …",
       "retailer": "Currys",
@@ -262,7 +279,7 @@
       "price": 307,
       "was": null,
       "cat": "Mac",
-      "cpu": "Intel Core i5-1.4GHz",
+      "cpu": "Intel Core i5-1030NG7",
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -305,23 +322,6 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/JatlK/4940603_1/re/320x320/qt/55/4940603_1.jpg",
       "link": "https://www.hotukdeals.com/deals/dell-14-plus-laptop-db14250-140-inch-1610-25k-2560-x-1600-intel-core-ultra-7-series-2-intel-arc-graphics-32gb-ram-1tb-ssd-4940603",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Dell 15 Laptop DC15250 15.6\" FHD 120Hz, Intel Core i7-1355U Processor, 16GB D…",
-      "retailer": "Amazon",
-      "price": 419,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core i7-1355U",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "15.6\" FHD 120Hz",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/aQ7dW/4940562_1/re/320x320/qt/55/4940562_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/dell-15-laptop-dc15250-156-fhd-120hz-intel-core-i7-1355u-processor-16gb-ddr4-ram-512gb-ssd-windows-11-home-carbon-black-4940562",
       "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
