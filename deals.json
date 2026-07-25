@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 00:11 UTC",
+  "updated": "2026-07-25 04:08 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook 14 - Intel Core Ultra 9 285H, 32GB RAM, 1TB SSD, 14\" WUXGA OLED,…",
@@ -454,7 +454,7 @@
       "cpu": "Ryzen 5 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17\" Touchscreen",
+      "screen": "17\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -505,7 +505,7 @@
       "cpu": "Core Ultra 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -563,23 +563,6 @@
       "img": "https://d.dlnws.com/64599/1784624248-3909cb40-136f-4a58-b500-4f79b55a0f44.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Best-Buy-Black-Friday-in-July-Laptop-Deals-for-From-190-free-shipping/21917732.html?iref=rss-c49",
       "note": "From Best Buy feed — confirm spec on retailer site"
-    },
-    {
-      "model": "13-Piece Nitro Men's Blaster Golf Set (Left Handed) $91.60 + Free Shipping",
-      "retailer": "Slickdeals",
-      "price": 92,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19804884-13-piece-nitro-men-s-blaster-golf-set-left-handed-91-60-free-shipping",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
