@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 22:59 UTC",
+  "updated": "2026-07-25 00:11 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook 14 - Intel Core Ultra 9 285H, 32GB RAM, 1TB SSD, 14\" WUXGA OLED,…",
@@ -565,21 +565,21 @@
       "note": "From Best Buy feed — confirm spec on retailer site"
     },
     {
-      "model": "14\" Lenovo Yoga 7a 2-in-1 Gen 11 Laptop, Ryzen AI 7 445, 24GB LPDDR5X, 1TB SS…",
-      "retailer": "Lenovo",
-      "price": 1161,
+      "model": "13-Piece Nitro Men's Blaster Golf Set (Left Handed) $91.60 + Free Shipping",
+      "retailer": "Slickdeals",
+      "price": 92,
       "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 7 445",
-      "ram": "24GB",
-      "storage": "1TB",
-      "screen": "14\"",
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19804839-14-lenovo-yoga-7a-2-in-1-gen-11-laptop-ryzen-ai-7-445-24gb-lpddr5x-1tb-ssd-win-11-pro-1160-89-free-shipping",
-      "note": "From Lenovo feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19804884-13-piece-nitro-men-s-blaster-golf-set-left-handed-91-60-free-shipping",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
