@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26 06:34 UTC",
+  "updated": "2026-07-26 09:11 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 15 AG15-71P Laptop - Intel Core i7-13620H, 16GB, 512GB SSD, In…",
@@ -25,7 +25,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Snapdragon X",
-      "ram": "512GB",
+      "ram": "512GB SSD",
       "storage": "512GB",
       "screen": "14\"",
       "gpu": "—",
@@ -41,7 +41,7 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5 226V",
+      "cpu": "Intel Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "17.3\" FHD",
@@ -279,7 +279,7 @@
       "price": 307,
       "was": null,
       "cat": "Mac",
-      "cpu": "Intel Core i5-1038NG7",
+      "cpu": "Intel Core i5-1035G1",
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -309,6 +309,23 @@
     }
   ],
   "us": [
+    {
+      "model": "New Lenovo IdeaPad 2-in-1 Laptops at Woot for From $470 + free shipping w/ Prime",
+      "retailer": "Lenovo",
+      "price": 470,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785050456-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/New-Lenovo-Idea-Pad-2-in-1-Laptops-at-Woot-for-From-470-free-shipping-w-Prime/21933189.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "Rnruo Ultra 5 115U 15.9\" Laptop for $541 + free shipping",
       "retailer": "dealnews",
@@ -349,7 +366,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core Ultra 5 210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -437,7 +454,7 @@
       "cpu": "Core Ultra 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -451,7 +468,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core Ultra 7 240H",
+      "cpu": "Intel Core 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -548,21 +565,21 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Acer Chromebook Plus 15.6\" w/ 1-year of Google AI Pro for $380 + free shipping",
-      "retailer": "Acer",
-      "price": 380,
+      "model": "HyperX - OMEN 16\" 165Hz 2.5K OLED Gaming Laptop - AMD Ryzen 9 8940HX (2025) -…",
+      "retailer": "Slickdeals",
+      "price": 1450,
       "was": null,
-      "cat": "Chromebook",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
+      "cat": "Gaming",
+      "cpu": "Ryzen 9 8940HX",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "16\" 2.5K OLED 165Hz",
+      "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1782311526-71ginpfzwzl.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-Plus-515-15-6-1080-p-IPS-Touch-Laptop/501236.html?iref=rss-c49",
-      "note": "From Acer feed — confirm spec on retailer site"
+      "img": null,
+      "link": "https://slickdeals.net/f/19809348-hyperx-omen-16-165hz-2-5k-oled-gaming-laptop-amd-ryzen-9-8940hx-2025-16gb-memory-nvidia-geforce-rtx-5060-1tb-ssd-shadow-black-1449-99-bestbuy-com",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
