@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 18:22 UTC",
+  "updated": "2026-07-27 20:20 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook A14 OLED UX3407NA 1TB SSD Snapdragon X2 Elite 88 16gb ram - w/Vo…",
@@ -112,7 +112,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -381,7 +381,7 @@
       "price": 307,
       "was": null,
       "cat": "Mac",
-      "cpu": "Intel Core i5-1038NG7",
+      "cpu": "Intel Core i5-1.4GHz",
       "ram": "16GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -454,7 +454,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1 Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -519,7 +519,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -590,7 +590,7 @@
       "cpu": "Core Ultra 5 16",
       "ram": "—",
       "storage": "—",
-      "screen": "16\"",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -604,7 +604,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7-240H",
+      "cpu": "Intel Core 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -648,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1752088545-de5afb27-9974-44c4-bfcf-9ffe3f85dc94.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Victus-Ryzen-7-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-4050/491498.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Baseus 67W Laptop Power Bank 10000mAh with Built in Dual Cables $25.29 & More…",
-      "retailer": "Slickdeals",
-      "price": 25,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19814235-baseus-67w-laptop-power-bank-10000mah-with-built-in-dual-cables-25-29-more-fs-w-prime-or-orders-35",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
