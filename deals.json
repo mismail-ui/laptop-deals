@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-27 16:16 UTC",
+  "updated": "2026-07-27 18:22 UTC",
   "uk": [
+    {
+      "model": "ASUS Zenbook A14 OLED UX3407NA 1TB SSD Snapdragon X2 Elite 88 16gb ram - w/Vo…",
+      "retailer": "Amazon",
+      "price": 1104,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Snapdragon X2",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\" OLED",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/kZynE/4944791_1/re/320x320/qt/55/4944791_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-zenbook-a14-oled-ux3407na-1tb-ssd-snapdragon-x2-elite-88-16gb-ram-4944791",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Dell 14 Plus DB14250 laptop - 32GB RAM, Intel Core Ultra 7 258V, 1TB",
       "retailer": "Dell",
@@ -44,7 +61,7 @@
       "cpu": "Intel Core 5-120U",
       "ram": "8GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -61,7 +78,7 @@
       "cpu": "Snapdragon X1",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16.0\" WUXGA",
+      "screen": "16\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -378,6 +395,23 @@
   ],
   "us": [
     {
+      "model": "MallRace Ryzen 7 7735HS Gaming Laptop for $540 + free shipping",
+      "retailer": "dealnews",
+      "price": 540,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7 7735HS",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785169437-amd-ryzen-7-7735hs-laptop-front-view-ywmf.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Mall-Race/Mall-Race-Ryzen-7-7735-HS-Gaming-Laptop/512073.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
       "model": "Lenovo V14 G5 i7 14\" Laptop w/ 512GB SSD for $550 + free shipping",
       "retailer": "Lenovo",
       "price": 550,
@@ -614,6 +648,23 @@
       "img": "https://d.dlnws.com/64599/1752088545-de5afb27-9974-44c4-bfcf-9ffe3f85dc94.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Victus-Ryzen-7-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-4050/491498.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Baseus 67W Laptop Power Bank 10000mAh with Built in Dual Cables $25.29 & More…",
+      "retailer": "Slickdeals",
+      "price": 25,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19814235-baseus-67w-laptop-power-bank-10000mah-with-built-in-dual-cables-25-29-more-fs-w-prime-or-orders-35",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
