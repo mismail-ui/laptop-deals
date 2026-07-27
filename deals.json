@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-27 06:27 UTC",
+  "updated": "2026-07-27 10:40 UTC",
   "uk": [
+    {
+      "model": "Dell 16 Laptop - Intel Core 5-120U, 10 cores, 512GB SSD, 8 GB DDR5, Windows 1…",
+      "retailer": "Dell",
+      "price": 499,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 5-120U",
+      "ram": "8GB",
+      "storage": "512GB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/K4Sj9/4944386_1/re/320x320/qt/55/4944386_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/dell-16-laptop-4944386",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Vivobook 16 X1607QA CoPilot+ Laptop | 16.0\" WUXGA Screen | Qualcomm Snap…",
       "retailer": "Amazon",
@@ -383,7 +400,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -468,7 +485,7 @@
       "price": 850,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7-240H",
+      "cpu": "Intel Core 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
