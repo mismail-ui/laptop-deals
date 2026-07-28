@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-28 21:04 UTC",
+  "updated": "2026-07-28 22:55 UTC",
   "uk": [
+    {
+      "model": "MacBook Neo A18 Chip 256gb - good as new - Silver/Blush",
+      "retailer": "EE Tech & Gaming",
+      "price": 549,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple A18",
+      "ram": "—",
+      "storage": "256GB",
+      "screen": "—",
+      "gpu": "Apple A18 GPU",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/XvT35/4945639_1/re/320x320/qt/55/4945639_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/macbook-neo-a18-chip-256gb-good-as-new-silverblush-4945639",
+      "note": "From EE Tech & Gaming feed — confirm spec on retailer site"
+    },
     {
       "model": "HP 15.6\" Laptop | AMD Ryzen 5 | 16GB | 512GB SSD | Windows 11 Home True Visio…",
       "retailer": "Amazon",
@@ -10,7 +27,7 @@
       "cpu": "Ryzen 5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\"",
+      "screen": "15.6\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -44,7 +61,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -180,7 +197,7 @@
       "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "17.3\" FHD",
+      "screen": "17.3\" FHD Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -249,7 +266,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "—",
+      "gpu": "Apple M5 GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/akPBv/4942846_1/re/320x320/qt/55/4942846_1.jpg",
@@ -374,23 +391,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/VOCxy/4941835_1/re/320x320/qt/55/4941835_1.jpg",
       "link": "https://www.hotukdeals.com/deals/pcspecialist-laptop-240hz-5070ti-32gb-1tb-no-os-4941835",
       "note": "From PC Specialist feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Predator Helios NEO 16 AI, Intel Core Ultra 7 255HX, 16GB RAM, 1TB SSD, …",
-      "retailer": "Costco",
-      "price": 1140,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Core Ultra 7 255HX",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "16\"",
-      "gpu": "RTX 5070",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/giiEI/4941656_1/re/320x320/qt/55/4941656_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-predator-helios-neo-16-ai-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-16-inch-gaming-laptop-nhqx3ek002-4941656",
-      "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -624,7 +624,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" Touch",
+      "screen": "14\" 2-in-1 Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -699,23 +699,6 @@
       "img": "https://d.dlnws.com/64599/1784831058-product-trimmed.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Aspire-Lite-N150-15-6-Student-Laptop-w-1-Year-Microsoft-365-Personal/511131.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS TUF A14 (2026): 14\" QHD+ IPS 165Hz, Ryzen AI MAX+ 392, Radeon 8060S, 32G…",
-      "retailer": "ASUS",
-      "price": 1400,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "AMD Ryzen AI MAX+ 392",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "14\" QHD+ 165Hz",
-      "gpu": "RADEON 8060S",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19818564-asus-tuf-a14-2026-14-qhd-ips-165hz-ryzen-ai-max-392-radeon-8060s-32gb-lpddr5-1tb-ssd-1399-99",
-      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
