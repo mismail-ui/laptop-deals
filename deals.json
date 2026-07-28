@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 15:18 UTC",
+  "updated": "2026-07-28 17:24 UTC",
   "uk": [
     {
       "model": "HP 15.6\" Laptop | AMD Ryzen 5 | 16GB | 512GB SSD | Windows 11 Home True Visio…",
@@ -177,7 +177,7 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Ultra 5 226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "17.3\" FHD",
@@ -391,26 +391,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/giiEI/4941656_1/re/320x320/qt/55/4941656_1.jpg",
       "link": "https://www.hotukdeals.com/deals/acer-predator-helios-neo-16-ai-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5070-16-inch-gaming-laptop-nhqx3ek002-4941656",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Predator Helios 18 AI, Intel Core Ultra 9 275HX, 64GB RAM, 1TB SSD NVIDI…",
-      "retailer": "Costco",
-      "price": 2999,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Core Ultra 9 275HX",
-      "ram": "64GB",
-      "storage": "1TB",
-      "screen": "18\"",
-      "gpu": "RTX 5090",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/9Ez56/4941653_1/re/320x320/qt/55/4941653_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-predator-helios-18-ai-intel-core-ultra-9-275hx-64gb-ram-1tb-ssd-nvidia-geforce-rtx-5090-18-inch-gaming-laptop-nhqvwek005-4941653",
-      "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Gaming PC & Laptop Deals at Best Buy for From $900 + free shipping",
+      "retailer": "Best Buy",
+      "price": 900,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785254726-e70112c8-476c-40fc-ac3c-17aabb2befd1.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Gaming-PC-Laptop-Deals-at-Best-Buy-for-From-900-free-shipping/21938580.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
+    },
     {
       "model": "Kaigerr Ryzen 7 H255 16\" Gaming Laptop for $701 + free shipping",
       "retailer": "dealnews",
@@ -587,7 +587,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core 5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -665,23 +665,6 @@
       "img": "https://d.dlnws.com/64599/1784657668-ce7b9972-e8a0-413c-8d16-d5fe570d1419.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Core-Ultra-5-16-Touchscreen-Laptop/510427.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Alienware 15 Core 7 240H 15.3\" Gaming Laptop w/ RTX 4050 for $850 + free ship…",
-      "retailer": "dealnews",
-      "price": 850,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core 7 240H",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.3\"",
-      "gpu": "RTX 4050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1784626734-product-trimmed.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Alienware/Alienware-15-Core-7-240-H-15-3-Gaming-Laptop-w-RTX-4050/510413.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     }
   ]
 }
