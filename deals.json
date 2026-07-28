@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 17:24 UTC",
+  "updated": "2026-07-28 19:19 UTC",
   "uk": [
     {
       "model": "HP 15.6\" Laptop | AMD Ryzen 5 | 16GB | 512GB SSD | Windows 11 Home True Visio…",
@@ -177,7 +177,7 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5 226V",
+      "cpu": "Intel Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "17.3\" FHD",
@@ -395,6 +395,23 @@
   ],
   "us": [
     {
+      "model": "Nimo Ryzen 5 6600H 15.6\" Laptop for $679 + free shipping",
+      "retailer": "dealnews",
+      "price": 679,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 5 6600H",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785258709-draftworks_img_78s57e37bn7r8ciapim.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/Nimo-Ryzen-5-6600-H-15-6-Laptop-for-679-free-shipping/21938603.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
       "model": "Gaming PC & Laptop Deals at Best Buy for From $900 + free shipping",
       "retailer": "Best Buy",
       "price": 900,
@@ -418,7 +435,7 @@
       "was": null,
       "cat": "Gaming",
       "cpu": "Ryzen 7 H255",
-      "ram": "—",
+      "ram": "16GB",
       "storage": "—",
       "screen": "16\"",
       "gpu": "—",
@@ -587,7 +604,7 @@
       "price": 1000,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -650,21 +667,21 @@
       "note": "From Costco feed — confirm spec on retailer site"
     },
     {
-      "model": "HP OmniBook 3 Core Ultra 5 16\" Touchscreen Laptop for $600 + free shipping",
-      "retailer": "HP",
-      "price": 600,
+      "model": "ASUS TUF A14 (2026): 14\" QHD+ IPS 165Hz, Ryzen AI MAX+ 392, Radeon 8060S, 32G…",
+      "retailer": "ASUS",
+      "price": 1400,
       "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 5 16",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
+      "cat": "Gaming",
+      "cpu": "AMD Ryzen AI MAX+ 392",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "14\" QHD+ IPS 165Hz",
+      "gpu": "RADEON 8060S",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1784657668-ce7b9972-e8a0-413c-8d16-d5fe570d1419.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Core-Ultra-5-16-Touchscreen-Laptop/510427.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
+      "img": null,
+      "link": "https://slickdeals.net/f/19818564-asus-tuf-a14-2026-14-qhd-ips-165hz-ryzen-ai-max-392-radeon-8060s-32gb-lpddr5-1tb-ssd-1399-99",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
