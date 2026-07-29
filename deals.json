@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 23:57 UTC",
+  "updated": "2026-07-29 03:11 UTC",
   "uk": [
     {
       "model": "MacBook Neo A18 Chip 256gb - good as new - Silver/Blush",
@@ -129,7 +129,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16\" WUXGA",
+      "screen": "16.0\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -163,7 +163,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -194,10 +194,10 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Ultra 5 226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "17.3\" FHD",
+      "screen": "17.3\" FHD Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -699,6 +699,23 @@
       "img": "https://d.dlnws.com/64599/1784831058-product-trimmed.png?h=240&w=320",
       "link": "https://www.dealnews.com/products/Acer/Acer-Aspire-Lite-N150-15-6-Student-Laptop-w-1-Year-Microsoft-365-Personal/511131.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS TUF A14 (2026): 14\" QHD+ IPS 165Hz, Ryzen AI MAX+ 392, Radeon 8060S, 32G…",
+      "retailer": "ASUS",
+      "price": 1400,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "AMD Ryzen AI MAX+ 392",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "14\" QHD+ IPS 165Hz",
+      "gpu": "RADEON 8060S",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19818564-asus-tuf-a14-2026-14-qhd-ips-165hz-ryzen-ai-max-392-radeon-8060s-32gb-lpddr5-1tb-ssd-1399-99",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
