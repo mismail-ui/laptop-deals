@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 18:05 UTC",
+  "updated": "2026-07-29 20:11 UTC",
   "uk": [
     {
       "model": "Lenovo Yoga Slim 7 OLED - Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD, 14\" FHD…",
@@ -10,7 +10,7 @@
       "cpu": "Core Ultra 7 256V",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" FHD OLED",
+      "screen": "14\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -112,7 +112,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -143,7 +143,7 @@
       "price": 250,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95",
+      "cpu": "Intel Core N95",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -624,7 +624,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" 2-in-1 Touch",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
