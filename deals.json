@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-29 16:20 UTC",
+  "updated": "2026-07-29 18:05 UTC",
   "uk": [
+    {
+      "model": "Lenovo Yoga Slim 7 OLED - Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD, 14\" FHD…",
+      "retailer": "Currys",
+      "price": 679,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Core Ultra 7 256V",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\" FHD OLED",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/kkZNk/4946223_1/re/320x320/qt/55/4946223_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lenovo-yoga-slim-7-oled-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-14-fhd-oled-display-grey-windows-11-home-laptop-4946223",
+      "note": "From Currys feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad Pro 5 14AGP11 Copilot+PC, AMD Ryzen AI 7, 32GB RAM, 1TB SSD, 1…",
       "retailer": "Costco",
@@ -391,23 +408,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/5NP7x/4942019_1/re/320x320/qt/55/4942019_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lg-gram-intel-core-ultra-7-16gb-ram-512gb-ssd-16-inch-laptop-16z90tl-gau75a1-2-year-warrnaty-discount-applied-at-checkout-4942019",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP Chromebook 14\" | Intel Celeron N4500 Processor | 4GB RAM | 64GB eMMC | Int…",
-      "retailer": "Amazon",
-      "price": 119,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Celeron",
-      "ram": "4GB",
-      "storage": "64GB eMMC",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/hBk5j/4941883_1/re/320x320/qt/55/4941883_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-chromebook-14-intel-celeron-n4500-processor-4gb-ram-64gb-emmc-intel-uhd-graphics-hd-anti-glare-display-4941883",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -624,7 +624,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" Touch",
+      "screen": "14\" 2-in-1 Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
