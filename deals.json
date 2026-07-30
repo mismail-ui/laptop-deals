@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 11:05 UTC",
+  "updated": "2026-07-30 13:54 UTC",
   "uk": [
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core i5-13420H | 16GB RAM (32GB Expand…",
@@ -44,7 +44,7 @@
       "cpu": "Intel Core i7-255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" FHD+ OLED",
+      "screen": "16\" OLED FHD+",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -211,7 +211,7 @@
       "price": 499,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5-120U",
+      "cpu": "Intel Core Ultra 5-120U",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -391,33 +391,50 @@
       "img": "https://images.hotukdeals.com/threads/raw/i5yKM/4942501_1/re/320x320/qt/55/4942501_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lg-gram-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-wqxga-2560-x-1600-16-inch-laptop-16z90tl-gau75a1-4942501",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Microsoft Surface Laptop 7 Copilot+ PC, Snapdragon X Elite, 16GB RAM, 512GB S…",
-      "retailer": "Costco",
-      "price": 970,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon X Elite",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "13.8\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/kUrUb/4942112_1/re/320x320/qt/55/4942112_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/microsoft-surface-laptop-7-copilot-pc-snapdragon-x-elite-16gb-ram-512gb-ssd-138-inch-laptop-zgp-00040-4942112",
-      "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Gigabyte Aero X16 Ryzen AI 7 350 16\" Laptop PC w/ RTX 5060 & 32GB RAM for $1,…",
+      "retailer": "dealnews",
+      "price": 1200,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen AI 7 350",
+      "ram": "32GB",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "RTX 5060",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785411128-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Gigabyte/Gigabyte-Aero-X16-Ryzen-AI-7-350-16-Laptop-PC-w-RTX-5060-32-GB-RAM/512835.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Acer Swift Go 16 AI Core Ultra 5 322 16\" Touch Laptop for $700 + free shipping",
+      "retailer": "Acer",
+      "price": 700,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Core Ultra 5 322",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785409973-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Acer/Acer-Swift-Go-16-AI-Core-Ultra-5-322-16-Touch-Laptop/512834.html?iref=rss-c49",
+      "note": "From Acer feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad Slim 3i N355 15.6\" Laptop PC for $300 + free shipping",
       "retailer": "Lenovo",
       "price": 300,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel N355",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -455,7 +472,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "NVIDIA RTX",
+      "gpu": "RTX",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785311988-product-trimmed.jpg?h=240&w=320",
@@ -631,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1785164617-0c865f7a-8c16-41bb-b8c5f30dff1e893b_sc7.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Staples-Back-to-School-Laptop-Deals-for-From-250-free-next-day-delivery/21934487.html?iref=rss-c49",
       "note": "From Staples feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook X Flip 14\" 2-in-1 Touch Laptop w/ 16GB RAM, 512GB SSD for $650 + …",
-      "retailer": "HP",
-      "price": 650,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14\" Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785158179-227bf561-1b84-4a64-a938-8a017db2f080.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Omni-Book-X-Flip-14-2-in-1-Touch-Laptop-w-16-GB-RAM-512-GB-SSD-for-650-free-shipping/21934458.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
