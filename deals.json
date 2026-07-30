@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-29 23:05 UTC",
+  "updated": "2026-07-30 02:09 UTC",
   "uk": [
+    {
+      "model": "ASUS Vivobook S16 OLED - FHD+, intel 7 255H, 16GB RAM(Upgradeable), 1TB SSD, …",
+      "retailer": "Currys",
+      "price": 594,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Intel Core i7-255H",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "16\" FHD+ OLED",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/9Y5NL/4946449_1/re/320x320/qt/55/4946449_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s16-oled-fhd-intel-7-255h-16gb-ramupgradeable-1tb-ssd-win11-laptop-wcode-4946449",
+      "note": "From Currys feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo Yoga Slim 7 OLED - Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD, 14\" FHD…",
       "retailer": "Currys",
@@ -112,7 +129,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -248,7 +265,7 @@
       "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "17.3\" FHD",
+      "screen": "17.3\" FHD Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -390,23 +407,6 @@
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/3jaVC/4942110_1/re/320x320/qt/55/4942110_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-vivobook-flip-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-oled-convertible-2-in-1-laptop-tp3407sa-ql011w-4942110",
-      "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "LG gram, Intel Core Ultra 7, 16GB RAM, 512GB SSD, 16 Inch Laptop, 16Z90TL-G.A…",
-      "retailer": "Costco",
-      "price": 800,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Core Ultra 7",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/5NP7x/4942019_1/re/320x320/qt/55/4942019_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lg-gram-intel-core-ultra-7-16gb-ram-512gb-ssd-16-inch-laptop-16z90tl-gau75a1-2-year-warrnaty-discount-applied-at-checkout-4942019",
       "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
