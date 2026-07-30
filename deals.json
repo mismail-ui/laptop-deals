@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 21:07 UTC",
+  "updated": "2026-07-30 23:04 UTC",
   "uk": [
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core i5-13420H | 16GB RAM (32GB Expand…",
@@ -211,7 +211,7 @@
       "price": 499,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5-120U",
+      "cpu": "Intel Core Ultra 5-120U",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -299,7 +299,7 @@
       "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "17.3\" FHD Touch",
+      "screen": "17.3\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -403,7 +403,7 @@
       "cpu": "Ryzen 7 15",
       "ram": "—",
       "storage": "—",
-      "screen": "15.6\" Touchscreen",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -471,7 +471,7 @@
       "cpu": "Core Ultra 5 322",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -556,7 +556,7 @@
       "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -648,6 +648,23 @@
       "img": "https://d.dlnws.com/64599/1785246928-draftworks_img_5p693e0nbs1lckfeghe.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/Kaigerr-Ryzen-7-H255-16-Gaming-Laptop-for-701-free-shipping/21938524.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OmniBook X 16 (2026): 16\" FHD+ OLED Touch, Snapdragon X2 Elite X2E-84-100,…",
+      "retailer": "HP",
+      "price": 900,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Snapdragon X2",
+      "ram": "24GB",
+      "storage": "512GB",
+      "screen": "16\" FHD+ OLED",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19826373-hp-omnibook-x-16-2026-16-fhd-oled-touch-snapdragon-x2-elite-x2e-84-100-24gb-lpddr5-512gb-899-99",
+      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
