@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 15:50 UTC",
+  "updated": "2026-07-30 17:24 UTC",
   "uk": [
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core i5-13420H | 16GB RAM (32GB Expand…",
@@ -44,7 +44,7 @@
       "cpu": "Intel Core i7-255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" FHD+",
+      "screen": "16\" FHD+ OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -296,7 +296,7 @@
       "price": 594,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5-226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "17.3\" FHD",
@@ -395,6 +395,23 @@
   ],
   "us": [
     {
+      "model": "ASUS Vivobook Go 15 N150 15.6\" Laptop for $210 + free shipping w/ Prime",
+      "retailer": "ASUS",
+      "price": 210,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785427593-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/ASUS/ASUS-Vivobook-Go-15-N150-15-6-Laptop/512844.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
       "model": "Gigabyte Aero X16 Ryzen AI 7 350 16\" Laptop PC w/ RTX 5060 & 32GB RAM for $1,…",
       "retailer": "dealnews",
       "price": 1200,
@@ -420,7 +437,7 @@
       "cpu": "Core Ultra 5 322",
       "ram": "—",
       "storage": "—",
-      "screen": "16\"",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +451,7 @@
       "price": 300,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N355",
+      "cpu": "—",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -505,7 +522,7 @@
       "cpu": "Intel Core 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K",
+      "screen": "14\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -631,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1785166910-d9e5f48f-19e8-4591-b3b575648452ab9e_sc7.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-V14-G5-i7-14-Laptop-w-512-GB-SSD-for-550-free-shipping/21934506.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Staples Back to School Laptop Deals for From $250 + free next-day delivery",
-      "retailer": "Staples",
-      "price": 250,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785164617-0c865f7a-8c16-41bb-b8c5f30dff1e893b_sc7.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Staples-Back-to-School-Laptop-Deals-for-From-250-free-next-day-delivery/21934487.html?iref=rss-c49",
-      "note": "From Staples feed — confirm spec on retailer site"
     }
   ]
 }
