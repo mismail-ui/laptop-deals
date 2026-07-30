@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30 17:24 UTC",
+  "updated": "2026-07-30 19:22 UTC",
   "uk": [
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core i5-13420H | 16GB RAM (32GB Expand…",
@@ -299,7 +299,7 @@
       "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "17.3\" FHD",
+      "screen": "17.3\" FHD Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -395,12 +395,29 @@
   ],
   "us": [
     {
+      "model": "ASUS Vivobook 15 Core 7 350 15.6\" Laptop for $680 + free shipping",
+      "retailer": "ASUS",
+      "price": 680,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 7 350",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785436942-sp314044954_sc7.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/products/ASUS/ASUS-Vivobook-15-Core-7-350-15-6-Laptop/512848.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
       "model": "ASUS Vivobook Go 15 N150 15.6\" Laptop for $210 + free shipping w/ Prime",
       "retailer": "ASUS",
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -451,7 +468,7 @@
       "price": 300,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel N355",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -519,7 +536,7 @@
       "price": 580,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
       "screen": "14\" 2K Touch",
@@ -631,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1785169437-amd-ryzen-7-7735hs-laptop-front-view-ywmf.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Mall-Race/Mall-Race-Ryzen-7-7735-HS-Gaming-Laptop/512073.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo V14 G5 i7 14\" Laptop w/ 512GB SSD for $550 + free shipping",
-      "retailer": "Lenovo",
-      "price": 550,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i7",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785166910-d9e5f48f-19e8-4591-b3b575648452ab9e_sc7.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-V14-G5-i7-14-Laptop-w-512-GB-SSD-for-550-free-shipping/21934506.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
