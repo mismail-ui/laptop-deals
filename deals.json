@@ -1,6 +1,23 @@
 {
-  "updated": "2026-07-30 23:04 UTC",
+  "updated": "2026-07-31 02:37 UTC",
   "uk": [
+    {
+      "model": "ASUS Vivobook S16 M3607KA-SH008W AMD Ryzen AI 7 350 32GB RAM 1TB SSD 16\" Wind…",
+      "retailer": "Box.co.uk",
+      "price": 840,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen AI 7 350",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/fy4Of/4947221_1/re/320x320/qt/55/4947221_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s16-m3607ka-sh008w-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-16-windows-11-home-copilot-laptop-4947221",
+      "note": "From Box.co.uk feed — confirm spec on retailer site"
+    },
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core i5-13420H | 16GB RAM (32GB Expand…",
       "retailer": "Currys",
@@ -194,7 +211,7 @@
       "price": 250,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95",
+      "cpu": "Intel N-Series N95",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -211,7 +228,7 @@
       "price": 499,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5-120U",
+      "cpu": "Intel Core 5-120U",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -374,23 +391,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/akPBv/4942846_1/re/320x320/qt/55/4942846_1.jpg",
       "link": "https://www.hotukdeals.com/deals/macbook-air-m5-13-inch-laptop-16gb-512gb-10-core-midnight-sky-blue-silver-starlight-4942846",
       "note": "From EE Tech & Gaming feed — confirm spec on retailer site"
-    },
-    {
-      "model": "LG gram, Intel Core Ultra 7 256V, 16GB RAM, 512GB SSD, WQXGA 2560 x 1600 16 I…",
-      "retailer": "Costco",
-      "price": 700,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Core Ultra 7 256V",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/i5yKM/4942501_1/re/320x320/qt/55/4942501_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lg-gram-intel-core-ultra-7-256v-16gb-ram-512gb-ssd-wqxga-2560-x-1600-16-inch-laptop-16z90tl-gau75a1-4942501",
-      "note": "From Costco feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -417,7 +417,7 @@
       "price": 680,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 350",
+      "cpu": "AMD Ryzen 7 350",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -434,7 +434,7 @@
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N150",
+      "cpu": "Intel N-Series N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -485,7 +485,7 @@
       "price": 300,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N355",
+      "cpu": "Intel N-Series N355",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -523,7 +523,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "NVIDIA RTX",
+      "gpu": "RTX",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785311988-product-trimmed.jpg?h=240&w=320",
@@ -648,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1785246928-draftworks_img_5p693e0nbs1lckfeghe.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/Kaigerr-Ryzen-7-H255-16-Gaming-Laptop-for-701-free-shipping/21938524.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook X 16 (2026): 16\" FHD+ OLED Touch, Snapdragon X2 Elite X2E-84-100,…",
-      "retailer": "HP",
-      "price": 900,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon X2",
-      "ram": "24GB",
-      "storage": "512GB",
-      "screen": "16\" FHD+ OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19826373-hp-omnibook-x-16-2026-16-fhd-oled-touch-snapdragon-x2-elite-x2e-84-100-24gb-lpddr5-512gb-899-99",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
