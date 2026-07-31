@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 11:57 UTC",
+  "updated": "2026-07-31 14:20 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S16 M3607KA-SH008W AMD Ryzen AI 7 350 32GB RAM 1TB SSD 16\" Wind…",
@@ -570,10 +570,10 @@
       "price": 580,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5",
+      "cpu": "Intel Core 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K Touch Flip",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
