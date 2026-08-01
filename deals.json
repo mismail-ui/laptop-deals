@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-01 09:04 UTC",
+  "updated": "2026-08-01 11:15 UTC",
   "uk": [
+    {
+      "model": "Firebat Laptop 16 Inch 2560×1600 QHD 120Hz IPS Display AMD Ryzen 5 6600H 16GB…",
+      "retailer": "Amazon",
+      "price": 433,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 5 6600H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/7VvpH/4948200_1/re/320x320/qt/55/4948200_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/firebat-laptop-16-inch-25601600-qhd-120hz-ips-display-amd-ryzen-5-6600h-16gb-lpddr5-ram-512gb-sold-by-firebat-shop-uk-fba-4948200",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple MacBook Air 2026, Apple M5 Chip, 16GB RAM, 512GB SSD, 15 Inch all colou…",
       "retailer": "Costco",
@@ -95,7 +112,7 @@
       "cpu": "Intel Core i7 255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" FHD+ OLED",
+      "screen": "16\" OLED FHD+",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -391,23 +408,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/8b80Y/4943268_1/re/320x320/qt/55/4943268_1.jpg",
       "link": "https://www.hotukdeals.com/deals/ideapad-slim-5-laptop-amd-ryzen-ai-5-processor-16gb-ram-512gb-ssd-14-wuxga-luna-grey-4943268",
       "note": "From John Lewis & Partners feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Zenbook 14 - Intel Core Ultra 9 285H, 32GB RAM, 1TB SSD, 14\" WUXGA OLED,…",
-      "retailer": "Currys",
-      "price": 899,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Core Ultra 9 285H",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "14\" WUXGA OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/8nazE/4942872_1/re/320x320/qt/55/4942872_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-zenbook-14-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-14-wuxga-oled-windows-11-laptop-4942872",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -502,7 +502,7 @@
       "price": 680,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen 7 350",
+      "cpu": "Intel Core 7 350",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -574,7 +574,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "Nvidia RTX",
+      "gpu": "RTX",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785311988-product-trimmed.jpg?h=240&w=320",
@@ -735,21 +735,38 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo Legion Tab Gen 5: 8.8\" 3K 165Hz IPS, Snapdragon 8 Elite Gen 5, 12GB LP…",
-      "retailer": "Lenovo",
-      "price": 622,
+      "model": "Apple MacBook Pro (Early 2026): 16.2\", M5 Max (18C CPU/40C GPU), 64GB RAM, 2T…",
+      "retailer": "Slickdeals",
+      "price": 4800,
       "was": null,
-      "cat": "Gaming",
-      "cpu": "Snapdragon 8 Elite Gen 5",
-      "ram": "12GB",
-      "storage": "256GB",
-      "screen": "8.8\" 3K 165Hz",
-      "gpu": "—",
+      "cat": "Mac",
+      "cpu": "Apple M5 Max",
+      "ram": "64GB",
+      "storage": "2TB",
+      "screen": "16.2\"",
+      "gpu": "40-core GPU",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19829958-lenovo-legion-tab-gen-5-8-8-3k-165hz-ips-snapdragon-8-elite-gen-5-12gb-lpddr5-256gb-ufs-622-44",
-      "note": "From Lenovo feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19831272-apple-macbook-pro-early-2026-16-2-m5-max-18c-cpu-40c-gpu-64gb-ram-2tb-ssd-4799-99",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OMEN HyperX (2026): 16\" FHD+ 165Hz, Intel Ultra 7 356H, RTX 5060, 16GB DDR…",
+      "retailer": "HP",
+      "price": 1250,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Intel Core Ultra 7 356H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\" FHD+ 165Hz",
+      "gpu": "RTX 5060",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19830903-hp-omen-hyperx-2026-16-fhd-165hz-intel-ultra-7-356h-rtx-5060-16gb-ddr5-512gb-ssd-1249-99",
+      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
