@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 23:59 UTC",
+  "updated": "2026-08-01 03:41 UTC",
   "uk": [
     {
       "model": "Apple MacBook Air 2026, Apple M5 Chip, 16GB RAM, 512GB SSD, 15 Inch all colou…",
@@ -95,7 +95,7 @@
       "cpu": "Intel Core 7 255H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\" FHD+ OLED",
+      "screen": "16\" OLED FHD+",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -214,7 +214,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -553,7 +553,7 @@
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N150",
+      "cpu": "Intel N Series",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
