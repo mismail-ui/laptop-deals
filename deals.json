@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 19:06 UTC",
+  "updated": "2026-08-02 20:52 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 3, AMD Ryzen 5, 16GB RAM, 512GB SSD, 14 Inch Laptop, 83K6…",
@@ -282,7 +282,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -384,7 +384,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -519,7 +519,7 @@
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
