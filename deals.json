@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 14:27 UTC",
+  "updated": "2026-08-02 15:58 UTC",
   "uk": [
     {
       "model": "Apple 13-inch MacBook Air, M4 chip, 16GB unified memory, 256GB SSD, Midnight …",
@@ -24,7 +24,7 @@
       "price": 649,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "AMD AI 7 350",
+      "cpu": "AMD Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "14\" OLED FHD+",
@@ -143,7 +143,7 @@
       "price": 594,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core i7 255H",
+      "cpu": "Intel Core Ultra 7 255H",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" OLED FHD+",
@@ -570,7 +570,7 @@
       "price": 580,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
       "screen": "14\" 2K Touch",
@@ -675,7 +675,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" Touch 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
