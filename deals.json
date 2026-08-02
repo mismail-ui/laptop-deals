@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02 10:39 UTC",
+  "updated": "2026-08-02 12:00 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 5 14\" - OLED FHD+, AMD AI 7 350, 16GB RAM(2x SO-DIMM), 1T…",
@@ -45,7 +45,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15\"",
-      "gpu": "Apple M5 GPU",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/wzSWk/4947706_1/re/320x320/qt/55/4947706_1.jpg",
@@ -126,7 +126,7 @@
       "price": 594,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core 7 255H",
+      "cpu": "Intel Core i7-255H",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" OLED FHD+",
@@ -198,7 +198,7 @@
       "ram": "—",
       "storage": "256GB",
       "screen": "—",
-      "gpu": "Apple A18 GPU",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/XvT35/4945639_1/re/320x320/qt/55/4945639_1.jpg",
@@ -248,7 +248,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED —",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -539,7 +539,7 @@
       "cpu": "Core Ultra 5 322",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touch —",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -675,7 +675,7 @@
       "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" 2-in-1 Touch",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -699,23 +699,6 @@
       "img": "https://d.dlnws.com/64599/1785050456-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/New-Lenovo-Idea-Pad-2-in-1-Laptops-at-Woot-for-From-470-free-shipping-w-Prime/21933189.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OMEN HyperX (2026): 16\" FHD+ 165Hz, Intel Ultra 7 356H, RTX 5060, 16GB DDR…",
-      "retailer": "HP",
-      "price": 1250,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core Ultra 7 356H",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "16\" FHD+ 165Hz",
-      "gpu": "RTX 5060",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19830903-hp-omen-hyperx-2026-16-fhd-165hz-intel-ultra-7-356h-rtx-5060-16gb-ddr5-512gb-ssd-1249-99",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
