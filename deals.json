@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 16:40 UTC",
+  "updated": "2026-08-05 18:19 UTC",
   "uk": [
     {
       "model": "Acer Nitro N20 Intel Core i5-13420H 16GB RAM 512GB SSD RTX 5060 Windows 11 Ga…",
@@ -296,7 +296,7 @@
       "price": 594,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core i7 255H",
+      "cpu": "Intel Core 7 255H",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" OLED FHD+",
@@ -420,7 +420,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -590,7 +590,7 @@
       "cpu": "Intel Core 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch 2-in-1",
+      "screen": "14\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
