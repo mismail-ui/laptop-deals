@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 23:59 UTC",
+  "updated": "2026-08-05 03:23 UTC",
   "uk": [
     {
       "model": "APPLE MacBook Pro 14\" (2025) - M5, 512 GB SSD, Space Black",
@@ -27,7 +27,7 @@
       "cpu": "Core i7",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -570,7 +570,7 @@
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
