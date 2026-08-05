@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-05 18:19 UTC",
+  "updated": "2026-08-05 20:25 UTC",
   "uk": [
+    {
+      "model": "APPLE MacBook Air 13.6\" (2025) - M4, 512 GB SSD, RAM 24 GB, Silver",
+      "retailer": "Currys",
+      "price": 1099,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M4",
+      "ram": "24GB",
+      "storage": "512GB",
+      "screen": "13.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
+      "note": "From Currys feed — confirm spec on retailer site"
+    },
     {
       "model": "Acer Nitro N20 Intel Core i5-13420H 16GB RAM 512GB SSD RTX 5060 Windows 11 Ga…",
       "retailer": "Laptops Direct",
@@ -27,7 +44,7 @@
       "cpu": "Intel Core 5 120U",
       "ram": "8GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -306,23 +323,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/9Y5NL/4946449_1/re/320x320/qt/55/4946449_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-vivobook-s16-oled-fhd-intel-7-255h-16gb-ramupgradeable-1tb-ssd-win11-laptop-wcode-4946449",
       "note": "From Currys feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga Slim 7 OLED - Intel Core Ultra 7 256V, 16GB RAM, 1TB SSD, 14\" FHD…",
-      "retailer": "Currys",
-      "price": 679,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Core Ultra 7 256V",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "14\" FHD OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/kkZNk/4946223_1/re/320x320/qt/55/4946223_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-yoga-slim-7-oled-intel-core-ultra-7-256v-16gb-ram-1tb-ssd-14-fhd-oled-display-grey-windows-11-home-laptop-4946223",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -420,7 +420,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -590,7 +590,7 @@
       "cpu": "Intel Core 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K Touch 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
