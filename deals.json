@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 22:09 UTC",
+  "updated": "2026-08-04 23:59 UTC",
   "uk": [
     {
       "model": "APPLE MacBook Pro 14\" (2025) - M5, 512 GB SSD, Space Black",
@@ -75,7 +75,7 @@
       "price": 3105,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Ultra 9 275HX",
+      "cpu": "Intel Core Ultra 9 275HX",
       "ram": "64GB",
       "storage": "2TB",
       "screen": "16\" OLED 2.5K 240Hz",
@@ -126,7 +126,7 @@
       "price": 649,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "AMD AI 7 350",
+      "cpu": "AMD Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "14\" OLED FHD+",
@@ -437,7 +437,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -624,7 +624,7 @@
       "cpu": "Intel Core 5",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touch",
+      "screen": "14\" 2K Touch 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
