@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 09:35 UTC",
+  "updated": "2026-08-05 11:58 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 3 Chromebook 14M868 – 14-Inch FHD Laptop (MediaTek Kompan…",
@@ -92,7 +92,7 @@
       "price": 3105,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Ultra 9 275HX",
+      "cpu": "Intel Core Ultra 9 275HX",
       "ram": "64GB",
       "storage": "2TB",
       "screen": "16\" OLED 2.5K 240Hz",
@@ -143,7 +143,7 @@
       "price": 649,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "AMD AI 7 350",
+      "cpu": "AMD Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "14\" OLED FHD+",
@@ -340,23 +340,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/XvT35/4945639_1/re/320x320/qt/55/4945639_1.jpg",
       "link": "https://www.hotukdeals.com/deals/macbook-neo-a18-chip-256gb-good-as-new-silverblush-4945639",
       "note": "From EE Tech & Gaming feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP 15.6\" Laptop | AMD Ryzen 5 | 16GB | 512GB SSD | Windows 11 Home True Visio…",
-      "retailer": "Amazon",
-      "price": 399,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen 5",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/IUM9a/4945087_1/re/320x320/qt/55/4945087_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-156-laptop-amd-ryzen-5-16gb-512gb-ssd-windows-11-home-true-vision-camera-long-battery-life-ample-storage-4945087",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
