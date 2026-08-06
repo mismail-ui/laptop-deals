@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-06 09:38 UTC",
+  "updated": "2026-08-06 12:01 UTC",
   "uk": [
     {
-      "model": "LENOVO Yoga Slim 7 Aura Edition 14\" FHD+ OLED Ultra 5 226V 16GB DDR5 512GB SS…",
+      "model": "ASUS Zenbook A14 14\" Laptop, Copilot+ PC - Snapdragon ELITE X2E-88-100, 32GB …",
       "retailer": "Currys",
-      "price": 499,
+      "price": 1071,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon Ultra 5 226V",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14\" FHD+ OLED",
+      "cpu": "Snapdragon X Elite X2E-88-100",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/VnRyq/4951662_1/re/320x320/qt/55/4951662_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-yoga-slim-7-aura-edition-14-fhd-oled-ultra-5-226v-16gb-ddr5-512gb-ssd-laptop-with-sudents-discounts-4951662",
+      "img": "https://images.hotukdeals.com/threads/raw/VEa6Y/4951715_1/re/320x320/qt/55/4951715_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-zenbook-a14-14-laptop-copilot-pc-snapdragon-x2e-88-100-32gb-ram-1-tb-ssd-wuxga-oled-screen-beige-free-cc-4951715",
       "note": "From Currys feed — confirm spec on retailer site"
     },
     {
@@ -61,7 +61,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "RTX 5070TI",
       "battery": "—",
       "weight": "—",
@@ -306,23 +306,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/wzSWk/4947706_1/re/320x320/qt/55/4947706_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-2026-apple-m5-chip-16gb-ram-512gb-ssd-15-inch-all-colours-mdvh4ba-4947706",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Vivobook S16 M3607KA-SH008W AMD Ryzen AI 7 350 32GB RAM 1TB SSD 16\" Wind…",
-      "retailer": "Box.co.uk",
-      "price": 840,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen AI 7 350",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/fy4Of/4947221_1/re/320x320/qt/55/4947221_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s16-m3607ka-sh008w-amd-ryzen-ai-7-350-32gb-ram-1tb-ssd-16-windows-11-home-copilot-laptop-4947221",
-      "note": "From Box.co.uk feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -553,7 +536,7 @@
       "price": 210,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N150",
+      "cpu": "Intel Pentium N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -579,40 +562,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785268426-xrfmzzssxz.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-15-t-fd000-Core-i5-15-6-Laptop-PC-for-420-free-shipping/21938660.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 5 Flip Core 5 14\" 2K Touch 2-in-1 Laptop for $580 + free shipping",
-      "retailer": "HP",
-      "price": 580,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2K Touch 2-in-1",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785267914-ot2dicf5ny.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Omni-Book-5-Flip-Core-5-14-2-K-Touch-2-in-1-Laptop-for-580-free-shipping/21938658.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP EliteBook 840 G11 Core Ultra 7 165H 14\" Laptop PC for $1,299 + free shipping",
-      "retailer": "HP",
-      "price": 1299,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 165H",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785267793-tljn7watjp.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Elite-Book-840-G11-Core-Ultra-7-165-H-14-Laptop-PC-for-1-299-free-shipping/21938656.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
     }
   ]
