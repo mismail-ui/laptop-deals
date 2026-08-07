@@ -1,13 +1,30 @@
 {
-  "updated": "2026-08-07 06:07 UTC",
+  "updated": "2026-08-07 08:11 UTC",
   "uk": [
+    {
+      "model": "Fusion5 S15 N2 15.6\" FHD Laptop, 16GB RAM, 512GB M.2 SSD, Windows 11 Home, Du…",
+      "retailer": "Amazon",
+      "price": 300,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.6\" FHD",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/6wWKZ/4952315_1/re/320x320/qt/55/4952315_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/fusion5-s15-n2-156-fhd-laptop-16gb-ram-512gb-m2-ssd-windows-11-home-dual-band-wifi-webcam-sold-by-fusion5-direct-fba-4952315",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Zenbook A14 14\" Laptop, Copilot+ PC - Snapdragon ELITE X2E-88-100, 32GB …",
       "retailer": "Currys",
       "price": 1071,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon X Elite X2E-88-100",
+      "cpu": "Snapdragon ELITE X2E-88-100",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -61,7 +78,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "RTX 5070TI",
       "battery": "—",
       "weight": "—",
@@ -284,7 +301,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -386,7 +403,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -512,23 +529,6 @@
       "img": "https://d.dlnws.com/64599/1785436942-sp314044954_sc7.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/ASUS/ASUS-Vivobook-15-Core-7-350-15-6-Laptop/512848.html?iref=rss-c49",
       "note": "From ASUS feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Laptop HP OmniBook 5 16\" - Intel Core Ultra 7 355 - 16GB RAM $699.99",
-      "retailer": "HP",
-      "price": 700,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 355",
-      "ram": "16GB",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19850100-laptop-hp-omnibook-5-16-intel-core-ultra-7-355-16gb-ram-699-99",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
