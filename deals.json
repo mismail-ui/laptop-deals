@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 11:00 UTC",
+  "updated": "2026-08-07 12:57 UTC",
   "uk": [
     {
       "model": "Fusion5 S15 N2 15.6\" FHD Laptop, 16GB RAM, 512GB M.2 SSD, Windows 11 Home, Du…",
@@ -113,7 +113,7 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "Integrated",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
@@ -181,7 +181,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "Integrated",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
@@ -250,7 +250,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -352,7 +352,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
