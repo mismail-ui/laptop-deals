@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 04:52 UTC",
+  "updated": "2026-08-07 06:07 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook A14 14\" Laptop, Copilot+ PC - Snapdragon ELITE X2E-88-100, 32GB …",
@@ -7,7 +7,7 @@
       "price": 1071,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon ELITE X2E-88-100",
+      "cpu": "Snapdragon X Elite X2E-88-100",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -293,23 +293,6 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Dell Ryzen 7 15.6\" Touchscreen Laptop w/ 16GB RAM for $600 + free shipping",
-      "retailer": "Dell",
-      "price": 600,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen 7 15",
-      "ram": "16GB",
-      "storage": "—",
-      "screen": "15.6\" Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786035681-1e8d73b5-60ec-47af-b425-17cd47044aad.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Dell/Dell-Ryzen-7-15-6-Touchscreen-Laptop-w-16-GB-RAM/514861.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
       "model": "ASUS Vivobook 15 Core 7 350 15.6\" Laptop w/ 512GB SSD for $600 + free shipping",
       "retailer": "ASUS",
       "price": 600,
@@ -512,6 +495,23 @@
       "img": "https://d.dlnws.com/64599/1781002778-alienware-gaming-laptop-front-view-fqgp.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Alienware-Ryzen-5-15-3-Gaming-Laptop-w-RTX-5060-for-1-350-free-shipping/21952865.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS Vivobook 15 Core 7 350 15.6\" Laptop for $680 + free shipping",
+      "retailer": "ASUS",
+      "price": 680,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 7 350",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785436942-sp314044954_sc7.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/products/ASUS/ASUS-Vivobook-15-Core-7-350-15-6-Laptop/512848.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
       "model": "Laptop HP OmniBook 5 16\" - Intel Core Ultra 7 355 - 16GB RAM $699.99",
