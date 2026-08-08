@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 07:47 UTC",
+  "updated": "2026-08-08 08:37 UTC",
   "uk": [
     {
       "model": "Fusion5 S15 N2 15.6\" FHD Laptop, 16GB RAM, 512GB M.2 SSD, Windows 11 Home, Du…",
@@ -24,7 +24,7 @@
       "price": 1071,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon ELITE X2E-88-100",
+      "cpu": "Snapdragon X Elite X2E-88-100",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -264,7 +264,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 350",
+      "cpu": "AMD Ryzen 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
