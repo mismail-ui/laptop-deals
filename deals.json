@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 16:31 UTC",
+  "updated": "2026-08-09 17:29 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 14 AG14-32P Laptop - Intel N150, 8GB, 128GB UFS, Integrated Gr…",
@@ -45,7 +45,7 @@
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/VEa6Y/4951715_1/re/320x320/qt/55/4951715_1.jpg",
@@ -130,7 +130,7 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
@@ -198,7 +198,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
@@ -302,7 +302,7 @@
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785969105-sp314044954_sc7.avif?h=240&w=320",
@@ -370,7 +370,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785783764-p9gbrtxthn.webp?h=240&w=320",
@@ -478,23 +478,6 @@
       "img": null,
       "link": "https://slickdeals.net/f/19858065-lenovo-chromebook-plus-14-oled-2k-touchscreen-laptop-with-gemini-mediatek-kompanio-ultra-910-16gb-memory-256gb-ufs-seashell-699-00-bestbuy-com",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "MuscleTech Nitro-Tech Whey Gold Isolate Protein Powder (Vanilla Cream, 5 Lbs)",
-      "retailer": "Slickdeals",
-      "price": null,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19858233-muscletech-nitro-tech-whey-gold-isolate-protein-powder-vanilla-cream-5-lbs",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
