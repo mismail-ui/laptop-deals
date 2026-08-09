@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08 23:26 UTC",
+  "updated": "2026-08-09 01:28 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 14 AG14-32P Laptop - Intel N150, 8GB, 128GB UFS, Integrated Gr…",
@@ -78,7 +78,7 @@
       "cpu": "Intel Core 3 N355",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
@@ -130,9 +130,9 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "Integrated",
-      "battery": "Up to 16h",
-      "weight": "1.24kg",
+      "gpu": "Apple GPU",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -198,9 +198,9 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "Integrated",
-      "battery": "Up to 17h",
-      "weight": "1.6kg",
+      "gpu": "Apple GPU",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-black-4950487",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -281,7 +281,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen Core 7 350",
+      "cpu": "Intel Core 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -463,21 +463,21 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "ASUS Chromebook Flip CX1 Convertible Laptop, 14\" FHD NanoEdge 360-degree Touc…",
-      "retailer": "ASUS",
-      "price": 290,
+      "model": "(prime) 165W (total) AsperX 20,000mAh (74Wh) Laptop Power Bank $40 + Free S/H",
+      "retailer": "Slickdeals",
+      "price": 40,
       "was": null,
-      "cat": "Chromebook",
+      "cat": "Windows laptop",
       "cpu": "—",
-      "ram": "8GB",
-      "storage": "128GB",
-      "screen": "14\" FHD Touch",
-      "gpu": "Integrated",
-      "battery": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "74Wh",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19856277-asus-chromebook-flip-cx1-convertible-laptop-14-fhd-nanoedge-360-degree-touchscreen-intel-n4500-128gb-emmc-8gb-ram-chromeos-289-99",
-      "note": "From ASUS feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19856820-prime-165w-total-asperx-20-000mah-74wh-laptop-power-bank-40-free-s-h",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
