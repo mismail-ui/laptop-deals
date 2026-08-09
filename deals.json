@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 20:29 UTC",
+  "updated": "2026-08-09 21:29 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 14 AG14-32P Laptop - Intel N150, 8GB, 128GB UFS, Integrated Gr…",
@@ -131,8 +131,8 @@
       "storage": "512GB",
       "screen": "13.6\"",
       "gpu": "Integrated",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 16h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -199,8 +199,8 @@
       "storage": "512GB",
       "screen": "14\"",
       "gpu": "Integrated",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 18h",
+      "weight": "1.6kg",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-black-4950487",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -298,7 +298,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 350",
+      "cpu": "AMD Ryzen 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
