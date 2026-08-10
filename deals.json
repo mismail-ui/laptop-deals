@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 23:28 UTC",
+  "updated": "2026-08-10 01:38 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 14 AG14-32P Laptop - Intel N150, 8GB, 128GB UFS, Integrated Gr…",
@@ -58,7 +58,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Ultra 5 226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\" FHD+ OLED",
@@ -130,9 +130,9 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "—",
-      "battery": "Up to 16h",
-      "weight": "1.2kg",
+      "gpu": "Integrated",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -198,9 +198,9 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "—",
-      "battery": "Up to 16h",
-      "weight": "1.6kg",
+      "gpu": "Integrated",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-black-4950487",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -298,7 +298,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 350",
+      "cpu": "AMD Ryzen Core 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -386,7 +386,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -478,23 +478,6 @@
       "img": null,
       "link": "https://slickdeals.net/f/19858233-muscletech-nitro-tech-whey-gold-protein-powder-vanilla-cream-5-lbs-42-40",
       "note": "From Slickdeals feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo - Chromebook Plus 14\" OLED 2K Touchscreen Laptop with Gemini - MediaTe…",
-      "retailer": "Lenovo",
-      "price": 699,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "MediaTek Kompanio",
-      "ram": "16GB",
-      "storage": "256GB",
-      "screen": "14\" OLED 2K",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19858065-lenovo-chromebook-plus-14-oled-2k-touchscreen-laptop-with-gemini-mediatek-kompanio-ultra-910-16gb-memory-256gb-ufs-seashell-699-00-bestbuy-com",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
