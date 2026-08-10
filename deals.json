@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 22:34 UTC",
+  "updated": "2026-08-10 23:32 UTC",
   "uk": [
     {
       "model": "ASUS TUF Gaming Radeon RX 6800 XT OC Edition 16GB",
@@ -75,7 +75,7 @@
       "price": 1071,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon X Elite X2E-88-100",
+      "cpu": "Snapdragon ELITE X2E-88-100",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -352,7 +352,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
