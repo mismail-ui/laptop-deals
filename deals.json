@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 05:24 UTC",
+  "updated": "2026-08-10 07:28 UTC",
   "uk": [
     {
       "model": "Acer Aspire Go 14 AG14-32P Laptop - Intel N150, 8GB, 128GB UFS, Integrated Gr…",
@@ -45,7 +45,7 @@
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "Adreno",
+      "gpu": "Integrated Adreno",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/VEa6Y/4951715_1/re/320x320/qt/55/4951715_1.jpg",
@@ -58,7 +58,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Ultra 5 226V",
+      "cpu": "Intel Core Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\" FHD+ OLED",
@@ -131,7 +131,7 @@
       "storage": "512GB",
       "screen": "13.6\"",
       "gpu": "Integrated",
-      "battery": "Up to 16h",
+      "battery": "Up to 18h",
       "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
@@ -199,8 +199,8 @@
       "storage": "512GB",
       "screen": "14\"",
       "gpu": "Integrated",
-      "battery": "Up to 16h",
-      "weight": "1.6kg",
+      "battery": "Up to 18h",
+      "weight": "1.60kg",
       "img": "https://images.hotukdeals.com/threads/raw/T1L7Z/4950487_1/re/320x320/qt/55/4950487_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-14-2025-m5-512-gb-ssd-space-black-4950487",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -232,7 +232,7 @@
       "ram": "8GB",
       "storage": "128GB",
       "screen": "15\" FHD IPS",
-      "gpu": "Integrated",
+      "gpu": "Integrated Radeon",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/rD0Ou/4950265_1/re/320x320/qt/55/4950265_1.jpg",
@@ -241,23 +241,6 @@
     }
   ],
   "us": [
-    {
-      "model": "Lenovo Chromebook Plus MediaTek Kompanio Ultra 910 14\" Laptop for $699 + free…",
-      "retailer": "Lenovo",
-      "price": 699,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "MediaTek Kompanio Ultra 910",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\"",
-      "gpu": "Integrated",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786259947-product-trimmed.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Chromebook-Plus-Media-Tek-Kompanio-Ultra-910-14-Laptop-for-699-free-shipping/21993912.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
-    },
     {
       "model": "HP OmniBook 7 Core Ultra 5 226V 17.3\" Touch Laptop PC for $780 + free shipping",
       "retailer": "HP",
@@ -284,7 +267,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch",
+      "screen": "14\" Touch 2-in-1",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
@@ -404,7 +387,7 @@
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
-      "gpu": "Integrated",
+      "gpu": "Integrated Radeon",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1773156096-acer-laptop-front-view-zmrh.avif?h=240&w=320",
@@ -463,21 +446,21 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo - Chromebook Plus 14\" OLED 2K Touchscreen Laptop with Gemini - MediaTe…",
-      "retailer": "Lenovo",
-      "price": 699,
+      "model": "HP 15t-fd000 Core i5 15.6\" Laptop for $420 + free shipping",
+      "retailer": "HP",
+      "price": 420,
       "was": null,
-      "cat": "Chromebook",
-      "cpu": "MediaTek Kompanio",
-      "ram": "16GB",
-      "storage": "256GB",
-      "screen": "14\" OLED 2K",
+      "cat": "Windows laptop",
+      "cpu": "Core i5",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19858065-lenovo-chromebook-plus-14-oled-2k-touchscreen-laptop-with-gemini-mediatek-kompanio-ultra-910-16gb-memory-256gb-ufs-seashell-699-00-bestbuy-com",
-      "note": "From Lenovo feed — confirm spec on retailer site"
+      "img": "https://d.dlnws.com/64599/1785524988-xrfmzzssxz.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-15-t-fd000-Core-i5-15-6-Laptop-for-420-free-shipping/21953035.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
