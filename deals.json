@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 10:55 UTC",
+  "updated": "2026-08-11 11:42 UTC",
   "uk": [
     {
       "model": "ASUS TUF Gaming Radeon RX 6800 XT OC Edition 16GB",
@@ -92,7 +92,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 5 226V",
+      "cpu": "Intel Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\" FHD+ OLED",
@@ -164,7 +164,7 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "Apple M4 GPU",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
@@ -250,7 +250,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -352,7 +352,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2-in-1",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
