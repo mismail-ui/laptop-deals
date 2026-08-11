@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 21:42 UTC",
+  "updated": "2026-08-11 22:38 UTC",
   "uk": [
     {
       "model": "Asus TUF Gaming Radeon RX 6800 XT OC Graphics Card",
@@ -58,7 +58,7 @@
       "price": 220,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core N150",
+      "cpu": "Intel N150",
       "ram": "8GB",
       "storage": "128GB",
       "screen": "14\"",
@@ -109,7 +109,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 5 226V",
+      "cpu": "Intel Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\" FHD+ OLED",
@@ -420,7 +420,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
