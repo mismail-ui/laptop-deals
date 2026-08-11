@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 03:41 UTC",
+  "updated": "2026-08-11 05:05 UTC",
   "uk": [
     {
       "model": "ASUS TUF Gaming Radeon RX 6800 XT OC Edition 16GB",
@@ -164,7 +164,7 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "Apple M4 Integrated",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
@@ -198,7 +198,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "Integrated",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/nxfBc/4951209_1/re/320x320/qt/55/4951209_1.jpg",
@@ -264,7 +264,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen 7 350",
+      "cpu": "AMD Core 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
