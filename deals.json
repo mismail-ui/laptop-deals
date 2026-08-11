@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 05:05 UTC",
+  "updated": "2026-08-11 07:03 UTC",
   "uk": [
     {
       "model": "ASUS TUF Gaming Radeon RX 6800 XT OC Edition 16GB",
@@ -164,9 +164,9 @@
       "ram": "24GB",
       "storage": "512GB",
       "screen": "13.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
+      "gpu": "Integrated",
+      "battery": "Up to 16h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -198,7 +198,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/nxfBc/4951209_1/re/320x320/qt/55/4951209_1.jpg",
@@ -207,23 +207,6 @@
     }
   ],
   "us": [
-    {
-      "model": "HP Intel N150 14\" Laptop for $190 + free shipping",
-      "retailer": "HP",
-      "price": 190,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel N150",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786354087-756eb7cd-8251-4d41-a7ab-2b07498dd7b3.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Intel-N150-14-Laptop-for-190-free-shipping/21997907.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
     {
       "model": "HP OmniBook 7 Core Ultra 5 226V 17.3\" Touch Laptop PC for $780 + free shipping",
       "retailer": "HP",
@@ -250,8 +233,8 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch",
-      "gpu": "—",
+      "screen": "14\" Touch 2-in-1",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1786047108-ot2dicf5ny.webp?h=240&w=320",
@@ -264,7 +247,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Core 7 350",
+      "cpu": "Intel Core 7 350",
       "ram": "—",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -319,7 +302,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785783992-sazicpixfi.webp?h=240&w=320",
@@ -352,8 +335,8 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\"",
-      "gpu": "—",
+      "screen": "14\" 2-in-1",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785783679-ot2dicf5ny.webp?h=240&w=320",
@@ -426,6 +409,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785267504-ksbciexabv.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Omni-Book-5-Core-Ultra-5-325-16-Laptop-for-630-free-shipping/21953036.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP 15t-fd000 Core i5 15.6\" Laptop for $420 + free shipping",
+      "retailer": "HP",
+      "price": 420,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core i5",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785524988-xrfmzzssxz.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-15-t-fd000-Core-i5-15-6-Laptop-for-420-free-shipping/21953035.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
     }
   ]
