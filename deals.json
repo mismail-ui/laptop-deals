@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11 08:51 UTC",
+  "updated": "2026-08-11 09:58 UTC",
   "uk": [
     {
       "model": "ASUS TUF Gaming Radeon RX 6800 XT OC Edition 16GB",
@@ -113,7 +113,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "15\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TQKKt/4951536_1/re/320x320/qt/55/4951536_1.jpg",
@@ -165,8 +165,8 @@
       "storage": "512GB",
       "screen": "13.6\"",
       "gpu": "—",
-      "battery": "Up to 16h",
-      "weight": "1.24kg",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/8dQDa/4951368_1/re/320x320/qt/55/4951368_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-macbook-air-136-2025-m4-512-gb-ssd-ram-24-gb-silver-4951368",
       "note": "From Currys feed — confirm spec on retailer site"
@@ -198,7 +198,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/nxfBc/4951209_1/re/320x320/qt/55/4951209_1.jpg",
@@ -395,11 +395,11 @@
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
-      "model": "Dell Back to School Laptop Deals: Up to $650 off + free shipping",
-      "retailer": "Dell",
-      "price": 650,
+      "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
+      "retailer": "Best Buy",
+      "price": null,
       "was": null,
-      "cat": "Windows laptop",
+      "cat": "Gaming",
       "cpu": "—",
       "ram": "—",
       "storage": "—",
@@ -407,26 +407,9 @@
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785526828-dell-dc15255nt-laptop-c-05000ff090-bk-plastic-getty-2218207453.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Dell-Back-to-School-Laptop-Deals-Up-to-650-off-free-shipping/21953038.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 5 Core Ultra 5 325 16\" Laptop for $630 + free shipping",
-      "retailer": "HP",
-      "price": 630,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 5 325",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785267504-ksbciexabv.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Omni-Book-5-Core-Ultra-5-325-16-Laptop-for-630-free-shipping/21953036.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
+      "img": "https://d.dlnws.com/64599/1786437838-720ec36f-c1bb-48c3-bd72-c3056bc8bf4f.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Best-Buy-Gaming-Laptop-Savings-Up-to-40-iff-free-shipping/22004417.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
     }
   ]
 }
