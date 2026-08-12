@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 20:55 UTC",
+  "updated": "2026-08-12 21:42 UTC",
   "uk": [
     {
       "model": "Acer Nitro V17 AI ANV17-41 Gaming Laptop - AMD Ryzen 7 260, 16GB, 1TB SSD, NV…",
@@ -62,7 +62,7 @@
       "ram": "—",
       "storage": "512GB",
       "screen": "15\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/fUl0L/4955710_1/re/320x320/qt/55/4955710_1.jpg",
@@ -79,7 +79,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/po7QM/4955682_1/re/320x320/qt/55/4955682_1.jpg",
@@ -208,6 +208,23 @@
   ],
   "us": [
     {
+      "model": "Asus Vivobook Go Intel N150 15.6\" Laptop for $299 + free shipping",
+      "retailer": "ASUS",
+      "price": 299,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N150",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "Integrated",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786566816-ivobookgo1515410.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/Asus-Vivobook-Go-Intel-N150-15-6-Laptop-for-299-free-shipping/22013147.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
       "model": "MSI Cyborg 13th-Gen i5 15.6\" Laptop w/ NVIDIA GeForce RTX 5050 for $899 + fre…",
       "retailer": "dealnews",
       "price": 899,
@@ -234,7 +251,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "14\" 2K Touchscreen",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1786523433-product-trimmed.jpg?h=240&w=320",
@@ -318,7 +335,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch 2-in-1",
+      "screen": "14\" Touch",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
