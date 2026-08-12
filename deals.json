@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 01:45 UTC",
+  "updated": "2026-08-12 04:05 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 3 Chromebook 14M868 | 14\", FHD Laptop, MediaTek Kompanio …",
@@ -75,7 +75,7 @@
       "price": 220,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core N150",
+      "cpu": "Intel N150",
       "ram": "8GB",
       "storage": "128GB",
       "screen": "14\"",
@@ -126,7 +126,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 5 226V",
+      "cpu": "Intel Ultra 5 226V",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\" FHD+ OLED",
@@ -233,7 +233,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "15.3\" 2K Touchscreen",
+      "screen": "15.3\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -426,6 +426,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1785783679-ot2dicf5ny.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Omni-Book-5-Flip-Core-3-100-U-14-2-in-1-Laptop-for-530-free-shipping/21964151.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OmniBook 5: 16\" FHD+ OLED Touch, Ryzen AI 9 465, 32GB LPDDR5X, 1TB Gen4 SS…",
+      "retailer": "HP",
+      "price": 1100,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 9 465",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\" FHD+ OLED",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19868010-hp-omnibook-5-16-fhd-oled-touch-ryzen-ai-9-465-32gb-lpddr5x-1tb-gen4-ssd-win11h-1100-f-s",
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
