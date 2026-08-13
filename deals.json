@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 08:18 UTC",
+  "updated": "2026-08-13 10:02 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook, Intel Core Ultra 5, 16GB RAM, 512GB SSD, 14 Inch OLED Laptop, U…",
@@ -247,7 +247,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -335,7 +335,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" Touch",
+      "screen": "14\" Touch 2-in-1",
       "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
