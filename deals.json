@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 22:38 UTC",
+  "updated": "2026-08-13 23:38 UTC",
   "uk": [
     {
       "model": "HP OmniBook X Flip NGAI OLED 14\" 2 in 1 Laptop ( Student price / 3K120 touchs…",
@@ -225,6 +225,23 @@
   ],
   "us": [
     {
+      "model": "Lenovo LOQ 15.6\" 2K Gaming Laptop for $980 + free shipping",
+      "retailer": "Lenovo",
+      "price": 980,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\" 2K",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786155590-draftworks_img_qpa572chv7sf7afdimn.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-LOQ-15-6-2-K-Gaming-Laptop/515519.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
       "model": "MSI Cyborg Core 5 210H 15.6\" Laptop w/ NVIDIA GeForce RTX 5060 for $949 + fre…",
       "retailer": "dealnews",
       "price": 949,
@@ -332,7 +349,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -393,6 +410,23 @@
       "img": "https://d.dlnws.com/64599/1786432394-pol_bts-bundle-ref-6479750-0719-der-e97d4958-ff1c-4fe0-bdce-7f69b164bc5c.png?h=240&w=320",
       "link": "https://www.dealnews.com/Best-Buy-Back-to-School-Computing-Deals-for-Get-an-accessory-for-under-100-w-a-laptop-purch-free-shipping/22004389.html?iref=rss-c49",
       "note": "From Best Buy feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Ryzen 7 9800x3d+ Asus TUF gaming B650-E + AIO + Lian Li 207 $505.02",
+      "retailer": "ASUS",
+      "price": 505,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 7 9800x3d",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19876266-ryzen-7-9800x3d-asus-tuf-gaming-b650-e-aio-lian-li-207-505-02",
+      "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
       "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
