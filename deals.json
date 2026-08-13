@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 06:14 UTC",
+  "updated": "2026-08-13 08:18 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook, Intel Core Ultra 5, 16GB RAM, 512GB SSD, 14 Inch OLED Laptop, U…",
@@ -79,7 +79,7 @@
       "ram": "—",
       "storage": "512GB",
       "screen": "15\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/fUl0L/4955710_1/re/320x320/qt/55/4955710_1.jpg",
@@ -96,7 +96,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "—",
+      "gpu": "Integrated",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/po7QM/4955682_1/re/320x320/qt/55/4955682_1.jpg",
@@ -247,7 +247,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
