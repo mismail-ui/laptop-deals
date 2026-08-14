@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 15:48 UTC",
+  "updated": "2026-08-14 16:48 UTC",
   "uk": [
     {
       "model": "HP OmniBook 5 NGAI 14\" FHD+ OLED Snapdragon X1 16GB 512 GB SSD, Glacier Silve…",
@@ -27,7 +27,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -79,7 +79,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "10-core GPU",
+      "gpu": "10-Core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/QBoVo/4955823_1/re/320x320/qt/55/4955823_1.jpg",
@@ -264,7 +264,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core Ultra 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -284,7 +284,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" touchscreen",
+      "screen": "16\" Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
