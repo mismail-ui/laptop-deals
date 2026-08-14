@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 21:22 UTC",
+  "updated": "2026-08-14 22:19 UTC",
   "uk": [
     {
       "model": "HP OmniBook 5 NGAI 14\" FHD+ OLED Snapdragon X1 16GB 512 GB SSD, Glacier Silve…",
@@ -27,7 +27,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED Touch",
+      "screen": "14\" OLED touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -242,6 +242,40 @@
   ],
   "us": [
     {
+      "model": "HP OmniBook 3 Ultra 5 16\" 2K Touch Laptop (2025) for $480 + free shipping",
+      "retailer": "HP",
+      "price": 480,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" 2K touchscreen",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786741620-799b8d24-b1db-480e-8c27-7d27c32954c0.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Ultra-5-16-2-K-Touch-Laptop-2025/499560.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Best Buy Windows Laptop Deals: Up to $650 off + free shipping",
+      "retailer": "Best Buy",
+      "price": 650,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786741080-4e2a8b6d-9ccb-4a23-9ed3-d6913aed3cda.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Best-Buy-Windows-Laptop-Deals-Up-to-650-off-free-shipping/22025841.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
+    },
+    {
       "model": "Kaigerr i3 8109U 15.6\" Laptop for $360 + free shipping",
       "retailer": "dealnews",
       "price": 360,
@@ -284,7 +318,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\" touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -349,7 +383,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th-gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -376,40 +410,6 @@
       "img": "https://d.dlnws.com/64599/1786465522-alienware-da15265-15-3-wuxga-165hz-laptop-amd-ryzen-5-220-16gb-ddr5-512gb-ssd-black_da87dc3a-6a92-4c.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-5-220-15-3-Laptop-w-NVIDIA-Ge-Force-RTX-4050/517091.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Best Buy Back-to-School Computing Deals for Get an accessory for under $100 w…",
-      "retailer": "Best Buy",
-      "price": 100,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786432394-pol_bts-bundle-ref-6479750-0719-der-e97d4958-ff1c-4fe0-bdce-7f69b164bc5c.png?h=240&w=320",
-      "link": "https://www.dealnews.com/Best-Buy-Back-to-School-Computing-Deals-for-Get-an-accessory-for-under-100-w-a-laptop-purch-free-shipping/22004389.html?iref=rss-c49",
-      "note": "From Best Buy feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
-      "retailer": "Best Buy",
-      "price": null,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786437838-720ec36f-c1bb-48c3-bd72-c3056bc8bf4f.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Best-Buy-Gaming-Laptop-Savings-Up-to-40-iff-free-shipping/22004417.html?iref=rss-c49",
-      "note": "From Best Buy feed — confirm spec on retailer site"
     }
   ]
 }
