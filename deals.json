@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 04:06 UTC",
+  "updated": "2026-08-14 06:11 UTC",
   "uk": [
     {
       "model": "HP OmniBook X Flip NGAI OLED 14\" 2 in 1 Laptop ( Student price / 3K120 touchs…",
@@ -225,29 +225,12 @@
   ],
   "us": [
     {
-      "model": "Lenovo LOQ 15.6\" 2K Gaming Laptop for $980 + free shipping",
-      "retailer": "Lenovo",
-      "price": 980,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\" 2K",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786155590-draftworks_img_qpa572chv7sf7afdimn.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-LOQ-15-6-2-K-Gaming-Laptop/515519.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
       "model": "MSI Cyborg Core 5 210H 15.6\" Laptop w/ NVIDIA GeForce RTX 5060 for $949 + fre…",
       "retailer": "dealnews",
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core i5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -361,23 +344,6 @@
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
-      "model": "HP OmniBook 5 Ryzen AI 7 445 16\" Laptop w/ 16GB RAM & 1TB SSD for $749 + free…",
-      "retailer": "HP",
-      "price": 749,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen AI 7 445",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "16\"",
-      "gpu": "Integrated",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786468720-hp-omnibook-5-16-inch-2k-touch-windows-laptop-amd-ryzen-ai-7-445-16gb-ram-1tb-ssd-meteorsilver_8a4bd.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Omni-Book-5-Ryzen-AI-7-445-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-749-free-shipping/22004609.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
       "model": "Alienware Ryzen 5 220 15.3\" Laptop w/ NVIDIA GeForce RTX 4050 for $899 + free…",
       "retailer": "dealnews",
       "price": 899,
@@ -410,6 +376,23 @@
       "img": "https://d.dlnws.com/64599/1786432394-pol_bts-bundle-ref-6479750-0719-der-e97d4958-ff1c-4fe0-bdce-7f69b164bc5c.png?h=240&w=320",
       "link": "https://www.dealnews.com/Best-Buy-Back-to-School-Computing-Deals-for-Get-an-accessory-for-under-100-w-a-laptop-purch-free-shipping/22004389.html?iref=rss-c49",
       "note": "From Best Buy feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP OmniBook 7 Core Ultra 5 226V 17.3\" Touch Laptop PC for $780 + free shipping",
+      "retailer": "HP",
+      "price": 780,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 5 226V",
+      "ram": "—",
+      "storage": "—",
+      "screen": "17.3\" touchscreen",
+      "gpu": "Integrated",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786047940-ibh6hebz5t.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-Omni-Book-7-Core-Ultra-5-226-V-17-3-Touch-Laptop-PC-for-780-free-shipping/21980756.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
     },
     {
       "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
