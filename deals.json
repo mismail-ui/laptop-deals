@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 18:50 UTC",
+  "updated": "2026-08-14 19:45 UTC",
   "uk": [
     {
       "model": "HP OmniBook 5 NGAI 14\" FHD+ OLED Snapdragon X1 16GB 512 GB SSD, Glacier Silve…",
@@ -27,7 +27,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -264,7 +264,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core i5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -284,7 +284,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -349,7 +349,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
