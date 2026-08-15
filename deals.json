@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 16:20 UTC",
+  "updated": "2026-08-15 17:18 UTC",
   "uk": [
     {
       "model": "SAMSUNG Galaxy Book4 Edge 15.6\" Laptop, Copilot+ PC - Snapdragon X Plus, 256 …",
@@ -44,7 +44,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -366,7 +366,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -451,7 +451,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
