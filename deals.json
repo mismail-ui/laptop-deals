@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 11:18 UTC",
+  "updated": "2026-08-15 12:32 UTC",
   "uk": [
     {
       "model": "SAMSUNG Galaxy Book4 Edge 15.6\" Laptop, Copilot+ PC - Snapdragon X Plus, 256 …",
@@ -44,7 +44,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED 2-in-1",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -259,15 +259,32 @@
   ],
   "us": [
     {
+      "model": "LG gram Book Core Ultra 5 115U 15\" Laptop for $460 + free shipping",
+      "retailer": "dealnews",
+      "price": 460,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Core Ultra 5 115U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1780483871-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/LG-gram-Book-Core-Ultra-5-115-U-15-Laptop-for-460-free-shipping/22031425.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
       "model": "HP OmniBook 3 Ultra 5 16\" 2K Touch Laptop (2025) for $480 + free shipping",
       "retailer": "HP",
       "price": 480,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "—",
+      "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -400,7 +417,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -427,23 +444,6 @@
       "img": "https://d.dlnws.com/64599/1786465522-alienware-da15265-15-3-wuxga-165hz-laptop-amd-ryzen-5-220-16gb-ddr5-512gb-ssd-black_da87dc3a-6a92-4c.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-5-220-15-3-Laptop-w-NVIDIA-Ge-Force-RTX-4050/517091.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
-      "retailer": "Best Buy",
-      "price": null,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786437838-720ec36f-c1bb-48c3-bd72-c3056bc8bf4f.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Best-Buy-Gaming-Laptop-Savings-Up-to-40-iff-free-shipping/22004417.html?iref=rss-c49",
-      "note": "From Best Buy feed — confirm spec on retailer site"
     }
   ]
 }
