@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 12:32 UTC",
+  "updated": "2026-08-15 13:27 UTC",
   "uk": [
     {
       "model": "SAMSUNG Galaxy Book4 Edge 15.6\" Laptop, Copilot+ PC - Snapdragon X Plus, 256 …",
@@ -259,6 +259,40 @@
   ],
   "us": [
     {
+      "model": "Best Buy Back to School Laptop Deals for From $199 + free shipping",
+      "retailer": "Best Buy",
+      "price": 199,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785941891-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/Best-Buy-Back-to-School-Laptop-Deals-for-From-199-free-shipping/21975184.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Acer Chromebook Plus Spin 514 MediaTek 14\" Touch Laptop w/ 12GB RAM for $549 …",
+      "retailer": "Acer",
+      "price": 549,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "MediaTek",
+      "ram": "12GB",
+      "storage": "—",
+      "screen": "14\" Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786797479-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Acer/Acer-Chromebook-Plus-Spin-514-Media-Tek-14-Touch-Laptop/497702.html?iref=rss-c49",
+      "note": "From Acer feed — confirm spec on retailer site"
+    },
+    {
       "model": "LG gram Book Core Ultra 5 115U 15\" Laptop for $460 + free shipping",
       "retailer": "dealnews",
       "price": 460,
@@ -284,7 +318,7 @@
       "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K",
+      "screen": "16\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -426,23 +460,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1786564733-msi-cyborg-15-6-144hz-gaming-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-5050-16gb-ram-512gb-ssd.avif?h=240&w=320",
       "link": "https://www.dealnews.com/MSI-Cyborg-13-th-Gen-i5-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5050-for-899-free-shipping/22013089.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Alienware Ryzen 5 220 15.3\" Laptop w/ NVIDIA GeForce RTX 4050 for $899 + free…",
-      "retailer": "dealnews",
-      "price": 899,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 5 220",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.3\"",
-      "gpu": "RTX 4050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786465522-alienware-da15265-15-3-wuxga-165hz-laptop-amd-ryzen-5-220-16gb-ddr5-512gb-ssd-black_da87dc3a-6a92-4c.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-5-220-15-3-Laptop-w-NVIDIA-Ge-Force-RTX-4050/517091.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
     }
   ]
