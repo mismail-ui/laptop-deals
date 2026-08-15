@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 04:27 UTC",
+  "updated": "2026-08-15 05:21 UTC",
   "uk": [
     {
       "model": "HP OmniBook 5 NGAI 14\" FHD+ OLED Snapdragon X1 16GB 512 GB SSD, Glacier Silve…",
@@ -27,7 +27,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED touchscreen",
+      "screen": "14\" OLED 2-in-1 touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -250,7 +250,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -298,7 +298,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core Ultra 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -318,7 +318,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -383,7 +383,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -410,6 +410,23 @@
       "img": "https://d.dlnws.com/64599/1786465522-alienware-da15265-15-3-wuxga-165hz-laptop-amd-ryzen-5-220-16gb-ddr5-512gb-ssd-black_da87dc3a-6a92-4c.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-5-220-15-3-Laptop-w-NVIDIA-Ge-Force-RTX-4050/517091.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Best Buy Gaming Laptop Savings: Up to 40% iff + free shipping",
+      "retailer": "Best Buy",
+      "price": null,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786437838-720ec36f-c1bb-48c3-bd72-c3056bc8bf4f.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Best-Buy-Gaming-Laptop-Savings-Up-to-40-iff-free-shipping/22004417.html?iref=rss-c49",
+      "note": "From Best Buy feed — confirm spec on retailer site"
     }
   ]
 }
