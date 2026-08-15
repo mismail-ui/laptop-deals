@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15 18:25 UTC",
+  "updated": "2026-08-15 19:19 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 3 Chromebook Laptop | 15.6 inch Full HD Laptop | Intel Pentium…",
@@ -113,7 +113,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "10-core",
+      "gpu": "10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/QBoVo/4955823_1/re/320x320/qt/55/4955823_1.jpg",
@@ -129,7 +129,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -383,7 +383,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -403,7 +403,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touch",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -468,7 +468,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -480,21 +480,21 @@
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
-      "model": "ASUS ROG G700 Gaming Desktop PC: Intel Ultra 7 265KF, RTX 5060, 32GB DDR5, 1T…",
-      "retailer": "ASUS",
-      "price": 1199,
+      "model": "LG - gram Book 15\" Touch-screen Laptop FHD Intel Core Ultra 5 115U Processor …",
+      "retailer": "Slickdeals",
+      "price": 460,
       "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core Ultra 7 265KF",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "—",
-      "gpu": "RTX 5060",
+      "cat": "Premium / ultrabook",
+      "cpu": "Core Ultra 5 115U",
+      "ram": "8GB",
+      "storage": "512GB",
+      "screen": "15\" FHD Touch",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19882374-asus-rog-g700-gaming-desktop-pc-intel-ultra-7-265kf-rtx-5060-32gb-ddr5-1tb-ssd-1199",
-      "note": "From ASUS feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19881417-lg-gram-book-15-touch-screen-laptop-fhd-intel-core-ultra-5-115u-processor-with-8gb-ram-512gb-ssd-titan-black-459-99-bestbuy-com",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
