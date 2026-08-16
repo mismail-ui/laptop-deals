@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 14:20 UTC",
+  "updated": "2026-08-16 15:18 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 3 Chromebook Laptop | 15.6 inch Full HD Laptop | Intel Pentium…",
@@ -129,7 +129,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -249,7 +249,7 @@
       "ram": "8GB",
       "storage": "128GB",
       "screen": "14\"",
-      "gpu": "Integrated",
+      "gpu": "Integrated Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/LKahg/4953050_1/re/320x320/qt/55/4953050_1.jpg",
@@ -366,7 +366,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core Ultra 5 210H",
+      "cpu": "Intel Core i5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
