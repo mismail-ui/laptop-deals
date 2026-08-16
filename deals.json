@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 01:09 UTC",
+  "updated": "2026-08-16 02:57 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 3 Chromebook Laptop | 15.6 inch Full HD Laptop | Intel Pentium…",
@@ -61,7 +61,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -113,7 +113,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "10-core",
+      "gpu": "10-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/QBoVo/4955823_1/re/320x320/qt/55/4955823_1.jpg",
@@ -301,7 +301,7 @@
       "cpu": "MediaTek",
       "ram": "12GB",
       "storage": "—",
-      "screen": "14\" Touch",
+      "screen": "14\" touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -335,7 +335,7 @@
       "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -403,7 +403,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -488,30 +488,13 @@
       "cpu": "Core Ultra 5 115U",
       "ram": "8GB",
       "storage": "512GB",
-      "screen": "15\" FHD Touch",
+      "screen": "15\" FHD touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
       "link": "https://slickdeals.net/f/19881417-lg-gram-book-15-touch-screen-laptop-fhd-intel-core-ultra-5-115u-processor-with-8gb-ram-512gb-ssd-titan-black-459-99-bestbuy-com",
       "note": "From Slickdeals feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga laptop 2in1 Lenovo - Yoga 7a",
-      "retailer": "Lenovo",
-      "price": null,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19882020-lenovo-yoga-laptop-2in1-lenovo-yoga-7a",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
