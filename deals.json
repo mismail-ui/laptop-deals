@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 19:19 UTC",
+  "updated": "2026-08-16 20:18 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad 3 Chromebook Laptop | 15.6 inch Full HD Laptop | Intel Pentium…",
@@ -61,7 +61,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED touchscreen",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -318,7 +318,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K touchscreen",
+      "screen": "16\" 2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -366,7 +366,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core 5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -386,7 +386,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "16GB",
       "storage": "—",
-      "screen": "16\" touchscreen",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
