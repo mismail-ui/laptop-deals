@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16 22:18 UTC",
+  "updated": "2026-08-16 23:16 UTC",
   "uk": [
     {
       "model": "Apple MacBook Pro 14.2-inch Laptop with M5 Pro chip with 15 core CPU and 16 c…",
@@ -78,7 +78,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" 2-in-1 OLED",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -366,7 +366,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "MSI Core i5-210H",
+      "cpu": "Intel Core 5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -434,7 +434,7 @@
       "price": 299,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Celeron N150",
+      "cpu": "Intel Atom N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
