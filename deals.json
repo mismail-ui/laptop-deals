@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 19:25 UTC",
+  "updated": "2026-08-17 20:23 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 15 E1504FA Laptop AMD Ryzen 5 40 | 8GB RAM | 256GB PCIe SSD | 1…",
@@ -112,7 +112,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -437,7 +437,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K OLED Touchscreen",
+      "screen": "14\" 2K OLED Touchscreen 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -488,7 +488,7 @@
       "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -536,7 +536,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -580,23 +580,6 @@
       "img": "https://d.dlnws.com/64599/1786633779-dell-dc16255nt-laptop-c-15000ff104-bk-getty-2218207453.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-Back-to-School-Laptop-Deals-Up-to-900-off-free-shipping/22019042.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga 7i 2 in 1 (2026): 14\" FHD+ OLED Touch, Intel Ultra 5 Processor 32…",
-      "retailer": "Lenovo",
-      "price": 800,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 5",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14\" FHD+ OLED Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19886736-lenovo-yoga-7i-2-in-1-2026-14-fhd-oled-touch-intel-ultra-5-processor-322-16gb-lpddr5-512gb-ssd-799-99",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
