@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 15:22 UTC",
+  "updated": "2026-08-17 16:24 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 15 E1504FA Laptop AMD Ryzen 5 40 | 8GB RAM | 256GB PCIe SSD | 1…",
@@ -315,7 +315,7 @@
       "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 7",
+      "cpu": "Intel Ultra 7",
       "ram": "—",
       "storage": "—",
       "screen": "16\" 2K",
@@ -366,7 +366,7 @@
       "price": 800,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "—",
+      "cpu": "Intel Core i7",
       "ram": "—",
       "storage": "—",
       "screen": "14\" 2K OLED",
@@ -553,7 +553,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
