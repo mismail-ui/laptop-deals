@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 06:50 UTC",
+  "updated": "2026-08-17 07:50 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 15 E1504FA Laptop AMD Ryzen 5 40 | 8GB RAM | 256GB PCIe SSD | 1…",
@@ -45,7 +45,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "15-core GPU",
+      "gpu": "16-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/l80WA/4958827_1/re/320x320/qt/55/4958827_1.jpg",
@@ -112,7 +112,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED",
+      "screen": "14\" OLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -164,7 +164,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
-      "gpu": "10-core GPU",
+      "gpu": "10-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/QBoVo/4955823_1/re/320x320/qt/55/4955823_1.jpg",
@@ -497,21 +497,21 @@
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
-      "model": "Apple MacBook Pro: 16\" Nano-Texture Glass, M5 Pro (18C/20C), 48GB RAM, 1TB SS…",
-      "retailer": "Slickdeals",
-      "price": 3099,
+      "model": "Lenovo Yoga 7a 2-in-1 (2026): 14\" FHD+ OLED Touch, Ryzen AI 430, 16GB LPDDR5,…",
+      "retailer": "Lenovo",
+      "price": 750,
       "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5 Pro",
-      "ram": "48GB",
-      "storage": "1TB",
-      "screen": "16\" Nano-Texture Glass",
-      "gpu": "20-core GPU",
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 430",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14\" FHD+ OLED Touch",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19886610-apple-macbook-pro-16-nano-texture-glass-m5-pro-18c-20c-48gb-ram-1tb-ssd-3099",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19886820-lenovo-yoga-7a-2-in-1-2026-14-fhd-oled-touch-ryzen-ai-430-16gb-lpddr5-512gb-ssd-749-99",
+      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
