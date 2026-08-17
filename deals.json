@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 22:21 UTC",
+  "updated": "2026-08-17 23:19 UTC",
   "uk": [
     {
       "model": "LEXIBOOK, Educational Laptop, JC798i1",
@@ -505,7 +505,7 @@
       "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touch",
+      "screen": "16\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -553,7 +553,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core 5-210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
