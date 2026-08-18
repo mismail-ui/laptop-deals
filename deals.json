@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 07:36 UTC",
+  "updated": "2026-08-18 08:33 UTC",
   "uk": [
     {
       "model": "LEXIBOOK, Educational Laptop, JC798i1",
@@ -28,7 +28,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "15.6\"",
-      "gpu": "Radeon Graphics",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/zi46n/4959037_1/re/320x320/qt/55/4959037_1.jpg",
@@ -180,7 +180,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -310,6 +310,23 @@
   ],
   "us": [
     {
+      "model": "Samsung Galaxy Book4 Edge Copilot+ Snapdragon 16\" Touch Laptop for $700 + fre…",
+      "retailer": "Samsung",
+      "price": 700,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Snapdragon X",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1718637590-dn-image-7843930.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Samsung/Samsung-Galaxy-Book4-Edge-Copilot-Snapdragon-16-Touch-Laptop/475277.html?iref=rss-c49",
+      "note": "From Samsung feed — confirm spec on retailer site"
+    },
+    {
       "model": "Alienware Ryzen 7 260 15.3\" Gaming Laptop w/ NVIDIA GeForce RTX 5060 for $1,3…",
       "retailer": "dealnews",
       "price": 1300,
@@ -417,7 +434,7 @@
       "price": 480,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Ultra 5",
+      "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
       "screen": "16\" 2K Touch",
@@ -536,7 +553,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -548,21 +565,21 @@
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo ThinkPad P1 Gen 9: 16\" UHD+ IPS, Intel Core Ultra X7 368H, Arc B390, 3…",
-      "retailer": "Lenovo",
-      "price": 2189,
+      "model": "Dell - 16S - 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 355 2026 - 16GB M…",
+      "retailer": "Dell",
+      "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra X7 368H",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "16\" UHD+ IPS",
-      "gpu": "ARC B390",
+      "cpu": "Core Ultra 7 355",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\" 2K Touchscreen",
+      "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": null,
-      "link": "https://slickdeals.net/f/19890012-lenovo-thinkpad-p1-gen-9-16-uhd-ips-intel-core-ultra-x7-368h-arc-b390-32gb-ddr5-1tb-ssd-win-11-pro-thunderbolt-5-4-2189",
-      "note": "From Lenovo feed — confirm spec on retailer site"
+      "link": "https://slickdeals.net/f/19886766-dell-16s-16-2k-touchscreen-laptop-intel-core-ultra-7-355-2026-16gb-memory-512gb-storage-copilot-pc-celestial-blue-899-99-bestbuy-com",
+      "note": "From Dell feed — confirm spec on retailer site"
     }
   ]
 }
