@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 03:41 UTC",
+  "updated": "2026-08-18 04:32 UTC",
   "uk": [
     {
       "model": "LEXIBOOK, Educational Laptop, JC798i1",
@@ -514,29 +514,12 @@
       "note": "From Best Buy feed — confirm spec on retailer site"
     },
     {
-      "model": "Kaigerr i3 8109U 15.6\" Laptop for $360 + free shipping",
-      "retailer": "dealnews",
-      "price": 360,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i3-8109U",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786716383-draftworks_img_1s66eemvin4v7fhjpnp.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Kaigerr/Kaigerr-i3-8109-U-15-6-Laptop/518828.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
       "model": "MSI Cyborg Core 5 210H 15.6\" Laptop w/ NVIDIA GeForce RTX 5060 for $949 + fre…",
       "retailer": "dealnews",
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5-210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -580,6 +563,23 @@
       "img": "https://d.dlnws.com/64599/1786633779-dell-dc16255nt-laptop-c-15000ff104-bk-getty-2218207453.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-Back-to-School-Laptop-Deals-Up-to-900-off-free-shipping/22019042.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP EliteBook 840 G11 Core Ultra 7 14\" Laptop PC for $1,212 + free shipping",
+      "retailer": "HP",
+      "price": 1212,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 14",
+      "ram": "—",
+      "storage": "—",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1786633636-tljn7watjp.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-Elite-Book-840-G11-Core-Ultra-7-14-Laptop-PC-for-1-212-free-shipping/22019040.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
     },
     {
       "model": "Lenovo ThinkPad P1 Gen 9: 16\" UHD+ IPS, Intel Core Ultra X7 368H, Arc B390, 3…",
