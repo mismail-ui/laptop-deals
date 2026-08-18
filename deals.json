@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 06:38 UTC",
+  "updated": "2026-08-18 07:36 UTC",
   "uk": [
     {
       "model": "LEXIBOOK, Educational Laptop, JC798i1",
@@ -28,7 +28,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "15.6\"",
-      "gpu": "—",
+      "gpu": "Radeon Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/zi46n/4959037_1/re/320x320/qt/55/4959037_1.jpg",
@@ -180,7 +180,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -536,7 +536,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -546,6 +546,23 @@
       "img": "https://d.dlnws.com/64599/1786564733-msi-cyborg-15-6-144hz-gaming-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-5050-16gb-ram-512gb-ssd.avif?h=240&w=320",
       "link": "https://www.dealnews.com/MSI-Cyborg-13-th-Gen-i5-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5050-for-899-free-shipping/22013089.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Lenovo ThinkPad P1 Gen 9: 16\" UHD+ IPS, Intel Core Ultra X7 368H, Arc B390, 3…",
+      "retailer": "Lenovo",
+      "price": 2189,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core Ultra X7 368H",
+      "ram": "32GB",
+      "storage": "1TB",
+      "screen": "16\" UHD+ IPS",
+      "gpu": "ARC B390",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19890012-lenovo-thinkpad-p1-gen-9-16-uhd-ips-intel-core-ultra-x7-368h-arc-b390-32gb-ddr5-1tb-ssd-win-11-pro-thunderbolt-5-4-2189",
+      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
