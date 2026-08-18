@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 15:28 UTC",
+  "updated": "2026-08-18 16:28 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook A14 UX3407QA 14\" FHD+ OLED Snapdragon X 16GB DDR5 512GB SSD Lpto…",
@@ -127,7 +127,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Snapdragon X Plus",
-      "ram": "—",
+      "ram": "256GB",
       "storage": "256GB",
       "screen": "15.6\"",
       "gpu": "—",
@@ -326,6 +326,23 @@
     }
   ],
   "us": [
+    {
+      "model": "Mallrace 12th Gen Alder Lake N95 17.3\" Laptop for $450 + free shipping",
+      "retailer": "dealnews",
+      "price": 450,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N95",
+      "ram": "—",
+      "storage": "—",
+      "screen": "17.3\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787065876-draftworks_img_oc6l4dsiopcl0kdaiba.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Mall-Race/Mallrace-12-th-Gen-Alder-Lake-N95-17-3-Laptop/521339.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
     {
       "model": "Samsung Galaxy Book4 Edge Copilot+ Snapdragon 16\" Touch Laptop for $700 + fre…",
       "retailer": "Samsung",
@@ -563,40 +580,6 @@
       "img": "https://d.dlnws.com/64599/1786566816-ivobookgo1515410.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Asus-Vivobook-Go-Intel-N150-15-6-Laptop-for-299-free-shipping/22013147.html?iref=rss-c49",
       "note": "From ASUS feed — confirm spec on retailer site"
-    },
-    {
-      "model": "MSI Cyborg 13th-Gen i5 15.6\" Laptop w/ NVIDIA GeForce RTX 5050 for $899 + fre…",
-      "retailer": "dealnews",
-      "price": 899,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core i5 (13th-Gen)",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "RTX 5050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786564733-msi-cyborg-15-6-144hz-gaming-laptop-intel-core-i5-13420h-nvidia-geforce-rtx-5050-16gb-ram-512gb-ssd.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/MSI-Cyborg-13-th-Gen-i5-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5050-for-899-free-shipping/22013089.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo ThinkPad P1 Gen 9: 16\" UHD+ IPS, Intel Core Ultra X7 368H, Arc B390, 3…",
-      "retailer": "Lenovo",
-      "price": 2189,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra X7 368H",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "16\" UHD+ IPS",
-      "gpu": "ARC B390",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19890012-lenovo-thinkpad-p1-gen-9-16-uhd-ips-intel-core-ultra-x7-368h-arc-b390-32gb-ddr5-1tb-ssd-win-11-pro-thunderbolt-5-4-2189",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
