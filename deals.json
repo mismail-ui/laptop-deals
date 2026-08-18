@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 21:21 UTC",
+  "updated": "2026-08-18 22:20 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook A14 UX3407QA 14\" FHD+ OLED Snapdragon X 16GB DDR5 512GB SSD Lpto…",
@@ -366,7 +366,7 @@
       "price": 550,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 100U",
+      "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -417,7 +417,7 @@
       "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 120U",
+      "cpu": "Intel Core 5 120U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\"",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Alder Lake N95",
+      "cpu": "Intel N95",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
