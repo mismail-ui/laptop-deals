@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 19:24 UTC",
+  "updated": "2026-08-18 20:20 UTC",
   "uk": [
     {
       "model": "ASUS Zenbook A14 UX3407QA 14\" FHD+ OLED Snapdragon X 16GB DDR5 512GB SSD Lpto…",
@@ -96,7 +96,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "15-core GPU",
+      "gpu": "16-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/l80WA/4958827_1/re/320x320/qt/55/4958827_1.jpg",
@@ -349,7 +349,7 @@
       "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 120U",
+      "cpu": "Core 5 120U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\"",
@@ -366,7 +366,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95 12th Gen",
+      "cpu": "Intel Alder Lake N95",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -502,7 +502,7 @@
       "price": 480,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5",
+      "cpu": "Intel Ultra 5",
       "ram": "—",
       "storage": "—",
       "screen": "16\" 2K Touch",
