@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 16:28 UTC",
+  "updated": "2026-08-19 17:24 UTC",
   "uk": [
     {
       "model": "MiniBook X 16GB Intel U300 11\" Touchscreen Travel Laptop (Windows 11) with co…",
@@ -400,7 +400,7 @@
       "price": 550,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 100U",
+      "cpu": "Intel Core 3 100U",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -451,7 +451,7 @@
       "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 120U",
+      "cpu": "Intel Core 5 120U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\"",
@@ -468,7 +468,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95 (12th Gen)",
+      "cpu": "Intel N95",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -604,7 +604,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core Ultra 210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
