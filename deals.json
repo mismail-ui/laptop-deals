@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 15:28 UTC",
+  "updated": "2026-08-19 16:28 UTC",
   "uk": [
     {
       "model": "MiniBook X 16GB Intel U300 11\" Touchscreen Travel Laptop (Windows 11) with co…",
@@ -248,7 +248,7 @@
       "cpu": "Ryzen AI 7 350",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\" OLED Touchscreen",
+      "screen": "14\" OLED 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -400,7 +400,7 @@
       "price": 550,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 3 100U",
+      "cpu": "Intel Core Ultra 100U",
       "ram": "—",
       "storage": "—",
       "screen": "15.3\"",
@@ -451,7 +451,7 @@
       "price": 900,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 120U",
+      "cpu": "Intel Core Ultra 120U",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\"",
@@ -468,7 +468,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95",
+      "cpu": "Intel N95 (12th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -604,7 +604,7 @@
       "price": 949,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core Ultra 210H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -614,23 +614,6 @@
       "img": "https://d.dlnws.com/64599/1786645730-msi-cyborg-15-6-144hz-gaming-laptop-intel-core-5-210h-nvidia-geforce-rtx-5060-16gb-ram-512gb-ssd-202.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/MSI/MSI-Cyborg-Core-5-210-H-15-6-Laptop-w-NVIDIA-Ge-Force-RTX-5060/518373.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 3 Ryzen AI 7 445 16\" Touchscreen Laptop w/ 16GB RAM for $800 + $1…",
-      "retailer": "HP",
-      "price": 800,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen AI 7 445",
-      "ram": "16GB",
-      "storage": "—",
-      "screen": "16\" Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786641028-4201004437-847-4.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Ryzen-AI-7-445-16-Touchscreen-Laptop-w-16-GB-RAM/518357.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
