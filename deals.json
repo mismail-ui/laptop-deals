@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 18:35 UTC",
+  "updated": "2026-08-20 19:28 UTC",
   "uk": [
     {
       "model": "Medion 12 Core Ultra Slim Windows Laptop Snapdragon - With Code - Sold by lap…",
@@ -197,7 +197,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "15.6\"",
+      "screen": "—",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -377,6 +377,40 @@
     }
   ],
   "us": [
+    {
+      "model": "Dell Intel Core i7 2K Touch Laptop for $600 + free shipping",
+      "retailer": "Dell",
+      "price": 600,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core i7",
+      "ram": "—",
+      "storage": "—",
+      "screen": "— 2K Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1782891387-dell-laptop-front-view-ogop.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Dell/Dell-Intel-Core-i7-2-K-Touch-Laptop/522477.html?iref=rss-c49",
+      "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Microsoft Surface Laptop Snapdragon X2 Elite 13.8\" Laptop for $1,599 + free s…",
+      "retailer": "dealnews",
+      "price": 1599,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Snapdragon X2",
+      "ram": "—",
+      "storage": "—",
+      "screen": "13.8\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787252413-ep2-59285_2.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/Microsoft-Surface-Laptop-Snapdragon-X2-Elite-13-8-Laptop-for-1-599-free-shipping/22065415.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 7 Core Ultra 7 256V 17.3\" Touchscreen Laptop for $780 + free ship…",
       "retailer": "HP",
@@ -570,7 +604,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
@@ -599,40 +633,6 @@
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
-      "model": "Mallrace 12th Gen Alder Lake N95 17.3\" Laptop for $450 + free shipping",
-      "retailer": "dealnews",
-      "price": 450,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Alder Lake N95 (12th-Gen)",
-      "ram": "—",
-      "storage": "—",
-      "screen": "17.3\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1787065876-draftworks_img_oc6l4dsiopcl0kdaiba.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Mall-Race/Mallrace-12-th-Gen-Alder-Lake-N95-17-3-Laptop/521339.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Alienware Ryzen 7 260 15.3\" Gaming Laptop w/ NVIDIA GeForce RTX 5060 for $1,3…",
-      "retailer": "dealnews",
-      "price": 1300,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 260",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.3\"",
-      "gpu": "RTX 5060",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786987692-4201015412-847-2.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-7-260-15-3-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5060/520858.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
       "model": "ASUS ROG Strix X870-I Gaming WiFi Motherboard $299",
       "retailer": "ASUS",
       "price": 299,
@@ -648,23 +648,6 @@
       "img": null,
       "link": "https://slickdeals.net/f/19900917-asus-rog-strix-x870-i-gaming-wifi-motherboard-299",
       "note": "From ASUS feed — confirm spec on retailer site"
-    },
-    {
-      "model": "[Prime] HAPBEAR 72\" x 24\" Non-Slip Microfiber Hot Yoga Towel Mat (Blue or Gre…",
-      "retailer": "Slickdeals",
-      "price": 10,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19902075-prime-hapbear-72-x-24-non-slip-microfiber-hot-yoga-towel-mat-blue-or-grey-9-89-free-shipping",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
