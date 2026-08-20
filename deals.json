@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 19:28 UTC",
+  "updated": "2026-08-20 20:24 UTC",
   "uk": [
     {
       "model": "Medion 12 Core Ultra Slim Windows Laptop Snapdragon - With Code - Sold by lap…",
@@ -7,7 +7,7 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon (12-core)",
+      "cpu": "Snapdragon (12 Core)",
       "ram": "—",
       "storage": "—",
       "screen": "—",
@@ -386,7 +386,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "— 2K Touch",
+      "screen": "2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1763998896-apple-macbook-pro-laptop-front-view-od59.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-16-Core-5-120-U-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-900-free-shipping/22052327.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS ROG Strix X870-I Gaming WiFi Motherboard $299",
-      "retailer": "ASUS",
-      "price": 299,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19900917-asus-rog-strix-x870-i-gaming-wifi-motherboard-299",
-      "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
