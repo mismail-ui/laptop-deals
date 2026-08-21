@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-21 05:29 UTC",
+  "updated": "2026-08-21 06:41 UTC",
   "uk": [
+    {
+      "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7 350, 24GB RAM, 1TB SSD, 14 I…",
+      "retailer": "Costco",
+      "price": 700,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 7 350",
+      "ram": "24GB",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/UHvds/4962846_1/re/320x320/qt/55/4962846_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-pro-5-copilot-pc-amd-ryzen-ai-7-350-24gb-ram-1tb-ssd-14-inch-28k-120hz-oled-laptop-4962846",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
     {
       "model": "Medion 12 Core Ultra Slim Windows Laptop Snapdragon - With Code - Sold by lap…",
       "retailer": "eBay",
@@ -28,7 +45,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1E409/4962459_1/re/320x320/qt/55/4962459_1.jpg",
@@ -197,7 +214,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "15.6\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -206,7 +223,7 @@
       "note": "From Amazon feed — confirm spec on retailer site"
     },
     {
-      "model": "ASUS Zenbook Copilot+ PC, 0.94kg, AMD Ryzen AI 5, 16GB RAM, 1TB SSD, 14 Inch …",
+      "model": "ASUS Zenbook Copilot+ PC, 1.2kg, AMD Ryzen AI 5, 16GB RAM, 1TB SSD, 14 Inch O…",
       "retailer": "Costco",
       "price": 600,
       "was": null,
@@ -334,7 +351,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "16-core GPU",
+      "gpu": "16-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/l80WA/4958827_1/re/320x320/qt/55/4958827_1.jpg",
@@ -357,23 +374,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/pk8Zf/4958089_1/re/320x320/qt/55/4958089_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-3-chromebook-laptop-156-inch-full-hd-laptop-intel-pentium-silver-n6000-8gb-ram-128gb-emmc-chrome-os-arctic-grey-4958089",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "SAMSUNG Galaxy Book4 Edge 15.6\" Laptop, Copilot+ PC - Snapdragon X Plus, 256 …",
-      "retailer": "Currys",
-      "price": 279,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Snapdragon X Plus",
-      "ram": "—",
-      "storage": "256GB",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/pIRcG/4957795_1/re/320x320/qt/55/4957795_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/samsung-galaxy-book4-edge-156-laptop-copilot-pc-snapdragon-x-plus-256-gb-ssd-sapphire-blue-using-code-student-collection-only-4957795",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -503,7 +503,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Intel Core 5",
-      "ram": "—",
+      "ram": "16GB",
       "storage": "—",
       "screen": "16\" Touchscreen",
       "gpu": "—",
@@ -621,7 +621,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95 (12th Gen Alder Lake)",
+      "cpu": "Intel N95 (12th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
