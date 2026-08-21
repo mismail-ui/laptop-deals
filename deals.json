@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 13:42 UTC",
+  "updated": "2026-08-21 14:32 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7 350, 24GB RAM, 1TB SSD, 14 I…",
@@ -316,7 +316,7 @@
       "cpu": "Ryzen 5 40",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -604,7 +604,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Alder Lake N95",
+      "cpu": "Intel N95 (12th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
