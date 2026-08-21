@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 04:37 UTC",
+  "updated": "2026-08-21 05:29 UTC",
   "uk": [
     {
       "model": "Medion 12 Core Ultra Slim Windows Laptop Snapdragon - With Code - Sold by lap…",
@@ -446,23 +446,6 @@
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
-      "model": "LG gram Pro AMD Ryzen AI 7 450 16\" Laptop for $1,800 + free shipping",
-      "retailer": "dealnews",
-      "price": 1800,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 7 450",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1787213371-05c53ce1-88e5-489f-932a-e1cf58b38b76.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/LG-gram-Pro-AMD-Ryzen-AI-7-450-16-Laptop-for-1-800-free-shipping/22064640.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
       "model": "Newegg Laptop Clearance for From $163 + free shipping",
       "retailer": "Newegg",
       "price": 163,
@@ -631,6 +614,23 @@
       "img": "https://d.dlnws.com/64599/1763998896-apple-macbook-pro-laptop-front-view-od59.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-16-Core-5-120-U-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-900-free-shipping/22052327.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Mallrace 12th Gen Alder Lake N95 17.3\" Laptop for $450 + free shipping",
+      "retailer": "dealnews",
+      "price": 450,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N95 (12th Gen Alder Lake)",
+      "ram": "—",
+      "storage": "—",
+      "screen": "17.3\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787065876-draftworks_img_oc6l4dsiopcl0kdaiba.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Mall-Race/Mallrace-12-th-Gen-Alder-Lake-N95-17-3-Laptop/521339.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
