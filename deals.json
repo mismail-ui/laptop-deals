@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 02:59 UTC",
+  "updated": "2026-08-21 03:55 UTC",
   "uk": [
     {
       "model": "Medion 12 Core Ultra Slim Windows Laptop Snapdragon - With Code - Sold by lap…",
@@ -7,7 +7,7 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon (12-core)",
+      "cpu": "Snapdragon (12 Core)",
       "ram": "—",
       "storage": "—",
       "screen": "—",
@@ -299,7 +299,7 @@
       "cpu": "Ryzen 5 40",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -386,7 +386,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "2K Touch",
+      "screen": "— (2K Touch)",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
