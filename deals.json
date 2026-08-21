@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 21:21 UTC",
+  "updated": "2026-08-21 22:21 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7, 24GB RAM, 1TB SSD, 14 Inch …",
@@ -24,7 +24,7 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon (12-core)",
+      "cpu": "Snapdragon (12 Core)",
       "ram": "—",
       "storage": "—",
       "screen": "—",
@@ -41,7 +41,7 @@
       "price": 695,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple A18 Pro",
+      "cpu": "Apple A18 Pro (6-core)",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
@@ -403,7 +403,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "2K Touch",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -587,7 +587,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
@@ -614,23 +614,6 @@
       "img": "https://d.dlnws.com/64599/1763998896-apple-macbook-pro-laptop-front-view-od59.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-16-Core-5-120-U-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-900-free-shipping/22052327.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 3 16\" Laptop: AMD Ryzen AI 7 445 (2026), 16GB RAM, 512GB SSD, +19…",
-      "retailer": "HP",
-      "price": 650,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen AI 7 445",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19907565-hp-omnibook-3-16-laptop-amd-ryzen-ai-7-445-2026-16gb-ram-512gb-ssd-19-hour-battery-windows-11-home-649-99",
-      "note": "From HP feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
