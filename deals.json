@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 18:32 UTC",
+  "updated": "2026-08-21 19:23 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7, 24GB RAM, 1TB SSD, 14 Inch …",
@@ -41,7 +41,7 @@
       "price": 695,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple A18 Pro (6-core)",
+      "cpu": "Apple A18 Pro",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
@@ -316,7 +316,7 @@
       "cpu": "Ryzen 5 40",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -604,7 +604,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95 (12th Gen Alder Lake)",
+      "cpu": "Intel N95",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
