@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-21 17:25 UTC",
+  "updated": "2026-08-21 18:32 UTC",
   "uk": [
     {
-      "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7 350, 24GB RAM, 1TB SSD, 14 I…",
+      "model": "Lenovo IdeaPad Pro 5 Copilot+ PC, AMD Ryzen AI 7, 24GB RAM, 1TB SSD, 14 Inch …",
       "retailer": "Costco",
       "price": 700,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 7 350",
+      "cpu": "Ryzen AI 7",
       "ram": "24GB",
       "storage": "1TB",
       "screen": "14\"",
@@ -24,7 +24,7 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon (12-core)",
+      "cpu": "Snapdragon (12 Core)",
       "ram": "—",
       "storage": "—",
       "screen": "—",
@@ -604,7 +604,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95 (12th Gen)",
+      "cpu": "Intel N95 (12th Gen Alder Lake)",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -614,23 +614,6 @@
       "img": "https://d.dlnws.com/64599/1787065876-draftworks_img_oc6l4dsiopcl0kdaiba.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Mall-Race/Mallrace-12-th-Gen-Alder-Lake-N95-17-3-Laptop/521339.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Chromebook Plus Laptop: 14\" OLED Touchscreen, MediaTek Kompanio Ultra …",
-      "retailer": "Lenovo",
-      "price": 649,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "MediaTek Kompanio Ultra",
-      "ram": "16GB",
-      "storage": "256GB",
-      "screen": "14\" OLED Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/19904904-lenovo-chromebook-plus-laptop-14-oled-touchscreen-mediatek-kompanio-ultra-910-cpu-16gb-ram-256gb-ssd-649-free-shipping",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
