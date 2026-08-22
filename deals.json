@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22 13:29 UTC",
+  "updated": "2026-08-22 14:18 UTC",
   "uk": [
     {
       "model": "Apple 13-Inch MacBook Neo (2026) - A18 Pro Chip with 6‑Core CPU and 5‑core GP…",
@@ -7,7 +7,7 @@
       "price": 599,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple A18 Pro",
+      "cpu": "Apple A18 Pro (6-core)",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
@@ -58,7 +58,7 @@
       "price": 695,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple A18 Pro",
+      "cpu": "Apple A18 Pro (6-core)",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
@@ -333,7 +333,7 @@
       "cpu": "Ryzen 5 40",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
