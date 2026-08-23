@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22 23:18 UTC",
+  "updated": "2026-08-23 01:11 UTC",
   "uk": [
     {
       "model": "MacBook Neo Citrus - Instore Thurrock",
@@ -129,7 +129,7 @@
       "cpu": "Ryzen 5 7535HS",
       "ram": "24GB",
       "storage": "512GB",
-      "screen": "15.3\" WUXGA",
+      "screen": "15.3\" WUXGA IPS",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -369,7 +369,7 @@
       "cpu": "Core 3 N355",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K",
+      "screen": "14\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -403,7 +403,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "—",
+      "screen": "2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
