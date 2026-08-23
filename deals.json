@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-23 22:18 UTC",
+  "updated": "2026-08-23 23:18 UTC",
   "uk": [
+    {
+      "model": "HP 15-fd1007nax 15.6-inch Laptop - Intel Core 3, 8GB RAM, 256GB SSD",
+      "retailer": "John Lewis & Partners",
+      "price": 300,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 3",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/7y9Ol/4964846_1/re/320x320/qt/55/4964846_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-15-fd1007nax-156-inch-laptop-intel-core-3-8gb-ram-256gb-ssd-4964846",
+      "note": "From John Lewis & Partners feed — confirm spec on retailer site"
+    },
     {
       "model": "Apple MacBook Neo Citrus, 256GB - Instore Thurrock",
       "retailer": "Costco",
@@ -10,7 +27,7 @@
       "cpu": "Apple A18 Pro",
       "ram": "—",
       "storage": "256GB",
-      "screen": "13.3\"",
+      "screen": "13\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -386,7 +403,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "—",
+      "screen": "2K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
