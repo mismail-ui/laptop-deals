@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23 21:18 UTC",
+  "updated": "2026-08-23 22:18 UTC",
   "uk": [
     {
       "model": "Apple MacBook Neo Citrus, 256GB - Instore Thurrock",
@@ -10,7 +10,7 @@
       "cpu": "Apple A18 Pro",
       "ram": "—",
       "storage": "256GB",
-      "screen": "—",
+      "screen": "13.3\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -386,7 +386,7 @@
       "cpu": "Core i7",
       "ram": "—",
       "storage": "—",
-      "screen": "2K Touch",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -553,7 +553,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5-13th Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
