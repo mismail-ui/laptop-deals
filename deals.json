@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23 04:37 UTC",
+  "updated": "2026-08-23 05:26 UTC",
   "uk": [
     {
       "model": "MacBook Neo Citrus - Instore Thurrock",
@@ -361,23 +361,6 @@
   ],
   "us": [
     {
-      "model": "HP Core 3 N355 14\" 2K Touchscreen 2-in-1 Chromebook for $479 + free shipping",
-      "retailer": "HP",
-      "price": 479,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Core 3 N355",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\" 2K Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1787393902-bb466bf8-35bd-4d95-87f7-b593e3953312.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Core-3-N355-14-2-K-Touchscreen-2-in-1-Chromebook-for-479-free-shipping/22076199.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
       "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $380 + free shipping",
       "retailer": "Lenovo",
       "price": 380,
@@ -597,6 +580,23 @@
       "img": "https://d.dlnws.com/64599/1763998896-apple-macbook-pro-laptop-front-view-od59.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-16-Core-5-120-U-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-900-free-shipping/22052327.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Mallrace 12th Gen Alder Lake N95 17.3\" Laptop for $450 + free shipping",
+      "retailer": "dealnews",
+      "price": 450,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Alder Lake N95",
+      "ram": "—",
+      "storage": "—",
+      "screen": "17.3\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787065876-draftworks_img_oc6l4dsiopcl0kdaiba.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Mall-Race/Mallrace-12-th-Gen-Alder-Lake-N95-17-3-Laptop/521339.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
