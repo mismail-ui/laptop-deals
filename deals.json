@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 16:34 UTC",
+  "updated": "2026-08-24 17:28 UTC",
   "uk": [
     {
       "model": "14.1\" Ultra Slim Windows 11 Pro Laptop Computer intel Atom A3950 12GB RAM 256…",
@@ -62,7 +62,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "Apple A18 Pro (5-core)",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/r2F4X/4964091_1/re/320x320/qt/55/4964091_1.jpg",
@@ -113,7 +113,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "Apple A18 Pro (5-core)",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1E409/4962459_1/re/320x320/qt/55/4962459_1.jpg",
@@ -378,6 +378,23 @@
   ],
   "us": [
     {
+      "model": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,250 + free shipping",
+      "retailer": "ASUS",
+      "price": 1250,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 255H",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787590180-34-236-727-18.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/ASUS-Vivobook-S-Core-Ultra-7-255-H-16-Laptop-PC-for-1-250-free-shipping/22088378.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
       "model": "Lenovo IdeaPad 5i Core Ultra 7 255U 16\" Laptop for $910 + free shipping",
       "retailer": "Lenovo",
       "price": 910,
@@ -400,7 +417,7 @@
       "price": 469,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Snapdragon 7c Gen 3 (5120U)",
+      "cpu": "Snapdragon 5 120U",
       "ram": "—",
       "storage": "—",
       "screen": "14\" Touch",
@@ -608,7 +625,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14\"",
-      "gpu": "20-core GPU",
+      "gpu": "Apple M5 Pro (20-core)",
       "battery": "—",
       "weight": "—",
       "img": null,
