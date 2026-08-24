@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 05:35 UTC",
+  "updated": "2026-08-24 06:53 UTC",
   "uk": [
     {
       "model": "HP 15-fd1007nax 15.6-inch Laptop - Intel Core 3, 8GB RAM, 256GB SSD",
@@ -45,7 +45,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/r2F4X/4964091_1/re/320x320/qt/55/4964091_1.jpg",
@@ -96,7 +96,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1E409/4962459_1/re/320x320/qt/55/4962459_1.jpg",
@@ -587,7 +587,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95",
+      "cpu": "Intel Alder Lake N95",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -614,6 +614,23 @@
       "img": null,
       "link": "https://slickdeals.net/f/19912995-hp-epp-or-edu-members-omen-45l-intel-ultra9-285k-rtx-5090-64gb-ram-2tb-ssd-windows-pro-4560-free-s-amp-h",
       "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Apple MacBook Pro: 14\", M5 Pro (18C/20C), 24GB RAM, 2TB SSD, Space Black $2699",
+      "retailer": "Slickdeals",
+      "price": 2699,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5 Pro",
+      "ram": "24GB",
+      "storage": "2TB",
+      "screen": "14\"",
+      "gpu": "20-core",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19915452-apple-macbook-pro-14-m5-pro-18c-20c-24gb-ram-2tb-ssd-space-black-2699",
+      "note": "From Slickdeals feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
