@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 03:00 UTC",
+  "updated": "2026-08-24 04:41 UTC",
   "uk": [
     {
       "model": "HP 15-fd1007nax 15.6-inch Laptop - Intel Core 3, 8GB RAM, 256GB SSD",
@@ -570,7 +570,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5-13",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
@@ -604,7 +604,7 @@
       "price": 4560,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Ultra 9 285K",
+      "cpu": "Intel Ultra9 285K",
       "ram": "64GB",
       "storage": "2TB",
       "screen": "—",
