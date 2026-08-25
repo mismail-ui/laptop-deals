@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 20:25 UTC",
+  "updated": "2026-08-25 21:25 UTC",
   "uk": [
     {
       "model": "Lenovo Yoga Slim 7 14” OLED Laptop (Core Ultra 5, 16GB/512GB)",
@@ -143,10 +143,10 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon (12-core)",
+      "cpu": "Snapdragon",
       "ram": "—",
       "storage": "—",
-      "screen": "—",
+      "screen": "12\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -333,7 +333,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "15.6\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -604,7 +604,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
