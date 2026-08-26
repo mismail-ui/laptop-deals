@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 23:22 UTC",
+  "updated": "2026-08-26 01:09 UTC",
   "uk": [
     {
       "model": "Acer Predator Helios Neo 16 AI Gaming Laptop - Intel Core Ultra 9 275HX, 16GB…",
@@ -130,7 +130,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core",
+      "gpu": "5-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/r2F4X/4964091_1/re/320x320/qt/55/4964091_1.jpg",
@@ -181,7 +181,7 @@
       "ram": "8GB",
       "storage": "512GB",
       "screen": "13\"",
-      "gpu": "5-core",
+      "gpu": "5-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/1E409/4962459_1/re/320x320/qt/55/4962459_1.jpg",
@@ -350,7 +350,7 @@
       "cpu": "Core i7-13620H",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
