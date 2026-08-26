@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 09:37 UTC",
+  "updated": "2026-08-26 10:32 UTC",
   "uk": [
     {
       "model": "Asus Zenbook 14 OLED - Ryzen AI 5 430, 16GB RAM, 1TB, 14\" OLED Display - Blac…",
@@ -376,41 +376,41 @@
       "note": "From Costco feed — confirm spec on retailer site"
     },
     {
-      "model": "Acer Nitro V15 ANV15-52 Gaming Laptop - Intel Core i7-13620H, 16GB, 1TB SSD, …",
-      "retailer": "Amazon",
-      "price": 899,
+      "model": "Save 10% off Galaxy Book Laptops with code",
+      "retailer": "Samsung",
+      "price": null,
       "was": null,
-      "cat": "Gaming",
-      "cpu": "Core i7-13620H",
-      "ram": "16GB",
-      "storage": "1TB",
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
       "screen": "—",
-      "gpu": "RTX 5060",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/qOI2J/4961285_1/re/320x320/qt/55/4961285_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-nitro-v15-anv15-52-gaming-laptop-intel-core-i7-13620h-16gb-1tb-ssd-nvidia-geforce-rtx-5060-156-full-hd-165hz-windows-11-black-4961285",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Zenbook Copilot+ PC, 1.2kg, AMD Ryzen AI 5, 16GB RAM, 1TB SSD, 14 Inch O…",
-      "retailer": "Costco",
-      "price": 600,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 5",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/0y7J4/4961265_1/re/320x320/qt/55/4961265_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-zenbook-copilot-pc-094kg-amd-ryzen-ai-5-16gb-ram-1tb-ssd-14-inch-oled-laptop-um3406ga-qd034w-discount-applied-at-checkout-4961265",
-      "note": "From Costco feed — confirm spec on retailer site"
+      "img": "https://images.hotukdeals.com/merchants/raw/avatar/5421_2/re/352x352/qt/60/5421_2.jpg",
+      "link": "https://www.hotukdeals.com/vouchers/save-10-off-galaxy-book-laptops-with-code-4963101",
+      "note": "From Samsung feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Lenovo ThinkPad L16 Core Ultra 7 255U 16\" Laptop Bundle for $1,399 + free shi…",
+      "retailer": "Lenovo",
+      "price": 1399,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 255U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787737268-b0gjd2605181a2gq37c.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Lenovo-Think-Pad-L16-Core-Ultra-7-255-U-16-Laptop-Bundle-for-1-399-free-shipping/22099641.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 3 Ryzen 5 16\" Laptop PC for $400 + free shipping",
       "retailer": "HP",
@@ -614,23 +614,6 @@
       "img": "https://d.dlnws.com/64599/1787084667-lenovo-ideapad-slim-3i-gen10-v2.avif?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Laptop-Deals-for-From-350-free-shipping/22052564.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Dell 13th-Gen i5 15.6\" Laptop w/ 16GB RAM for $440 + free shipping",
-      "retailer": "Dell",
-      "price": 440,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
-      "ram": "16GB",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1764030113-dell15.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Dell/Dell-13-th-Gen-i5-15-6-Laptop-w-16-GB-RAM/496132.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
     },
     {
       "model": "Staples Laptop Deals: Up to 60% off + free shipping",
