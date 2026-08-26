@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 06:43 UTC",
+  "updated": "2026-08-26 07:43 UTC",
   "uk": [
     {
       "model": "Acer Predator Helios Neo 16 AI Gaming Laptop - Intel Core Ultra 9 275HX, 16GB…",
@@ -412,6 +412,23 @@
   ],
   "us": [
     {
+      "model": "HP OmniBook 3 Ryzen 5 16\" Laptop PC for $400 + free shipping",
+      "retailer": "HP",
+      "price": 400,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 5 16",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787728121-2cebe792-693a-4300-be80-470d1ff22eea.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-Omni-Book-3-Ryzen-5-16-Laptop-PC-for-400-free-shipping/22099426.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
       "model": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,250 + free shipping",
       "retailer": "ASUS",
       "price": 1250,
@@ -604,7 +621,7 @@
       "price": 440,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\"",
@@ -613,23 +630,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1764030113-dell15.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-13-th-Gen-i5-15-6-Laptop-w-16-GB-RAM/496132.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Dell 16 Core 5 120U 16\" Laptop w/ 16GB RAM & 1TB SSD for $900 + free shipping",
-      "retailer": "Dell",
-      "price": 900,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core 5 120U",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1763998896-apple-macbook-pro-laptop-front-view-od59.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Dell-16-Core-5-120-U-16-Laptop-w-16-GB-RAM-1-TB-SSD-for-900-free-shipping/22052327.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
     },
     {
