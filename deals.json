@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-26 18:58 UTC",
+  "updated": "2026-08-26 21:43 UTC",
   "uk": [
+    {
+      "model": "LG gram 15Z80T (Excl.)- 15.6 inch FHD IPS Laptop, AMD Ryzen AI 7 350, AMD Rad…",
+      "retailer": "Amazon",
+      "price": 550,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Ryzen AI 7 350",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.6\"",
+      "gpu": "RADEON 860M",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/FUKcS/4967216_1/re/320x320/qt/55/4967216_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lg-gram-15z80t-excl-156-inch-fhd-ips-laptop-amd-ryzen-ai-7-350-amd-radeon-860m-gpu-50-tops-npu-16gb-ram-512gb-ssd-4967216",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo Ideapad Slim 3 14in R7 16GB 1TB Laptop - W/Code",
       "retailer": "Argos",
@@ -163,7 +180,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "256GB",
-      "screen": "13\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -211,10 +228,10 @@
       "price": 432,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon",
+      "cpu": "Snapdragon (12 Core)",
       "ram": "—",
       "storage": "—",
-      "screen": "12\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -274,23 +291,6 @@
       "note": "From eBay feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo IdeaPad Slim 3 15.3\" WUXGA IPS 300nits Ryzen 5 7535HS 24GB RAM 512GB S…",
-      "retailer": "eBay",
-      "price": 416,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen 5 7535HS",
-      "ram": "24GB",
-      "storage": "512GB",
-      "screen": "15.3\" WUXGA IPS",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/e65O2/4962105_1/re/320x320/qt/55/4962105_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-3-153-wuxga-ips-300nits-ryzen-5-7535hs-24gb-ram-512gb-ssd-laptop-with-code-at-a-uk-mainland-4962105",
-      "note": "From eBay feed — confirm spec on retailer site"
-    },
-    {
       "model": "Save 10% off Galaxy Book Laptops with code",
       "retailer": "Samsung",
       "price": null,
@@ -309,6 +309,23 @@
     }
   ],
   "us": [
+    {
+      "model": "ASUS Vivobook Go Intel N150 15.6\" Laptop PC for $249 + free shipping",
+      "retailer": "ASUS",
+      "price": 249,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Atom N150",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787770008-ivobookgo1515410.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/ASUS-Vivobook-Go-Intel-N150-15-6-Laptop-PC-for-249-free-shipping/22100205.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo ThinkPad L16 Core Ultra 7 255U 16\" Laptop Bundle for $1,399 + free shi…",
       "retailer": "Lenovo",
