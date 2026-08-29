@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-29 15:28 UTC",
+  "updated": "2026-08-29 19:11 UTC",
   "uk": [
+    {
+      "model": "Lenovo IdeaPad Slim 3 15.6” FHD Laptop, AMD Athlon 7120U, 4GB RAM, 128GB SSD …",
+      "retailer": "Very",
+      "price": 167,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "AMD Athlon 7120U",
+      "ram": "4GB",
+      "storage": "128GB",
+      "screen": "15.6\" FHD",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/R1lSv/4969406_1/re/320x320/qt/55/4969406_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-3-156-fhd-laptop-amd-athlon-7120u-4gb-ram-128gb-ssd-4969406",
+      "note": "From Very feed — confirm spec on retailer site"
+    },
     {
       "model": "Asus TUF GAMING B850-BTF WIFI W, AMD B850, AM5, ATX, 4 DDR5, HDMI, DP, Wi-Fi …",
       "retailer": "Amazon",
@@ -61,7 +78,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\" QHD+ 240Hz",
+      "screen": "16\" QHD+ 240Hz IPS",
       "gpu": "RTX 5090",
       "battery": "—",
       "weight": "—",
