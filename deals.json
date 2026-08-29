@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-29 10:47 UTC",
+  "updated": "2026-08-29 15:28 UTC",
   "uk": [
+    {
+      "model": "Asus TUF GAMING B850-BTF WIFI W, AMD B850, AM5, ATX, 4 DDR5, HDMI, DP, Wi-Fi …",
+      "retailer": "Amazon",
+      "price": 177,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/vfCWP/4969361_1/re/320x320/qt/55/4969361_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-b850-btf-wifi-w-amd-b850-am5-atx-4-ddr5-hdmi-dp-wi-fi-7-25g-lan-3x-m2-requires-a-btf-compatible-chassis-4969361",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS TUF A16 FA608UMI 16.0\" WUXGA 165Hz Gaming Laptop (AMD Ryzen 7 260, NVIDI…",
       "retailer": "Amazon",
@@ -163,7 +180,7 @@
       "cpu": "Core Ultra 5 325",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -204,23 +221,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/xTqMI/4967093_1/re/320x320/qt/55/4967093_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-3-14in-r7-16gb-1tb-laptop-4967093",
       "note": "From Argos feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Asus Zenbook 14 OLED - Ryzen AI 5 430, 16GB RAM, 1TB, 14\" OLED Display - Blac…",
-      "retailer": "Very",
-      "price": 519,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Ryzen AI 5 430",
-      "ram": "16GB",
-      "storage": "1TB",
-      "screen": "14\" OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/oci1A/4966766_1/re/320x320/qt/55/4966766_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-zenbook-14-oled-ryzen-ai-5-430-16gb-ram-1tb-14-oled-display-black-wcode-4966766",
-      "note": "From Very feed — confirm spec on retailer site"
     }
   ],
   "us": [
