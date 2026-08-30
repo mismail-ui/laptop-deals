@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 17:54 UTC",
+  "updated": "2026-08-30 20:33 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 3 15.6” FHD Laptop, AMD Athlon 7120U, 4GB RAM, 128GB SSD …",
@@ -78,7 +78,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\" QHD+ 240Hz IPS",
+      "screen": "16\" QHD+ 240Hz",
       "gpu": "RTX 5090",
       "battery": "—",
       "weight": "—",
@@ -165,8 +165,8 @@
       "storage": "512GB",
       "screen": "13.6\"",
       "gpu": "—",
-      "battery": "—",
-      "weight": "—",
+      "battery": "Up to 18h",
+      "weight": "1.24kg",
       "img": "https://images.hotukdeals.com/threads/raw/uuP8W/4968081_1/re/320x320/qt/55/4968081_1.jpg",
       "link": "https://www.hotukdeals.com/deals/2026-apple-macbook-air-136-m5-processor-16gb-ram-512gb-ssd-midnight-blue-in-store-only-4968081",
       "note": "From Costco feed — confirm spec on retailer site"
@@ -247,7 +247,7 @@
       "price": 399,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N100",
+      "cpu": "Intel Celeron N100",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" HD",
@@ -281,7 +281,7 @@
       "price": 249,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N150",
+      "cpu": "Intel Celeron N150",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -400,7 +400,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 7 350",
+      "cpu": "Intel Core 7 350",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
