@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30 13:32 UTC",
+  "updated": "2026-08-30 17:54 UTC",
   "uk": [
     {
       "model": "Lenovo IdeaPad Slim 3 15.6” FHD Laptop, AMD Athlon 7120U, 4GB RAM, 128GB SSD …",
@@ -78,7 +78,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\" QHD+ 240Hz",
+      "screen": "16\" QHD+ 240Hz IPS",
       "gpu": "RTX 5090",
       "battery": "—",
       "weight": "—",
@@ -197,7 +197,7 @@
       "cpu": "Core Ultra 5 325",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -400,7 +400,7 @@
       "price": 600,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 350",
+      "cpu": "Intel Core Ultra 7 350",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
