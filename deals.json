@@ -1,6 +1,23 @@
 {
-  "updated": "2026-08-31 03:39 UTC",
+  "updated": "2026-08-31 10:31 UTC",
   "uk": [
+    {
+      "model": "Lenovo Chromebook 14M8911 - Mediatek - 8GB RAM - 64GB - 14in WUXGA IPS - Blue…",
+      "retailer": "Very",
+      "price": 210,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "MediaTek",
+      "ram": "8GB",
+      "storage": "64GB",
+      "screen": "14\" WUXGA IPS",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/xL3Ok/4970375_1/re/320x320/qt/55/4970375_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/lenovo-chromebook-14m8911-4970375",
+      "note": "From Very feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo LOQ 15HP10, AMD Ryzen 7, 32GB RAM, 1TB SSD, NVIDIA GeForce RTX 5060, 1…",
       "retailer": "Costco",
@@ -61,7 +78,7 @@
       "cpu": "Ryzen 7 260",
       "ram": "—",
       "storage": "—",
-      "screen": "16.0\" WUXGA 165Hz",
+      "screen": "16\" WUXGA 165Hz",
       "gpu": "RTX 5060",
       "battery": "—",
       "weight": "—",
@@ -165,8 +182,8 @@
       "storage": "512GB",
       "screen": "13.6\"",
       "gpu": "—",
-      "battery": "Up to 18h",
-      "weight": "1.24kg",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/uuP8W/4968081_1/re/320x320/qt/55/4968081_1.jpg",
       "link": "https://www.hotukdeals.com/deals/2026-apple-macbook-air-136-m5-processor-16gb-ram-512gb-ssd-midnight-blue-in-store-only-4968081",
       "note": "From Costco feed — confirm spec on retailer site"
@@ -197,7 +214,7 @@
       "cpu": "Core Ultra 5 325",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
