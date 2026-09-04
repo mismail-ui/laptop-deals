@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 16:43 UTC",
+  "updated": "2026-09-04 19:17 UTC",
   "uk": [
     {
       "model": "Acer Aspire 16 A16-71M Laptop - Intel Core Ultra 5 125H, 16GB, 512GB SSD, Int…",
@@ -180,7 +180,7 @@
       "cpu": "AMD Ryzen AI MAX+ 395",
       "ram": "128GB",
       "storage": "128GB",
-      "screen": "13\" 2.5K 180Hz",
+      "screen": "13.4\" 2.5K 180Hz",
       "gpu": "RADEON 8060S",
       "battery": "—",
       "weight": "—",
@@ -265,7 +265,7 @@
       "cpu": "MediaTek",
       "ram": "8GB",
       "storage": "64GB",
-      "screen": "14\" WUXGA IPS",
+      "screen": "14\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -417,7 +417,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5-13th Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -437,7 +437,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touchscreen",
+      "screen": "16\" 2K touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
