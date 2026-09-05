@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 20:55 UTC",
+  "updated": "2026-09-05 22:38 UTC",
   "uk": [
     {
       "model": "Dell 16 Laptop - Intel Core 5 120U, 16GB RAM, 512GB SSD",
@@ -197,7 +197,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "14.0\" FHD",
+      "screen": "14\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -214,7 +214,7 @@
       "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5050",
       "battery": "—",
       "weight": "—",
@@ -451,7 +451,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
