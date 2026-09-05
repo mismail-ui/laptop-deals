@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 18:46 UTC",
+  "updated": "2026-09-05 20:55 UTC",
   "uk": [
     {
       "model": "Dell 16 Laptop - Intel Core 5 120U, 16GB RAM, 512GB SSD",
@@ -197,7 +197,7 @@
       "cpu": "Intel Core 3 100U",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "14\" FHD",
+      "screen": "14.0\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -350,7 +350,7 @@
       "cpu": "MediaTek",
       "ram": "8GB",
       "storage": "64GB",
-      "screen": "14\" WUXGA",
+      "screen": "14\" WUXGA IPS",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -471,7 +471,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K Touchscreen",
+      "screen": "16\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
