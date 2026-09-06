@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 05:29 UTC",
+  "updated": "2026-09-06 10:15 UTC",
   "uk": [
     {
       "model": "Asus Vivobook 14 Copilot+ PC Laptop, AMD Ryzen AI 7 Processor, 16GB RAM, 1TB …",
@@ -418,7 +418,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Ryzen AI 5 430",
-      "ram": "16GB",
+      "ram": "—",
       "storage": "—",
       "screen": "16\"",
       "gpu": "—",
@@ -434,7 +434,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 13th Gen",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -461,23 +461,6 @@
       "img": "https://d.dlnws.com/64599/1786328784-draftworks_img_krdpcjlas8180jjdnin.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Yoga-7-i-2-in-1-16-2-K-Touchscreen-Laptop/516298.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Kaigerr LX16PRO Ryzen R2544 16\" Light Gaming Laptop for $399 + free shipping",
-      "retailer": "dealnews",
-      "price": 399,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "AMD Ryzen R2544",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1788452933-draftworks_img_q3c3a57c42nl7dadlhc.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/Kaigerr-LX16-PRO-Ryzen-R2544-16-Light-Gaming-Laptop-for-399-free-shipping/22139384.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
       "model": "Lenovo Labor Day Laptop Deals for From $340 + free shipping",
@@ -536,7 +519,7 @@
       "price": 399,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Atom N100",
+      "cpu": "Intel N100",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" HD",
