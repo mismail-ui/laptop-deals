@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06 16:41 UTC",
+  "updated": "2026-09-06 18:49 UTC",
   "uk": [
     {
       "model": "Asus Vivobook 14 Copilot+ PC Laptop, AMD Ryzen AI 7 Processor, 16GB RAM, 1TB …",
@@ -318,8 +318,8 @@
       "storage": "512GB",
       "screen": "13\"",
       "gpu": "—",
-      "battery": "Up to 18h",
-      "weight": "1.24kg",
+      "battery": "—",
+      "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/IymlX/4971643_1/re/320x320/qt/55/4971643_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-13-inch-macbook-air-m5-chip-16gb-512gb-ssd-silver-4971643",
       "note": "From Joybuy feed — confirm spec on retailer site"
@@ -364,10 +364,10 @@
       "price": 210,
       "was": null,
       "cat": "Chromebook",
-      "cpu": "Mediatek",
+      "cpu": "MediaTek",
       "ram": "8GB",
       "storage": "64GB",
-      "screen": "14\" WUXGA",
+      "screen": "14\" WUXGA IPS",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -454,7 +454,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" 2K",
+      "screen": "16\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
