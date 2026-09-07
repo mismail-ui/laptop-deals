@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 07:55 UTC",
+  "updated": "2026-09-07 14:00 UTC",
   "uk": [
     {
       "model": "Asus Vivobook 14 Copilot+ PC Laptop, AMD Ryzen AI 7 Processor, 16GB RAM, 1TB …",
@@ -180,7 +180,7 @@
       "cpu": "Core i5-13420H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\" FHD",
+      "screen": "15.6\" FHD 165Hz",
       "gpu": "RTX 4050",
       "battery": "—",
       "weight": "—",
@@ -296,7 +296,7 @@
       "price": 1189,
       "was": null,
       "cat": "Gaming",
-      "cpu": "AMD Ryzen AI 7 350",
+      "cpu": "AMD AI 7 350",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "14\" QHD+ 165Hz",
@@ -318,7 +318,7 @@
       "storage": "512GB",
       "screen": "13\"",
       "gpu": "—",
-      "battery": "—",
+      "battery": "Up to 15h",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/IymlX/4971643_1/re/320x320/qt/55/4971643_1.jpg",
       "link": "https://www.hotukdeals.com/deals/apple-13-inch-macbook-air-m5-chip-16gb-512gb-ssd-silver-4971643",
@@ -434,7 +434,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
