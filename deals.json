@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 00:03 UTC",
+  "updated": "2026-09-08 05:35 UTC",
   "uk": [
     {
       "model": "ASUS Chromebook Plus 14 CX3402CVA | 14.0\" Full HD Screen | Intel Core 3 100U …",
@@ -367,7 +367,7 @@
       "cpu": "MediaTek",
       "ram": "8GB",
       "storage": "64GB",
-      "screen": "14\" WUXGA IPS",
+      "screen": "14\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -545,6 +545,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1788213696-4201005956-847-3.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Core-Ultra-7-255-U-16-Laptop/528342.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "HP 15.6\" HD Intel N100 Notebook PC for $399 + free shipping",
+      "retailer": "HP",
+      "price": 399,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N100",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\" HD",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1787927654-15fd0130ds51.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-15-6-HD-Intel-N100-Notebook-PC-for-399-free-shipping/22109812.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
     },
     {
