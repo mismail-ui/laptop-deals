@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 03:06 UTC",
+  "updated": "2026-09-09 08:37 UTC",
   "uk": [
     {
       "model": "Asus Tuf A16 FA608UP CPU Ryzen 7 260 and GPU RTX5070 Gaming Laptop",
@@ -282,7 +282,7 @@
       "cpu": "Intel Core 7 240H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "RTX 5050",
       "battery": "—",
       "weight": "—",
@@ -384,7 +384,7 @@
       "cpu": "MediaTek",
       "ram": "8GB",
       "storage": "64GB",
-      "screen": "14\" WUXGA IPS",
+      "screen": "14\" WUXGA",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -536,7 +536,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -631,6 +631,23 @@
       "img": "https://d.dlnws.com/64599/1787927654-15fd0130ds51.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/HP-15-6-HD-Intel-N100-Notebook-PC-for-399-free-shipping/22109812.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "14\" Lenovo IdeaPad Slim 3 Chromebook MediaTek Kompanio 540 2025, 4GB RAM, 64G…",
+      "retailer": "Lenovo",
+      "price": 199,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "MediaTek Kompanio 540",
+      "ram": "4GB",
+      "storage": "64GB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/19990140-14-lenovo-ideapad-slim-3-chromebook-mediatek-kompanio-540-2025-4gb-ram-64gb-emmc-cosmic-blue-199-free-s-h",
+      "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
       "model": "HP Laptop Labor Day Laptop Deals: Up to 60% off + free shipping",
