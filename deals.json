@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 21:23 UTC",
+  "updated": "2026-09-10 23:42 UTC",
   "uk": [
     {
       "model": "Apple MacBook Pro 14.2-inch Laptop with M5 Pro chip with 15 core CPU,16 core …",
@@ -78,7 +78,7 @@
       "cpu": "Intel Core 3 N355",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -638,7 +638,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
