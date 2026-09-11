@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 17:30 UTC",
+  "updated": "2026-09-11 20:26 UTC",
   "uk": [
     {
       "model": "Asus ROG STRIX Z890-F Gaming Wi-Fi + Intel Core Ultra 7 270K PLUS + 32GB CORS…",
@@ -180,7 +180,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -665,23 +665,6 @@
       "img": "https://d.dlnws.com/64599/1788562769-d9e1ba7b-8520-423a-992b-03c83a65c490.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Omni-Book-X-Flip-AMD-Ryzen-AI-5-430-16-Laptop-for-700-free-shipping/22142962.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo Yoga Slim 7x Lsptop: 14\" OLED Touch, Snapdragon X2 Elite X2E-80-100, 3…",
-      "retailer": "Lenovo",
-      "price": 1149,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Snapdragon X2",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "14\" OLED Touch",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/20001813-lenovo-yoga-slim-7x-lsptop-14-oled-touch-snapdragon-x2-elite-x2e-80-100-32gb-ram-1tb-ssd-1149-free-s-h",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
       "model": "eBay September Sale Laptop Deals: Up to 75% off + free shipping",
