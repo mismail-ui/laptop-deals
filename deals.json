@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 23:42 UTC",
+  "updated": "2026-09-11 03:01 UTC",
   "uk": [
     {
       "model": "Apple MacBook Pro 14.2-inch Laptop with M5 Pro chip with 15 core CPU,16 core …",
@@ -7,11 +7,11 @@
       "price": 2279,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro",
+      "cpu": "Apple M5 Pro (15-core)",
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "16-core",
+      "gpu": "16-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -384,7 +384,7 @@
       "cpu": "Intel Core 7 240H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\"",
+      "screen": "15\"",
       "gpu": "RTX 5050",
       "battery": "—",
       "weight": "—",
@@ -638,7 +638,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th Gen)",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
