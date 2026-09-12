@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 16:44 UTC",
+  "updated": "2026-09-12 18:57 UTC",
   "uk": [
     {
       "model": "Asus ROG STRIX Z890-F Gaming Wi-Fi + Intel Core Ultra 7 270K PLUS + 32GB CORS…",
@@ -45,7 +45,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "16-core",
+      "gpu": "15-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -112,7 +112,7 @@
       "cpu": "Intel Core 3 N355",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -180,7 +180,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
