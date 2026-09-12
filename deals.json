@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-12 00:57 UTC",
+  "updated": "2026-09-12 05:30 UTC",
   "uk": [
+    {
+      "model": "INIU Compact Laptop Power Bank, 27000mAh 140W Fast Charging, Smart LED Displa…",
+      "retailer": "Amazon",
+      "price": 63,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "27000mAh",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/39r03/4979653_1/re/320x320/qt/55/4979653_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/iniu-compact-laptop-power-bank-27000mah-140w-fast-charging-smart-led-display-3-output-fast-charging-flight-safe-4979653",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Asus ROG STRIX Z890-F Gaming Wi-Fi + Intel Core Ultra 7 270K PLUS + 32GB CORS…",
       "retailer": "Scan",
@@ -45,7 +62,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "16-core GPU",
+      "gpu": "16-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -384,30 +401,13 @@
       "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5050",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/zx2oq/4972395_1/re/320x320/qt/55/4972395_1.jpg",
       "link": "https://www.hotukdeals.com/deals/nitro-v16-gaming-laptop-intel-core-5-processor-16gb-ram-512gb-ssd-rtx-5050-16-wuxga-black-4972395",
       "note": "From John Lewis & Partners feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Laptop Core I3 8Gb Ram 240Gb SSD Windows 11 with code Birmingham AV",
-      "retailer": "eBay",
-      "price": 104,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core I3",
-      "ram": "8GB",
-      "storage": "240GB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/xxoGI/4972369_1/re/320x320/qt/55/4972369_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/super-fast-laptop-core-i3-8gb-ram-240gb-ssd-windows-11-4972369",
-      "note": "From eBay feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -444,23 +444,6 @@
       "img": "https://d.dlnws.com/64599/1789119141-draftworks_img_lkj1u8u9h7v82obfcdb.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/Mall-Race-Intel-i5-15-6-Laptop-w-24-GB-RAM-for-550-free-shipping/22169625.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo IdeaPad Slim 3 Ryzen 5 40 15.6\" Laptop for $380 + free shipping",
-      "retailer": "Lenovo",
-      "price": 380,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Ryzen 5 40",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1781310738-55a4a43f-2608-46b7-8a47-2b6ef45fb46a.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Idea-Pad-Slim-3-Ryzen-5-40-15-6-Laptop-for-380-free-shipping/22169583.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     },
     {
       "model": "Kaigerr Ryzen 5 7430U 18.5\" Gaming Laptop for $590 + free shipping",
