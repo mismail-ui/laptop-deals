@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-14 11:48 UTC",
+  "updated": "2026-09-14 17:42 UTC",
   "uk": [
+    {
+      "model": "Samsung Galaxy Chromebook Plus Gemini AI Laptop, i5, 256GB, 8GB RAM",
+      "retailer": "Amazon",
+      "price": 399,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "Intel Core i5",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screen": "—",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/Vc6PG/4981250_1/re/320x320/qt/55/4981250_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/samsung-galaxy-chromebook-plus-gemini-ai-laptop-i5-4981250",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "Xiaman 14.1 Inch HD Display Laptop Computer Windows 11 Pro Intel Atom A3950 L…",
       "retailer": "AliExpress",
@@ -75,11 +92,11 @@
       "price": 2279,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro (15-core)",
+      "cpu": "Apple M5 Pro",
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "Apple M5 Pro (16-core GPU)",
+      "gpu": "16-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -391,23 +408,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/CKkRl/4973245_1/re/320x320/qt/55/4973245_1.jpg",
       "link": "https://www.hotukdeals.com/deals/acer-nitro-v-15-anv15-52-156-165hz-full-hd-1920x1080-gaming-notebook-intel-core-i5-13420h-nvidia-rtx-4050-16gb-ram-512gb-ssd-black-4973245",
       "note": "From Joybuy feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Nitro V15 - AMD Ryzen 5, 16GB RAM, 512GB SSD, RTX 5060 (8GB), 15.6\" FHD …",
-      "retailer": "John Lewis & Partners",
-      "price": 849,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 5",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "15.6\" FHD",
-      "gpu": "RTX 5060",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/hom4Y/4972510_1/re/320x320/qt/55/4972510_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-nitro-v15-amd-ryzen-5-16gb-ram-512gb-ssd-rtx-5060-8gb-156-fhd-165hz-display-windows-gaming-laptop-with-code-for-jl-members-4972510",
-      "note": "From John Lewis & Partners feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -418,7 +418,7 @@
       "was": null,
       "cat": "Gaming",
       "cpu": "Core Ultra 7 356H",
-      "ram": "—",
+      "ram": "16GB",
       "storage": "—",
       "screen": "16\"",
       "gpu": "—",
