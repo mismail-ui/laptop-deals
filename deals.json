@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 05:47 UTC",
+  "updated": "2026-09-14 11:48 UTC",
   "uk": [
     {
       "model": "Xiaman 14.1 Inch HD Display Laptop Computer Windows 11 Pro Intel Atom A3950 L…",
@@ -75,11 +75,11 @@
       "price": 2279,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro",
+      "cpu": "Apple M5 Pro (15-core)",
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "M5 Pro 16-core",
+      "gpu": "Apple M5 Pro (16-core GPU)",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -146,7 +146,7 @@
       "cpu": "Intel Core 3 N355",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "15.6\" —",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -411,6 +411,23 @@
     }
   ],
   "us": [
+    {
+      "model": "HP HyperX OMEN Core Ultra 7 356H 16\" Gaming Laptop for $1,300 + free shipping",
+      "retailer": "HP",
+      "price": 1300,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Core Ultra 7 356H",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1789375482-466af012-b85a-42f6-b704-f2fadf0e1835.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/HP-Hyper-X-OMEN-Core-Ultra-7-356-H-16-Gaming-Laptop-for-1-300-free-shipping/22180407.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook X Flip AMD Ryzen AI 5 430 16\" Laptop for $700 + free shipping",
       "retailer": "HP",
