@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 17:42 UTC",
+  "updated": "2026-09-14 21:28 UTC",
   "uk": [
     {
       "model": "Samsung Galaxy Chromebook Plus Gemini AI Laptop, i5, 256GB, 8GB RAM",
@@ -163,7 +163,7 @@
       "cpu": "Intel Core 3 N355",
       "ram": "8GB",
       "storage": "128GB",
-      "screen": "15\"",
+      "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -468,7 +468,7 @@
       "price": 550,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5",
+      "cpu": "Intel i5",
       "ram": "24GB",
       "storage": "—",
       "screen": "15.6\"",
@@ -638,7 +638,7 @@
       "price": 360,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i3",
+      "cpu": "Intel i3",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
