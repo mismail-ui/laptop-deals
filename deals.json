@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 11:04 UTC",
+  "updated": "2026-09-15 16:15 UTC",
   "uk": [
     {
       "model": "LENOVO Yoga Slim 7 14\" FHD+ OLED Ryzen AI 5 330 16GB DDDR5 512GB SSD Laptop w…",
@@ -130,7 +130,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "M5 Pro 16-core",
+      "gpu": "16-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -265,7 +265,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -621,7 +621,7 @@
       "price": 430,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
