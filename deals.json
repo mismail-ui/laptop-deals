@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 01:05 UTC",
+  "updated": "2026-09-16 07:13 UTC",
   "uk": [
     {
       "model": "LENOVO Yoga Slim 7 14\" FHD+ OLED Ryzen AI 5 330 16GB DDDR5 512GB SSD Laptop w…",
@@ -214,7 +214,7 @@
       "cpu": "Ryzen 7 8840HS",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -401,7 +401,7 @@
       "cpu": "Core i3",
       "ram": "—",
       "storage": "128GB",
-      "screen": "14\"",
+      "screen": "14\" 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -573,7 +573,7 @@
       "cpu": "Core Ultra 7 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17.3\" Touch",
+      "screen": "17.3\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
