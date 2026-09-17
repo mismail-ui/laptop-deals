@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 19:32 UTC",
+  "updated": "2026-09-17 22:39 UTC",
   "uk": [
     {
       "model": "Samsung Galaxy Book3 360 - 13.3\" AMOLED Touch, Intel i5-1340P, 16GB RAM, 512G…",
@@ -215,7 +215,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "16-core",
+      "gpu": "16-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -350,7 +350,7 @@
       "cpu": "Ryzen AI 7 Processor",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "14\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -522,7 +522,7 @@
       "cpu": "Ryzen AI 5 430",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Flip",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
