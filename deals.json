@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 17:45 UTC",
+  "updated": "2026-09-19 20:02 UTC",
   "uk": [
     {
       "model": "Acer Aspire 14 Laptop (NX.JNZEK.001) In Store at Sheffield",
@@ -197,7 +197,7 @@
       "cpu": "Ryzen 5 220",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" 2K WVA",
+      "screen": "14\" 2K",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -248,7 +248,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -607,7 +607,7 @@
       "cpu": "Core Ultra 7 17",
       "ram": "—",
       "storage": "—",
-      "screen": "17.3\" Touchscreen",
+      "screen": "17.3\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
