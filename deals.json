@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 20:30 UTC",
+  "updated": "2026-09-20 22:58 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL CoPilot+ Laptop | 14\" Full HD+ OLED | Intel C…",
@@ -36,7 +36,7 @@
       "note": "From Currys feed — confirm spec on retailer site"
     },
     {
-      "model": "Buy Chromebook Plus & Get 12 Months FREE Google AI Pro Inc YouTube Premium Li…",
+      "model": "Buy Chromebook Plus & Get 12 Months FREE Google AI Pro + NVIDIA GeForce NOW +…",
       "retailer": "Google Store",
       "price": 269,
       "was": null,
@@ -45,7 +45,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "—",
+      "gpu": "NVIDIA GeForce NOW",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/kJkAS/4985179_1/re/320x320/qt/55/4985179_1.jpg",
@@ -299,7 +299,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" OLED",
+      "screen": "14\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -648,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1788867203-34-360-431-01.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Acer-Aspire-Go-15-Ryzen-7-5825-U-15-6-Laptop-for-700-free-shipping/22158608.html?iref=rss-c49",
       "note": "From Acer feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Dell Pro 16 Plus Core Ultra 5 236V 16\" Laptop for $1,409 + free shipping",
-      "retailer": "Dell",
-      "price": 1409,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 5 236V",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1788800405-notebook-pb16250-nt-c-gy-fpr-mipi-5mp-gallery-20.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Dell-Pro-16-Plus-Core-Ultra-5-236-V-16-Laptop-for-1-409-free-shipping/22154931.html?iref=rss-c49",
-      "note": "From Dell feed — confirm spec on retailer site"
     },
     {
       "model": "eBay September Sale Laptop Deals: Up to 75% off + free shipping",
