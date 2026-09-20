@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 17:56 UTC",
+  "updated": "2026-09-20 20:30 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL CoPilot+ Laptop | 14\" Full HD+ OLED | Intel C…",
@@ -79,7 +79,7 @@
       "ram": "4GB",
       "storage": "128GB",
       "screen": "14\"",
-      "gpu": "Intel UHD",
+      "gpu": "Intel UHD Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/3OcIS/4984614_1/re/320x320/qt/55/4984614_1.jpg",
@@ -96,7 +96,7 @@
       "ram": "4GB",
       "storage": "128GB",
       "screen": "15.6\"",
-      "gpu": "Intel UHD",
+      "gpu": "Intel UHD Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/pbOjy/4984538_1/re/320x320/qt/55/4984538_1.jpg",
@@ -351,7 +351,7 @@
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
-      "gpu": "15-core GPU",
+      "gpu": "16-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/TecNl/4978846_1/re/320x320/qt/55/4978846_1.jpg",
@@ -417,7 +417,7 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon 8cx Gen 3",
+      "cpu": "Snapdragon 16",
       "ram": "—",
       "storage": "—",
       "screen": "16\" Touch",
