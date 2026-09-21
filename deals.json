@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 22:58 UTC",
+  "updated": "2026-09-21 00:57 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S14 OLED S5406SAL CoPilot+ Laptop | 14\" Full HD+ OLED | Intel C…",
@@ -248,7 +248,7 @@
       "cpu": "Ryzen 5 220",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" 2K WVA",
+      "screen": "14\" 2K WVA Anti-Glare",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -299,7 +299,7 @@
       "cpu": "Snapdragon X2",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\"",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -347,7 +347,7 @@
       "price": 2279,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro",
+      "cpu": "Apple M5 Pro (15-core)",
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
@@ -417,7 +417,7 @@
       "price": 700,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon 16",
+      "cpu": "Snapdragon 8cx Gen 3 (implied)",
       "ram": "—",
       "storage": "—",
       "screen": "16\" Touch",
