@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-23 09:04 UTC",
+  "updated": "2026-09-23 14:40 UTC",
   "uk": [
+    {
+      "model": "Acer Nitro i5-C5210H RTX 5050 16GB RAM (Max 32GB) 512GB SSD Desktop PC with c…",
+      "retailer": "eBay",
+      "price": 629,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Intel Core i5-12400H",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "—",
+      "gpu": "RTX 5050",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/8YQrR/4987203_1/re/320x320/qt/55/4987203_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/acer-nitro-i5-c5210h-rtx-5050-16gb-ram-max-32gb-512gb-ssd-desktop-pc-with-code-at-ao-uk-mainland-4987203",
+      "note": "From eBay feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Vivobook Copilot+ PC, Snapdragon X1, 16GB RAM, 512GB SSD, 16 Inch Laptop…",
       "retailer": "Costco",
@@ -364,7 +381,7 @@
       "price": 2279,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Pro (15-core CPU)",
+      "cpu": "Apple M5 Pro (15-core)",
       "ram": "24GB",
       "storage": "2TB",
       "screen": "14.2\"",
@@ -391,23 +408,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/kVYlH/4978714_1/re/320x320/qt/55/4978714_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-omnibook-7-aero-13-bg1003na-amd-ryzen-ai-5-340-16gb-ram-1tb-ssd-133-2k-windows-11-home-copilot-laptop-4978714",
       "note": "From LaptopOutlet feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Nitro Radeon RX 9070 OC 16GB GPU / Acer BiFrost Radeon RX 9070 OC 16GB W…",
-      "retailer": "Acer",
-      "price": 544,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "16GB",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "RADEON RX",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/n2Xc7/4978497_1/re/320x320/qt/55/4978497_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-nitro-graphics-card-radeon-rx-9070-oc-16gb-gpu-acer-bifrost-radeon-rx-9070-oc-16gb-white-gpu-with-senior-or-student-discount-4978497",
-      "note": "From Acer feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -648,23 +648,6 @@
       "img": "https://d.dlnws.com/64599/1788970582-prod-10281900-laptop-dx13260-blue-480x360-dl12q79l-original.png?h=240&w=320",
       "link": "https://www.dealnews.com/Dell-September-Spotlight-Laptop-Deals-Up-to-600-off-free-shipping/22162759.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "eBay September Sale Laptop Deals: Up to 75% off + free shipping",
-      "retailer": "dealnews",
-      "price": null,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1788949861-s-l1600.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/eBay-September-Sale-Laptop-Deals-Up-to-75-off-free-shipping/22162510.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     }
   ]
 }
