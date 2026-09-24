@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 18:10 UTC",
+  "updated": "2026-09-24 21:57 UTC",
   "uk": [
     {
       "model": "Samsung Galaxy Chromebook Plus Gemini AI Laptop, i5 Processor, Built in Gemin…",
@@ -27,7 +27,7 @@
       "cpu": "Core Ultra 5 125H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -198,7 +198,7 @@
       "ram": "4GB",
       "storage": "128GB",
       "screen": "14\"",
-      "gpu": "Intel UHD",
+      "gpu": "Intel UHD Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/3OcIS/4984614_1/re/320x320/qt/55/4984614_1.jpg",
@@ -215,7 +215,7 @@
       "ram": "4GB",
       "storage": "128GB",
       "screen": "15.6\"",
-      "gpu": "Intel UHD",
+      "gpu": "Intel UHD Graphics",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/pbOjy/4984538_1/re/320x320/qt/55/4984538_1.jpg",
@@ -265,7 +265,7 @@
       "cpu": "Intel Core i5-1340P",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13.3\" AMOLED",
+      "screen": "13.3\" AMOLED Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -367,7 +367,7 @@
       "cpu": "Ryzen 5 220",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "14\" 2K",
+      "screen": "14\" 2K WVA",
       "gpu": "RADEON GRAPHICS",
       "battery": "—",
       "weight": "—",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1788997093-ibh6hebz5t.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-7-Core-Ultra-7-17-3-Touchscreen-Laptop/532951.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Nitro 85 Gaming Desktop: Ryzen 7 8700F, RTX 5070 (12GB), 16GB DDR5, 1TB …",
-      "retailer": "Acer",
-      "price": 1399,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 8700F",
-      "ram": "12GB",
-      "storage": "1TB",
-      "screen": "—",
-      "gpu": "RTX 5070",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/20057829-acer-nitro-85-gaming-desktop-ryzen-7-8700f-rtx-5070-12gb-16gb-ddr5-1tb-ssd-1399",
-      "note": "From Acer feed — confirm spec on retailer site"
     }
   ]
 }
