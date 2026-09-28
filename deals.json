@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28 18:26 UTC",
+  "updated": "2026-09-28 23:41 UTC",
   "uk": [
+    {
+      "model": "Acer Nitro V16 16In C5-210H 16GB 512GB RTX 5050 Gaming Laptop",
+      "retailer": "Argos",
+      "price": 899,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "—",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "16\"",
+      "gpu": "RTX 5050",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/1aoad/4990914_1/re/320x320/qt/55/4990914_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/acer-nitro-v16-16in-c5-210h-16gb-512gb-rtx-5050-gaming-laptop-4990914",
+      "note": "From Argos feed — confirm spec on retailer site"
+    },
     {
       "model": "MSI VenturePro 15 AI 15.6\" FHD IPS 144Hz Core Ultra 5 135H RTX 3050 16GB DDDR…",
       "retailer": "Currys",
@@ -374,23 +391,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/pbOjy/4984538_1/re/320x320/qt/55/4984538_1.jpg",
       "link": "https://www.hotukdeals.com/deals/lenovo-ideapad-slim-3-gen-8-156-inch-fhd-laptop-4984538",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 5 - Intel Core Ultra 5 322, 16GB RAM, 512GB SSD, 14\" 2K OLED Scre…",
-      "retailer": "Currys",
-      "price": 552,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Core Ultra 5 322",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "14\" 2K OLED",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/u3hid/4984263_1/re/320x320/qt/55/4984263_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-omnibook-5-intel-core-ultra-5-322-16gb-ram-512gb-ssd-14-2k-oled-screen-13kg-windows-11-home-laptop-with-code-4984263",
-      "note": "From Currys feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -400,7 +400,7 @@
       "price": 360,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD Ryzen 3050e",
+      "cpu": "AMD 3050e",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
