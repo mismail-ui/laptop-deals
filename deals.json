@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 04:15 UTC",
+  "updated": "2026-09-29 11:05 UTC",
   "uk": [
     {
       "model": "Acer Nitro V16 16In C5-210H 16GB 512GB RTX 5050 Gaming Laptop",
@@ -27,7 +27,7 @@
       "cpu": "Core Ultra 5 135H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "15.6\" FHD 144Hz",
+      "screen": "15.6\" FHD IPS 144Hz",
       "gpu": "RTX 3050",
       "battery": "—",
       "weight": "—",
@@ -378,20 +378,20 @@
   ],
   "us": [
     {
-      "model": "Auusda EXSURF AMD 3050e 15.6\" Laptop for $360 + free shipping",
+      "model": "MSI Modern 15 Core i5-1334U 15.6\" Laptop for $577 + free shipping",
       "retailer": "dealnews",
-      "price": 360,
+      "price": 577,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "AMD 3050e",
+      "cpu": "Core i5-1334U",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" —",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1790585236-c11ps25092503ebyff1.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Auusda-EXSURF-AMD-3050-e-15-6-Laptop-for-360-free-shipping/22223064.html?iref=rss-c49",
+      "img": "https://d.dlnws.com/64599/1790670554-a24gd2507150c5gqa94.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/MSI-Modern-15-Core-i5-1334-U-15-6-Laptop-for-577-free-shipping/22226725.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
@@ -434,7 +434,7 @@
       "price": 1799,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7",
+      "cpu": "Intel Core Ultra 7",
       "ram": "—",
       "storage": "—",
       "screen": "16\" —",
@@ -468,7 +468,7 @@
       "price": 830,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 150U",
+      "cpu": "Intel Core Ultra 7 150U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\" —",
@@ -502,7 +502,7 @@
       "price": 1349,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core 7 240H",
+      "cpu": "Intel Core Ultra 7 240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" —",
@@ -613,6 +613,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1788997093-ibh6hebz5t.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-7-Core-Ultra-7-17-3-Touchscreen-Laptop/532951.html?iref=rss-c49",
+      "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Open Boxes: HP OmniBook Ultra (2026): 14\" 3K OLED 120Hz Touch, Intel Ultra 7 …",
+      "retailer": "HP",
+      "price": 1000,
+      "was": null,
+      "cat": "Premium / ultrabook",
+      "cpu": "Intel Core Ultra 7",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\" 3K OLED 120Hz Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/20072883-open-boxes-hp-omnibook-ultra-2026-14-3k-oled-120hz-touch-intel-ultra-7-356h-16gb-lpddr5-1tb-ssd-999-99",
       "note": "From HP feed — confirm spec on retailer site"
     }
   ]
