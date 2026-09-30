@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30 19:49 UTC",
+  "updated": "2026-09-30 23:27 UTC",
   "uk": [
     {
       "model": "DELL XPS 13 DX13260 13.4\" Laptop - QHD+/120Hz Touchscreen 500 Nits, Intel 5 3…",
@@ -7,10 +7,10 @@
       "price": 637,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core i5",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13.4\" QHD+ 120Hz Touchscreen",
+      "screen": "13.4\" QHD+ 120Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
