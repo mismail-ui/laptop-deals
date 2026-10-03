@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 21:09 UTC",
+  "updated": "2026-10-03 00:55 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 15 M1502YA Laptop, 15.6\" FHD, AMD Ryzen 7-7730U, 16GB / 512GB S…",
@@ -112,7 +112,7 @@
       "cpu": "Intel Core 5-3",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "13.4\" QHD+ 120Hz Touchscreen",
+      "screen": "13.4\" QHD+ 120Hz",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -340,26 +340,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/zMVCj/4988973_1/re/320x320/qt/55/4988973_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-laptop-14-em0018na-14in-hd-amd-athlon-silver-7120u-4gb-ram-128gb-ssd-black-4988973",
       "note": "From Very feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Samsung Galaxy Chromebook Plus Gemini AI Laptop, i5 Processor, Built in Gemin…",
-      "retailer": "Amazon",
-      "price": 423,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Intel Core i5",
-      "ram": "8GB",
-      "storage": "256GB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/MaSIS/4988191_1/re/320x320/qt/55/4988191_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/samsung-galaxy-chromebook-plus-gemini-ai-laptop-i5-processor-built-in-gemini-quick-insert-key-8gb-memory-ram-256gb-storage-4988191",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $390 + free shipping",
+      "retailer": "Lenovo",
+      "price": 390,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785896515-draftworks_img_nir7ofh11cq6cdoipbo.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-15-6-Laptop/514069.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo LOQ Ryzen 7 15.6\" Gaming Laptop w/ NVIDIA GeForce RTX 5050 for $1,050 …",
       "retailer": "Lenovo",
@@ -562,23 +562,6 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1789044246-vivobook11.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Asus-Vivobook-16-Ryzen-7-170-16-Laptop-for-699-free-shipping/22165916.html?iref=rss-c49",
-      "note": "From ASUS feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,280 + free shipping",
-      "retailer": "ASUS",
-      "price": 1280,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 255H",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1789043692-34-236-727-18.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/ASUS-Vivobook-S-Core-Ultra-7-255-H-16-Laptop-PC-for-1-280-free-shipping/22165914.html?iref=rss-c49",
       "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
