@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04 02:23 UTC",
+  "updated": "2026-10-04 09:20 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 14 X1404MA 14\" Laptop - Intel Core 5, 256 GB SSD, Blue",
@@ -194,7 +194,7 @@
       "price": 637,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 3",
+      "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13.4\" QHD+ 120Hz",
@@ -262,7 +262,7 @@
       "price": 899,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core i5-210H",
+      "cpu": "—",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -391,26 +391,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/s3tRt/4989594_1/re/320x320/qt/55/4989594_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-tuf-gaming-a16-gaming-laptop-160-144hz-screen-amd-ryzen-9-8940hx-nvidia-geforce-rtx-5070-16gb-ram-1tb-pcie-ssd-windows-11-4989594",
       "note": "From Amazon feed — confirm spec on retailer site"
-    }
-  ],
-  "us": [
+    },
     {
-      "model": "Asus CX14 14\" Chromebook Plus Laptop for $399 + free shipping",
-      "retailer": "ASUS",
-      "price": 399,
+      "model": "ASUS Vivobook 17 X1704VA Laptop | 17.3\" Full HD screen | Intel Core 5 120U | …",
+      "retailer": "Amazon",
+      "price": 449,
       "was": null,
-      "cat": "Chromebook",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\"",
+      "cat": "Windows laptop",
+      "cpu": "Intel Core 5-120U",
+      "ram": "8GB",
+      "storage": "512GB",
+      "screen": "17.3\" FHD",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1786501354-draftworks_img_3o9c3r3tmtkd6dlpmga.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/ASUS/Asus-CX14-14-Chromebook-Plus-Laptop/517273.html?iref=rss-c49",
-      "note": "From ASUS feed — confirm spec on retailer site"
-    },
+      "img": "https://images.hotukdeals.com/threads/raw/nCpaZ/4989352_1/re/320x320/qt/55/4989352_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-vivobook-17-x1704va-laptop-173-full-hd-screen-intel-core-5-120u-8gb-ram-512gb-pcie-ssd-windows-11-4989352",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    }
+  ],
+  "us": [
     {
       "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $390 + free shipping",
       "retailer": "Lenovo",
@@ -536,7 +536,7 @@
       "price": 830,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Core 7 150U",
+      "cpu": "Core 7-150U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -553,7 +553,7 @@
       "price": 500,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Core 5 120U",
+      "cpu": "Core 5-120U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
@@ -570,7 +570,7 @@
       "price": 1349,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Core 7 240H",
+      "cpu": "Core 7-240H",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\"",
@@ -613,6 +613,23 @@
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1789044246-vivobook11.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Asus-Vivobook-16-Ryzen-7-170-16-Laptop-for-699-free-shipping/22165916.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,280 + free shipping",
+      "retailer": "ASUS",
+      "price": 1280,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 255H",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1789043692-34-236-727-18.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/ASUS-Vivobook-S-Core-Ultra-7-255-H-16-Laptop-PC-for-1-280-free-shipping/22165914.html?iref=rss-c49",
       "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
