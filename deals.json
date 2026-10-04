@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 22:40 UTC",
+  "updated": "2026-10-04 02:23 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 14 X1404MA 14\" Laptop - Intel Core 5, 256 GB SSD, Blue",
@@ -194,7 +194,7 @@
       "price": 637,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core 5 3",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13.4\" QHD+ 120Hz",
@@ -384,7 +384,7 @@
       "cpu": "Ryzen 9",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16.0\" 144Hz",
+      "screen": "16\" 144Hz",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -488,7 +488,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K",
+      "screen": "14\" 2K Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
