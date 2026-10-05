@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05 01:35 UTC",
+  "updated": "2026-10-05 08:20 UTC",
   "uk": [
+    {
+      "model": "ASUS TUF A14, AMD Ryzen AI 7, 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 5050, 14 …",
+      "retailer": "Costco",
+      "price": 900,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen AI 7",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "RTX 5050",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/fLVrX/4996185_1/re/320x320/qt/55/4996185_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-tuf-a14-amd-ryzen-ai-7-16gb-ram-1tb-ssd-nvidia-geforce-rtx-5050-14-inch-gaming-laptop-fa401kh-rg005w-2-year-warrantyat-checkout-4996185",
+      "note": "From Costco feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Vivobook S, Copilot+ PC, AMD Ryzen AI 7, 16GB RAM, 512GB SSD, 16 Inch OL…",
       "retailer": "Costco",
@@ -27,7 +44,7 @@
       "cpu": "Ryzen 5 240",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5050",
       "battery": "—",
       "weight": "—",
@@ -228,7 +245,7 @@
       "price": 637,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 3",
+      "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "13.4\" QHD+ 120Hz",
@@ -391,26 +408,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/hmryD/4990243_1/re/320x320/qt/55/4990243_1.jpg",
       "link": "https://www.hotukdeals.com/deals/acer-nitro-v-15-v15-anv15-a31-156-gaming-laptop-nvidia-geforce-rtx-5060-amd-ryzen-7-512gb-ssd-black-4990243",
       "note": "From ao feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Nitro V 16 V16 ANV16-I31 16\" Gaming Laptop - NVIDIA GeForce RTX 5060, 51…",
-      "retailer": "ao",
-      "price": 1079,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "512GB",
-      "screen": "16\"",
-      "gpu": "RTX 5060",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/5J4Oo/4990237_1/re/320x320/qt/55/4990237_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-nitro-v-16-v16-anv16-i31-16-gaming-laptop-nvidia-geforce-rtx-5060-512gb-ssd-black-4990237",
-      "note": "From ao feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Alienware Ryzen 5 220 15.3\" Laptop w/ NVIDIA GeForce RTX 4050 for $799 + free…",
+      "retailer": "dealnews",
+      "price": 799,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen 5 220",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.3\"",
+      "gpu": "RTX 4050",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1791186597-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Alienware/Alienware-Ryzen-5-220-15-3-Laptop-w-NVIDIA-Ge-Force-RTX-4050/517091.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $390 + free shipping",
       "retailer": "Lenovo",
@@ -488,7 +505,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" 2K Touchscreen",
+      "screen": "14\" 2K",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -616,21 +633,21 @@
       "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
-      "model": "ASUS Vivobook S Core Ultra 7 255H 16\" Laptop PC for $1,280 + free shipping",
-      "retailer": "ASUS",
-      "price": 1280,
+      "model": "$799 WALMART Alienware 15.3\" WUXGA 165Hz Gaming Laptop, AMD Ryzen 5 220, NVID…",
+      "retailer": "Walmart",
+      "price": 799,
       "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 255H",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "—",
+      "cat": "Gaming",
+      "cpu": "Ryzen 5 220",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "15.3\" WUXGA 165Hz",
+      "gpu": "RTX 4050",
       "battery": "—",
       "weight": "—",
-      "img": "https://d.dlnws.com/64599/1789043692-34-236-727-18.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/ASUS-Vivobook-S-Core-Ultra-7-255-H-16-Laptop-PC-for-1-280-free-shipping/22165914.html?iref=rss-c49",
-      "note": "From ASUS feed — confirm spec on retailer site"
+      "img": null,
+      "link": "https://slickdeals.net/f/20098572-799-walmart-alienware-15-3-wuxga-165hz-gaming-laptop-amd-ryzen-5-220-nvidia-geforce-rtx-4050-gddr6-16gb-ddr5-512gb-ssd-black-da15265",
+      "note": "From Walmart feed — confirm spec on retailer site"
     }
   ]
 }
