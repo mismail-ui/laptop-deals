@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08 09:59 UTC",
+  "updated": "2026-10-08 17:20 UTC",
   "uk": [
+    {
+      "model": "ASUS Vivobook S1607QA 16.0\" Laptop | Snapdragon X Plus | 20 Hours Battery 8GB…",
+      "retailer": "Amazon",
+      "price": 400,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Snapdragon X Plus",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screen": "16.0\"",
+      "gpu": "—",
+      "battery": "20h",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/ALYAQ/5000429_1/re/320x320/qt/55/5000429_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s1607qa-160-laptop-snapdragon-x-plus-20-hours-battery-8gb-ram-256gb-pcie-ssd-160-1920x1200-full-hd-windows-11-5000429",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 3 17.3” Laptop | AMD Ryzen 3 30 | 8GB RAM | 256GB SSD",
       "retailer": "Amazon",
@@ -58,7 +75,7 @@
       "price": 378,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 3-100U",
+      "cpu": "Intel Core 3 100U",
       "ram": "8GB",
       "storage": "256GB",
       "screen": "15.6\"",
@@ -119,23 +136,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/HTglX/5000101_1/re/320x320/qt/55/5000101_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-255r-g10-amd-ryzen-5-24gb-ram-512gb-ssd-156-inch-windows-11-pro-laptop-5000101",
       "note": "From Laptops Direct feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS Vivobook S1607QA 16.0\" Laptop | Snapdragon X Plus | 20 Hours Battery",
-      "retailer": "Amazon",
-      "price": 525,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Snapdragon X Plus",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16.0\"",
-      "gpu": "—",
-      "battery": "Up to 20h",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/mb0tX/5000040_1/re/320x320/qt/55/5000040_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-vivobook-s1607qa-160-laptop-snapdragon-x-plus-20-hours-battery-5000040",
-      "note": "From Amazon feed — confirm spec on retailer site"
     },
     {
       "model": "Lenovo LOQ Essential | 15.6 inch FHD Gaming Laptop | AMD Ryzen 7 170 | NVIDIA…",
@@ -211,7 +211,7 @@
       "price": 2878,
       "was": null,
       "cat": "Gaming",
-      "cpu": "AMD AI 9 HX 370",
+      "cpu": "AMD Ryzen AI 9 HX 370",
       "ram": "64GB",
       "storage": "2TB",
       "screen": "16\" 4K/120Hz OLED",
