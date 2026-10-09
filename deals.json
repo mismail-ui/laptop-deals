@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09 02:46 UTC",
+  "updated": "2026-10-09 10:02 UTC",
   "uk": [
+    {
+      "model": "HP OMEN 16-ap0001na Gaming Laptop - GeForce RTX 5070 - AMD Ryzen AI 9 - 16GB …",
+      "retailer": "Very",
+      "price": 1359,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Ryzen AI 9",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "16\"",
+      "gpu": "RTX 5070",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/EUpAQ/5000926_1/re/320x320/qt/55/5000926_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-omen-16-ap0001na-gaming-laptop-geforce-rtx-5070-amd-ryzen-ai-9-16gb-ram-1tb-ssd-16in-black-wcode-5000926",
+      "note": "From Very feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Vivobook S1607QA 16.0\" Laptop | Snapdragon X Plus | 20 Hours Battery 8GB…",
       "retailer": "Amazon",
@@ -12,7 +29,7 @@
       "storage": "256GB",
       "screen": "16.0\"",
       "gpu": "—",
-      "battery": "20h",
+      "battery": "Up to 20h",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/ALYAQ/5000429_1/re/320x320/qt/55/5000429_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-vivobook-s1607qa-160-laptop-snapdragon-x-plus-20-hours-battery-8gb-ram-256gb-pcie-ssd-160-1920x1200-full-hd-windows-11-5000429",
@@ -160,7 +177,7 @@
       "price": 380,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core i5",
       "ram": "16GB",
       "storage": "512GB SSD",
       "screen": "15.6\" FHD",
@@ -374,23 +391,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/oB293/4998186_1/re/320x320/qt/55/4998186_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-chromebook-plus-cx1505-laptop-intel-core-3-n355-8gb-256gb-ssd-140-1920x1080-full-hd-screen-google-chrome-operating-system-4998186",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Chromebook Plus 516 CB516-1H Laptop - Intel Core i3-1315U, 8GB, 256GB SS…",
-      "retailer": "Amazon",
-      "price": 255,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Core i3-1315U",
-      "ram": "8GB",
-      "storage": "256GB",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/jkC9r/4998062_1/re/320x320/qt/55/4998062_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/acer-chromebook-plus-516-cb516-1h-laptop-intel-core-i3-1315u-8gb-256gb-ssd-integrated-graphics-16-wuxga-chrome-os-iron-4998062",
-      "note": "From Amazon feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -434,7 +434,7 @@
       "price": 426,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Core 5",
       "ram": "—",
       "storage": "—",
       "screen": "14\"",
@@ -570,7 +570,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Core 5",
       "ram": "—",
       "storage": "—",
       "screen": "16\"",
@@ -665,23 +665,6 @@
       "img": "https://d.dlnws.com/64599/1791189237-051d9451-6c8c-49dc-b492-3843427236c6.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Best-Buy-Techtober-Laptop-Deals-Up-to-50-off-free-shipping/22245988.html?iref=rss-c49",
       "note": "From Best Buy feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP - OmniBook X â 16â 2K OLED Touchscreen Laptop â Intel Core Ultra X7 …",
-      "retailer": "HP",
-      "price": null,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra X7",
-      "ram": "32GB",
-      "storage": "1TB",
-      "screen": "16\" 2K OLED Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/20130654-hp-omnibook-x-16-2k-oled-touchscreen-laptop-intel-core-ultra-x7-358h-2026-32gb-memory-1tb",
-      "note": "From HP feed — confirm spec on retailer site"
     }
   ]
 }
