@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 19:44 UTC",
+  "updated": "2026-10-10 23:13 UTC",
   "uk": [
     {
       "model": "MSI Modern 15H C13M-274UK Laptop 15.6, FHD, IPS, Intel i7-13700H, Iris Xe Gra…",
@@ -262,10 +262,10 @@
       "price": 380,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5",
+      "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "—",
-      "screen": "15.6\" FHD IPS",
+      "screen": "15.6\" FHD 60Hz IPS",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -316,7 +316,7 @@
       "cpu": "AMD Ryzen AI 9 HX 370",
       "ram": "64GB",
       "storage": "2TB",
-      "screen": "16\" 4K/120Hz OLED",
+      "screen": "16\" 4K 120Hz OLED Touch",
       "gpu": "RTX 5080",
       "battery": "—",
       "weight": "—",
@@ -417,7 +417,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th-Gen",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
