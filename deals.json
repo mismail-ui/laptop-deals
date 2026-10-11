@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 11:11 UTC",
+  "updated": "2026-10-11 17:19 UTC",
   "uk": [
     {
       "model": "MSI Modern 15H C13M-274UK Laptop 15.6, FHD, IPS, Intel i7-13700H, Iris Xe Gra…",
@@ -264,7 +264,7 @@
       "cat": "Windows laptop",
       "cpu": "Intel Core 5",
       "ram": "16GB",
-      "storage": "—",
+      "storage": "512GB SSD",
       "screen": "15.6\" FHD IPS",
       "gpu": "—",
       "battery": "—",
@@ -502,7 +502,7 @@
       "price": 313,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Celeron N95",
+      "cpu": "Intel N95",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
