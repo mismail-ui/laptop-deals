@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 04:01 UTC",
+  "updated": "2026-10-11 11:11 UTC",
   "uk": [
     {
       "model": "MSI Modern 15H C13M-274UK Laptop 15.6, FHD, IPS, Intel i7-13700H, Iris Xe Gra…",
@@ -95,7 +95,7 @@
       "cpu": "Ryzen AI 9",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -262,7 +262,7 @@
       "price": 380,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5",
+      "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "—",
       "screen": "15.6\" FHD IPS",
@@ -417,7 +417,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th-Gen)",
+      "cpu": "Intel Core i7 13th-Gen",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1789548751-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-Chromebook-14-2-K-Touchscreen-Laptop/517259.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Gigabyte A16 Pro Core 7 16\" Gaming Laptop w/ RTX 5080 for $1,799 + free shipping",
-      "retailer": "dealnews",
-      "price": 1799,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core 7",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\"",
-      "gpu": "RTX 5080",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1790114291-product-trimmed.png?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Gigabyte/Gigabyte-A16-Pro-Core-7-16-Gaming-Laptop-w-RTX-5080/537258.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     },
     {
       "model": "Best Buy Techtober Laptop Deals: Up to 73% off + free shipping",
