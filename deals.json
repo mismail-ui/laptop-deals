@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12 07:09 UTC",
+  "updated": "2026-10-12 17:21 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook 15 X1504MA Laptop | Intel Core 5 315 | 8GB RAM | 256GB SSD",
@@ -112,7 +112,7 @@
       "cpu": "Ryzen AI 9",
       "ram": "16GB",
       "storage": "1TB",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -412,6 +412,23 @@
   ],
   "us": [
     {
+      "model": "Lenovo IdeaPad 5i Core Ultra 7 255U 16\" Touchscreen 2-in-1 Laptop for $800 + …",
+      "retailer": "Lenovo",
+      "price": 800,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Core Ultra 7 255U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\" Touchscreen",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1791794607-a0zxd25090410q09v2a.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-7-255-U-16-Touchscreen-2-in-1-Laptop-for-800-free-shipping/22274342.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
       "model": "HyperX Omen Ultra 7 15\" Gaming Laptop w/ RTX 5060 for $1,149 + free shipping",
       "retailer": "dealnews",
       "price": 1149,
@@ -434,7 +451,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th Gen",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -631,40 +648,6 @@
       "img": "https://d.dlnws.com/64599/1789544901-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Asus-Vivobook-17-Core-7-150-U-17-3-Laptop-for-830-free-shipping/22188389.html?iref=rss-c49",
       "note": "From ASUS feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP OmniBook 3 Core 5 120U 17.3\" Laptop for $500 + free shipping",
-      "retailer": "HP",
-      "price": 500,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core 5 120U",
-      "ram": "—",
-      "storage": "—",
-      "screen": "17.3\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1789509317-sazicpixfi.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Core-5-120-U-17-3-Laptop/535390.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "MSI Cyborg 15 Core 7 240H 15.6\" Gaming Laptop w/ NVIDIA GeForce RTX 5050 for …",
-      "retailer": "dealnews",
-      "price": 1349,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Intel Core 7 240H",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "RTX 5050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1789508790-a24gd2511040e98nr94.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/products/MSI/MSI-Cyborg-15-Core-7-240-H-15-6-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-5050/535387.html?iref=rss-c49",
-      "note": "From dealnews feed — confirm spec on retailer site"
     }
   ]
 }
