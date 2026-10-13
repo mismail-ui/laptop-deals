@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 15:33 UTC",
+  "updated": "2026-10-13 20:58 UTC",
   "uk": [
     {
       "model": "INIU Laptop Power Bank, Compact 27000mAh 140W Fast Charging Battery Pack",
@@ -299,7 +299,7 @@
       "cpu": "Intel Core 5",
       "ram": "16GB",
       "storage": "512GB SSD",
-      "screen": "15.6\" FHD",
+      "screen": "15.6\" FHD IPS",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -434,7 +434,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -502,7 +502,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th Gen",
+      "cpu": "Intel Core i7 (13th Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -522,7 +522,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "13.4\" 3K Touchscreen",
+      "screen": "13.4\" 3K Touch",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
