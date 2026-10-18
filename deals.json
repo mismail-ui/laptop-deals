@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 00:38 UTC",
+  "updated": "2026-10-18 05:25 UTC",
   "uk": [
     {
       "model": "ASUS Vivobook S16 M3607GA Laptop | AMD Ryzen AI 7 445 | 16GB RAM | 512GB SSD",
@@ -96,7 +96,7 @@
       "ram": "—",
       "storage": "—",
       "screen": "—",
-      "gpu": "—",
+      "gpu": "RTX 9070 OC",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/yOCqv/5006091_1/re/320x320/qt/55/5006091_1.jpg",
@@ -131,7 +131,7 @@
       "storage": "—",
       "screen": "—",
       "gpu": "—",
-      "battery": "27000mAh 140W",
+      "battery": "27000mAh",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/fHYMR/5004107_1/re/320x320/qt/55/5004107_1.jpg",
       "link": "https://www.hotukdeals.com/deals/iniu-laptop-power-bank-compact-27000mah-140w-fast-charging-battery-pack-5004107",
@@ -146,7 +146,7 @@
       "cpu": "Intel Core 5 315",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "—",
+      "screen": "15\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -265,7 +265,7 @@
       "cpu": "Snapdragon X Plus",
       "ram": "8GB",
       "storage": "256GB",
-      "screen": "16.0\"",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "Up to 20h",
       "weight": "—",
@@ -503,9 +503,9 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Core Ultra 7 255U",
-      "ram": "—",
+      "ram": "16GB",
       "storage": "—",
-      "screen": "16\" Touchscreen 2-in-1",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -631,23 +631,6 @@
       "img": "https://d.dlnws.com/64599/1789548751-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-Chromebook-14-2-K-Touchscreen-Laptop/517259.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro (Early 2026): 14.2\" Glossy Display, M5 Pro (18C/20C), 48GB …",
-      "retailer": "Slickdeals",
-      "price": 2500,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5 Pro",
-      "ram": "48GB",
-      "storage": "1TB",
-      "screen": "14.2\" Glossy",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": null,
-      "link": "https://slickdeals.net/f/20172939-apple-macbook-pro-early-2026-14-2-glossy-display-m5-pro-18c-20c-48gb-ram-1tb-ssd-microcenter-2499-99",
-      "note": "From Slickdeals feed — confirm spec on retailer site"
     }
   ]
 }
