@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19 12:08 UTC",
+  "updated": "2026-10-19 18:59 UTC",
   "uk": [
+    {
+      "model": "HP Victus 15.6\" Gaming Laptop. i5-210H, 16GB RAM, RTX 5060, 1TB SSD, 144Hz FH…",
+      "retailer": "Amazon",
+      "price": 806,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "Intel Core i5-12450H",
+      "ram": "16GB",
+      "storage": "1TB",
+      "screen": "15.6\" FHD 144Hz",
+      "gpu": "RTX 5060",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/lykZa/5008779_1/re/320x320/qt/55/5008779_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/hp-victus-156-i5-210h-16gb-ram-1tb-ssd-rtx-5060-144hz-fhd-15-fa2005sa-gaming-laptop-5008779",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "ACER Aspire Go 15 15.6\" Laptop - Intel Core 3, 128 GB UFS, Silver",
       "retailer": "Currys",
@@ -45,7 +62,7 @@
       "ram": "16GB",
       "storage": "1000GB",
       "screen": "14\"",
-      "gpu": "—",
+      "gpu": "14-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/AkcTD/5008606_1/re/320x320/qt/55/5008606_1.jpg",
@@ -96,7 +113,7 @@
       "ram": "32GB",
       "storage": "512GB",
       "screen": "15\" OLED",
-      "gpu": "NVIDIA RTX Spark N1X",
+      "gpu": "RTX Spark N1X",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/nbBGG/5006815_1/re/320x320/qt/55/5006815_1.jpg",
@@ -182,7 +199,7 @@
       "storage": "—",
       "screen": "—",
       "gpu": "—",
-      "battery": "27000mAh",
+      "battery": "27000mAh 140W",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/fHYMR/5004107_1/re/320x320/qt/55/5004107_1.jpg",
       "link": "https://www.hotukdeals.com/deals/iniu-laptop-power-bank-compact-27000mah-140w-fast-charging-battery-pack-5004107",
@@ -391,26 +408,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/QTVfk/5000114_1/re/320x320/qt/55/5000114_1.jpg",
       "link": "https://www.hotukdeals.com/deals/samsung-galaxy-book4-intel-core-3-100u-8gb-ram-256gb-ssd-156-windows-11-home-laptop-5000114",
       "note": "From Box.co.uk feed — confirm spec on retailer site"
-    },
-    {
-      "model": "MSI Modern Laptop (C2RMG-282UK) 15\" FHD, Intel Core 5, 16GB DDR IV RAM, 512GB…",
-      "retailer": "Joybuy",
-      "price": 597,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
-      "ram": "16GB",
-      "storage": "512GB",
-      "screen": "15\" FHD",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/fOrnN/5000107_1/re/320x320/qt/55/5000107_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/msi-modern-laptop-c2rmg-282uk-15-fhd-intel-core-5-16gb-ddr-iv-ram-512gb-ssd-9s7-15h431-282-5000107",
-      "note": "From Joybuy feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $370 + free shipping",
+      "retailer": "Lenovo",
+      "price": 370,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "—",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1785896515-draftworks_img_nir7ofh11cq6cdoipbo.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-15-6-Laptop/514069.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
     {
       "model": "Lenovo ThinkPad E16 Ryzen 7 250 16\" Laptop for $1,069 + free shipping",
       "retailer": "Lenovo",
@@ -522,7 +539,7 @@
       "cpu": "Core Ultra 7 255U",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen 2-in-1",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -570,7 +587,7 @@
       "price": 313,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel N95",
+      "cpu": "Intel Atom N95",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "15.6\"",
@@ -631,6 +648,23 @@
       "img": "https://d.dlnws.com/64599/1790727604-5a07fhlysy.webp?h=240&w=320",
       "link": "https://www.dealnews.com/products/HP/HP-Omni-Book-3-Core-5-16-Laptop/538548.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
+    },
+    {
+      "model": "ASUS ROG Flow Z13 13.4\" 2.5K 180Hz Touch 2-in-1 Laptop: Ryzen AI Max+ 395, 12…",
+      "retailer": "ASUS",
+      "price": 3300,
+      "was": null,
+      "cat": "Gaming",
+      "cpu": "AMD Ryzen AI Max+ 395",
+      "ram": "12GB",
+      "storage": "128GB",
+      "screen": "13.4\" 2.5K 180Hz Touch",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": null,
+      "link": "https://slickdeals.net/f/20175084-asus-rog-flow-z13-13-4-2-5k-180hz-touch-2-in-1-laptop-ryzen-ai-max-395-128gb-ram-1tb-ssd-3299-99-at-asus-2969-99-with-id-me",
+      "note": "From ASUS feed — confirm spec on retailer site"
     }
   ]
 }
