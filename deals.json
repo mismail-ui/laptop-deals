@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 08:38 UTC",
+  "updated": "2026-10-24 13:05 UTC",
   "uk": [
     {
       "model": "Samsung Galaxy Chromebook Plus Intel Core 3 100U 8GB RAM 256GB SSD eUFS 15.6\"…",
@@ -553,7 +553,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th-Gen)",
+      "cpu": "Intel Core i7 (13th Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -587,7 +587,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -655,7 +655,7 @@
       "price": 426,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5",
+      "cpu": "Intel Core Ultra 5",
       "ram": "—",
       "storage": "—",
       "screen": "14\"",
