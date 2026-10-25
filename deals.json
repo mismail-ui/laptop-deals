@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 21:25 UTC",
+  "updated": "2026-10-25 23:48 UTC",
   "uk": [
     {
       "model": "Lenovo LOQ Gen 10 | 15.6 inch FHD Gaming Laptop | 24 GB RAM | 1 TB SSD",
@@ -24,7 +24,7 @@
       "price": 569,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon",
+      "cpu": "Snapdragon X",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
@@ -296,7 +296,7 @@
       "price": 806,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel i5-210H",
+      "cpu": "Intel Core i5-210H",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "15.6\" 144Hz FHD",
