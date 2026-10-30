@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 00:36 UTC",
+  "updated": "2026-10-30 06:47 UTC",
   "uk": [
     {
       "model": "ASUS Chromebook 14 CM1405C4 Laptop | MediaTek 540 | 4GB | 64GB eMMC",
@@ -196,7 +196,7 @@
       "cat": "Chromebook",
       "cpu": "MediaTek",
       "ram": "4GB",
-      "storage": "64GB SSD",
+      "storage": "64GB",
       "screen": "14\"",
       "gpu": "—",
       "battery": "—",
