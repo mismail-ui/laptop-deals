@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 18:58 UTC",
+  "updated": "2026-10-30 22:54 UTC",
   "uk": [
     {
       "model": "MSI Prestige 14 AI Evo 14\" Laptop - Intel Core Ultra 7 255H, 1 TB SSD, Grey, …",
@@ -75,7 +75,7 @@
       "price": 3725,
       "was": null,
       "cat": "Mac",
-      "cpu": "Apple M5 Max",
+      "cpu": "Apple M5 Max (18-core)",
       "ram": "36GB",
       "storage": "2TB",
       "screen": "16.2\"",
@@ -109,7 +109,7 @@
       "price": 2159,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core —",
+      "cpu": "Intel Core",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "16\" QHD",
@@ -313,7 +313,7 @@
       "price": 569,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Qualcomm Snapdragon",
+      "cpu": "Snapdragon",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
@@ -692,7 +692,7 @@
       "cpu": "Core Ultra 7 255U",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen 2-in-1",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
