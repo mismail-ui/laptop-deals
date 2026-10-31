@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 15:35 UTC",
+  "updated": "2026-10-31 19:43 UTC",
   "uk": [
     {
       "model": "IdeaPad Slim 5 14AGP11 - Copilot+ PC - AMD Ryzen AI 5 - 16GB RAM - 512GB SSD …",
@@ -126,7 +126,7 @@
       "price": 2159,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core",
+      "cpu": "Intel Core —",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "16\" QHD",
@@ -330,7 +330,7 @@
       "price": 569,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Snapdragon",
+      "cpu": "Snapdragon —",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "14\"",
@@ -604,7 +604,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th-Gen",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -638,7 +638,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
