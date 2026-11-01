@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01 04:25 UTC",
+  "updated": "2026-11-01 11:40 UTC",
   "uk": [
     {
       "model": "Apple 13-inch MacBook Neo, Apple A18 Pro chip 6-core CPU and 5-core GPU, 8GB …",
@@ -143,7 +143,7 @@
       "price": 2159,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core",
+      "cpu": "Intel Core —",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "16\" QHD",
@@ -395,6 +395,23 @@
   ],
   "us": [
     {
+      "model": "Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping",
+      "retailer": "Lenovo",
+      "price": 629,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel Core i7 13th-Gen",
+      "ram": "—",
+      "storage": "1TB",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1791633541-lenovo-v14-g5-irl-14-fhd-laptops-intel-core-i7-13620h-2-4ghz-16gb-ddr5-ram-1tb-ssd-win11-home-83hda0.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/Lenovo-V14-G5-13-th-Gen-i7-14-Laptop-w-1-TB-SSD-for-629-free-shipping/22269443.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
       "model": "Lenovo IdeaPad Slim 3i 15.3\" 2K Touchscreen Laptop for $430 + free shipping",
       "retailer": "Lenovo",
       "price": 430,
@@ -410,23 +427,6 @@
       "img": "https://d.dlnws.com/64599/1789524833-draftworks_img_7vvllniffkkd3khlpma.jpeg?h=240&w=320",
       "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-i-15-3-2-K-Touchscreen-Laptop/535518.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Microsoft Surface Laptop Deals at Woot for From $230 + free shipping w/ Prime",
-      "retailer": "Woot",
-      "price": 230,
-      "was": null,
-      "cat": "Premium / ultrabook",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1793187159-product-trimmed.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/Microsoft-Surface-Laptop-Deals-at-Woot-for-From-230-free-shipping-w-Prime/22321738.html?iref=rss-c49",
-      "note": "From Woot feed — confirm spec on retailer site"
     },
     {
       "model": "Lenovo IdeaPad 1 15IJL7 Pentium Silver N6000 15.6\" Laptop for $285 + free shi…",
@@ -599,23 +599,6 @@
       "note": "From ASUS feed — confirm spec on retailer site"
     },
     {
-      "model": "Lenovo V14 G5 13th-Gen. i7 14\" Laptop w/ 1TB SSD for $629 + free shipping",
-      "retailer": "Lenovo",
-      "price": 629,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel Core i7",
-      "ram": "—",
-      "storage": "1TB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1791633541-lenovo-v14-g5-irl-14-fhd-laptops-intel-core-i7-13620h-2-4ghz-16gb-ddr5-ram-1tb-ssd-win11-home-83hda0.avif?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-V14-G5-13-th-Gen-i7-14-Laptop-w-1-TB-SSD-for-629-free-shipping/22269443.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
       "model": "Acer Nitro V16 Core 7 240H 16\" Gaming Laptop for $1,350 + free shipping",
       "retailer": "Acer",
       "price": 1350,
@@ -638,7 +621,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -675,13 +658,30 @@
       "cpu": "Core Ultra 7 255U",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\" Touchscreen 2-in-1",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1791794607-a0zxd25090410q09v2a.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-7-255-U-16-Touchscreen-2-in-1-Laptop-for-800-free-shipping/22274342.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Acer Gateway Chromebook 314 Celeron N4500 14\" Laptop for $200 w/ Prime + free…",
+      "retailer": "Acer",
+      "price": 200,
+      "was": null,
+      "cat": "Chromebook",
+      "cpu": "Celeron",
+      "ram": "—",
+      "storage": "—",
+      "screen": "14\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1791375040-61bkotqjtzl.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/Acer-Gateway-Chromebook-314-Celeron-N4500-14-Laptop-for-200-w-Prime-free-shipping/22256537.html?iref=rss-c49",
+      "note": "From Acer feed — confirm spec on retailer site"
     }
   ]
 }
