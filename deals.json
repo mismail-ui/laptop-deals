@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03 17:31 UTC",
+  "updated": "2026-11-03 22:54 UTC",
   "uk": [
+    {
+      "model": "Apple MacBook Pro 14.2\" M5 16GB 512GB (2025) - Space Black / Silver Free C&C",
+      "retailer": "Argos",
+      "price": 1249,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "16GB",
+      "storage": "512GB",
+      "screen": "14.2\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/zC28A/5021878_1/re/320x320/qt/55/5021878_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-142-m5-16gb-512gb-2025-space-black-silver-5021878",
+      "note": "From Argos feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS TUF A16 (2025) RTX 5070, Gaming laptop",
       "retailer": "ASUS",
@@ -10,7 +27,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -211,7 +228,7 @@
       "price": 2159,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core —",
+      "cpu": "Intel Core",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "16\" QHD",
@@ -357,26 +374,43 @@
       "img": "https://images.hotukdeals.com/threads/raw/RRNgS/5014527_1/re/320x320/qt/55/5014527_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-zenbook-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-oled-laptop-ux3405ca-ql241w-2-year-warranty-discount-applied-at-checkout-5014527",
       "note": "From Costco feed — confirm spec on retailer site"
-    },
+    }
+  ],
+  "us": [
     {
-      "model": "HP 15.6\" Laptop | 15-fd1002sax | Intel Core 7 150U | 8GB RAM | 512GB SSD",
-      "retailer": "Amazon",
-      "price": 500,
+      "model": "Lenovo IdeaPad Slim 3i 13th-Gen i5 15.6\" Laptop for $480 + free shipping",
+      "retailer": "Lenovo",
+      "price": 480,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 150U",
-      "ram": "8GB",
-      "storage": "512GB",
+      "cpu": "Intel Core i5 13th-Gen",
+      "ram": "—",
+      "storage": "—",
       "screen": "15.6\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/wG01q/5014481_1/re/320x320/qt/55/5014481_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/hp-156-laptop-15-fd1002sax-intel-core-7-150u-8gb-ram-512gb-ssd-5014481",
-      "note": "From Amazon feed — confirm spec on retailer site"
-    }
-  ],
-  "us": [
+      "img": "https://d.dlnws.com/64599/1785896523-draftworks_img_uovm4opog27gcgkaohe.jpeg?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-i-13-th-Gen-i5-15-6-Laptop/514070.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
+    },
+    {
+      "model": "IdeaPad Slim 3i Intel N150 15.6\" Laptop for $260 + free shipping",
+      "retailer": "dealnews",
+      "price": 260,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Intel N150",
+      "ram": "—",
+      "storage": "—",
+      "screen": "15.6\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1777929688-hp-laptop-windows-front-view-dibx.avif?h=240&w=320",
+      "link": "https://www.dealnews.com/products/Lenovo/Idea-Pad-Slim-3-i-Intel-N150-15-6-Laptop/498533.html?iref=rss-c49",
+      "note": "From dealnews feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 16 Ryzen AI 7 445 16\" Touchscreen Laptop PC for $1,300 + free shi…",
       "retailer": "HP",
@@ -384,7 +418,7 @@
       "was": null,
       "cat": "Windows laptop",
       "cpu": "Ryzen AI 7 445",
-      "ram": "—",
+      "ram": "16GB",
       "storage": "—",
       "screen": "16\" Touchscreen",
       "gpu": "—",
@@ -400,7 +434,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th-Gen)",
+      "cpu": "Intel Core i7 13th-Gen",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -604,7 +638,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 (13th-Gen)",
+      "cpu": "Intel Core i5 13th-Gen",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -631,23 +665,6 @@
       "img": "https://d.dlnws.com/64599/1791825063-396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.webp?h=240&w=320",
       "link": "https://www.dealnews.com/HP-Victus-Ryzen-7-7445-HS-15-6-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-4050-for-950-free-shipping/22275044.html?iref=rss-c49",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo IdeaPad 5i Core Ultra 7 255U 16\" Touchscreen 2-in-1 Laptop for $800 + …",
-      "retailer": "Lenovo",
-      "price": 800,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 255U",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\" Touchscreen 2-in-1",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1791794607-a0zxd25090410q09v2a.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-7-255-U-16-Touchscreen-2-in-1-Laptop-for-800-free-shipping/22274342.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
