@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 19:10 UTC",
+  "updated": "2026-11-03 01:59 UTC",
   "uk": [
     {
       "model": "ASUS TUF A16 (2025) RTX 5070, Gaming laptop",
@@ -10,7 +10,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "16\"",
+      "screen": "—",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -417,7 +417,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th-Gen",
+      "cpu": "Intel Core i7 (13th Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -621,7 +621,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -658,30 +658,13 @@
       "cpu": "Core Ultra 7 255U",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen 2-in-1",
+      "screen": "16\" Touchscreen",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
       "img": "https://d.dlnws.com/64599/1791794607-a0zxd25090410q09v2a.webp?h=240&w=320",
       "link": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-7-255-U-16-Touchscreen-2-in-1-Laptop-for-800-free-shipping/22274342.html?iref=rss-c49",
       "note": "From Lenovo feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Acer Gateway Chromebook 314 Celeron N4500 14\" Laptop for $200 w/ Prime + free…",
-      "retailer": "Acer",
-      "price": 200,
-      "was": null,
-      "cat": "Chromebook",
-      "cpu": "Celeron",
-      "ram": "—",
-      "storage": "—",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1791375040-61bkotqjtzl.jpg?h=240&w=320",
-      "link": "https://www.dealnews.com/Acer-Gateway-Chromebook-314-Celeron-N4500-14-Laptop-for-200-w-Prime-free-shipping/22256537.html?iref=rss-c49",
-      "note": "From Acer feed — confirm spec on retailer site"
     }
   ]
 }
