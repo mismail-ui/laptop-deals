@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 10:28 UTC",
+  "updated": "2026-11-04 18:27 UTC",
   "uk": [
     {
       "model": "ASUS PRIME NVIDIA GeForce RTX 5080 OC Graphics Card with ASUS TUF GAMING B850…",
@@ -113,7 +113,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core GPU",
+      "gpu": "5-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/IEisx/5019153_1/re/320x320/qt/55/5019153_1.jpg",
@@ -215,7 +215,7 @@
       "ram": "36GB",
       "storage": "2TB",
       "screen": "16.2\"",
-      "gpu": "32-core GPU",
+      "gpu": "32-core",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/thftx/5016489_1/re/320x320/qt/55/5016489_1.jpg",
@@ -369,7 +369,7 @@
       "cpu": "Ryzen AI 7 445",
       "ram": "—",
       "storage": "—",
-      "screen": "16\" Touchscreen",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -383,7 +383,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th-Gen",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -587,7 +587,7 @@
       "price": 450,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i5 13th-Gen",
+      "cpu": "Intel Core i5 (13th-Gen)",
       "ram": "—",
       "storage": "—",
       "screen": "15.6\" Touch",
@@ -597,40 +597,6 @@
       "img": "https://d.dlnws.com/64599/1775210794-dell-laptop-front-view-xvy7.avif?h=240&w=320",
       "link": "https://www.dealnews.com/products/Dell/Dell-13-th-Gen-i5-15-6-Touch-Laptop/498161.html?iref=rss-c49",
       "note": "From Dell feed — confirm spec on retailer site"
-    },
-    {
-      "model": "HP Victus Ryzen 7 7445HS 15.6\" Gaming Laptop w/ NVIDIA GeForce RTX 4050 for $…",
-      "retailer": "HP",
-      "price": 950,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "Ryzen 7 7445HS",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "RTX 4050",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1791825063-396dbadc-e2d7-48f9-8e9b-eff6e87a6b1f.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-Victus-Ryzen-7-7445-HS-15-6-Gaming-Laptop-w-NVIDIA-Ge-Force-RTX-4050-for-950-free-shipping/22275044.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo IdeaPad 5i Core Ultra 7 255U 16\" Touchscreen 2-in-1 Laptop for $800 + …",
-      "retailer": "Lenovo",
-      "price": 800,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Core Ultra 7 255U",
-      "ram": "—",
-      "storage": "—",
-      "screen": "16\" Touchscreen",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1791794607-a0zxd25090410q09v2a.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/Lenovo-Idea-Pad-5-i-Core-Ultra-7-255-U-16-Touchscreen-2-in-1-Laptop-for-800-free-shipping/22274342.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
