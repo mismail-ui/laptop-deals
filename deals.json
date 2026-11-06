@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 22:31 UTC",
+  "updated": "2026-11-06 03:09 UTC",
   "uk": [
     {
       "model": "LENOVO Yoga Slim 7 14\" 2.5K OLED Ryzen AI 5 16GB DDR5 512 GB SSD Laptop with …",
@@ -296,7 +296,7 @@
       "price": 2159,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Core",
+      "cpu": "Intel Core —",
       "ram": "32GB",
       "storage": "1TB",
       "screen": "16\" QHD",
@@ -316,7 +316,7 @@
       "cpu": "Core Ultra 9",
       "ram": "32GB",
       "storage": "1TB",
-      "screen": "16\" QHD+ 240Hz",
+      "screen": "16\" QHD+ 240Hz IPS",
       "gpu": "RTX 5090",
       "battery": "—",
       "weight": "—",
@@ -468,7 +468,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th Gen)",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
