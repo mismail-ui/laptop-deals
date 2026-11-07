@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07 11:30 UTC",
+  "updated": "2026-11-07 17:25 UTC",
   "uk": [
+    {
+      "model": "Apple MacBook Pro 16.2-inch Laptop with M5 Pro chip with 18 core CPU and 20 c…",
+      "retailer": "Amazon",
+      "price": 2650,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5 Pro",
+      "ram": "24GB",
+      "storage": "1TB",
+      "screen": "16.2\"",
+      "gpu": "20-core GPU",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/mat8e/5025715_1/re/320x320/qt/55/5025715_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-162-inch-laptop-with-m5-pro-chip-with-18-core-cpu-and-20-core-gpu-24gb-unified-memory-1tb-ssd-5025715",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "HP OmniBook 3 16\" Laptop, Intel Core 5 210H, 16GB DDR5 SODIMM, 512GB SSD",
       "retailer": "HP",
@@ -180,7 +197,7 @@
       "cpu": "—",
       "ram": "—",
       "storage": "—",
-      "screen": "—",
+      "screen": "16\"",
       "gpu": "RTX 5070",
       "battery": "—",
       "weight": "—",
@@ -249,7 +266,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "screen": "13\"",
-      "gpu": "5-core",
+      "gpu": "5-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/IEisx/5019153_1/re/320x320/qt/55/5019153_1.jpg",
@@ -340,26 +357,26 @@
       "img": "https://images.hotukdeals.com/threads/raw/dI6kt/5016705_1/re/320x320/qt/55/5016705_1.jpg",
       "link": "https://www.hotukdeals.com/deals/hp-hyperx-omen-16-gaming-laptop-intel-core-ultra-7-32gb-1tb-nvidia-geforce-rtx-5070-ti-12gb-oled-display-5016705",
       "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Apple MacBook Pro 16.2-inch (M5 Max)- 18 core CPU 32 core GPU - 36GB 2TB - Sp…",
-      "retailer": "Joybuy",
-      "price": 3725,
-      "was": null,
-      "cat": "Mac",
-      "cpu": "Apple M5 Max",
-      "ram": "36GB",
-      "storage": "2TB",
-      "screen": "16.2\"",
-      "gpu": "32-core",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/thftx/5016489_1/re/320x320/qt/55/5016489_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/apple-macbook-pro-162-inch-m5-max-18-core-cpu-32-core-gpu-36gb-2tb-space-black-5016489",
-      "note": "From Joybuy feed — confirm spec on retailer site"
     }
   ],
   "us": [
+    {
+      "model": "ASUS Vivobook 16 Ryzen 5 3501U 16\" Laptop for $350 + free shipping",
+      "retailer": "ASUS",
+      "price": 350,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 5 3501U",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1794055715-product-trimmed.jpg?h=240&w=320",
+      "link": "https://www.dealnews.com/ASUS-Vivobook-16-Ryzen-5-3501-U-16-Laptop-for-350-free-shipping/22360411.html?iref=rss-c49",
+      "note": "From ASUS feed — confirm spec on retailer site"
+    },
     {
       "model": "Dell XPS 13.4\" 3K Touchscreen Laptop for $550 + free shipping",
       "retailer": "Dell",
@@ -451,7 +468,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 13th-Gen",
+      "cpu": "Intel Core i7 (13th Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -580,23 +597,6 @@
       "img": "https://d.dlnws.com/64599/1792485422-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Hasee-T8-Pro-Core-i7-14700-HX-RTX-5070-16-Laptop-for-1-428-free-shipping/22298954.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
-    },
-    {
-      "model": "Lenovo IdeaPad Slim 3 15.6\" Laptop for $370 + free shipping",
-      "retailer": "Lenovo",
-      "price": 370,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "15.6\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1785896515-draftworks_img_nir7ofh11cq6cdoipbo.jpeg?h=240&w=320",
-      "link": "https://www.dealnews.com/products/Lenovo/Lenovo-Idea-Pad-Slim-3-15-6-Laptop/514069.html?iref=rss-c49",
-      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
