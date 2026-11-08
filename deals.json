@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 21:26 UTC",
+  "updated": "2026-11-08 01:04 UTC",
   "uk": [
     {
       "model": "Apple MacBook Pro 16.2-inch Laptop with M5 Pro chip with 18 core CPU and 20 c…",
@@ -11,7 +11,7 @@
       "ram": "24GB",
       "storage": "1TB",
       "screen": "16.2\"",
-      "gpu": "20-core",
+      "gpu": "20-core GPU",
       "battery": "—",
       "weight": "—",
       "img": "https://images.hotukdeals.com/threads/raw/mat8e/5025715_1/re/320x320/qt/55/5025715_1.jpg",
@@ -27,7 +27,7 @@
       "cpu": "Intel Core 5 210H",
       "ram": "16GB",
       "storage": "512GB",
-      "screen": "16\" FHD",
+      "screen": "16\"",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
@@ -468,7 +468,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th Gen)",
+      "cpu": "Intel Core i7 13th-Gen",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
