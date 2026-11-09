@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 00:31 UTC",
+  "updated": "2026-11-09 07:40 UTC",
   "uk": [
     {
       "model": "Apple 2026 MacBook Pro 14.2-inch PROLED XDR Display, M5 Pro chip 24GB Unified…",
@@ -378,23 +378,6 @@
   ],
   "us": [
     {
-      "model": "HP 14 Intel N150 14\" 4GB/128GB Laptop for $205 + free shipping",
-      "retailer": "HP",
-      "price": 205,
-      "was": null,
-      "cat": "Windows laptop",
-      "cpu": "Intel N150",
-      "ram": "4GB",
-      "storage": "128GB",
-      "screen": "14\"",
-      "gpu": "—",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://d.dlnws.com/64599/1794137958-d7fd5894-07b3-4182-bf0d-8332b09021ea.webp?h=240&w=320",
-      "link": "https://www.dealnews.com/HP-14-Intel-N150-14-4-GB-128-GB-Laptop-for-205-free-shipping/22365003.html?iref=rss-c49",
-      "note": "From HP feed — confirm spec on retailer site"
-    },
-    {
       "model": "ASUS Vivobook 16 Ryzen 5 3501U 16\" Laptop for $350 + free shipping",
       "retailer": "ASUS",
       "price": 350,
@@ -485,7 +468,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th Gen)",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -614,6 +597,23 @@
       "img": "https://d.dlnws.com/64599/1792485422-product-trimmed.jpg?h=240&w=320",
       "link": "https://www.dealnews.com/Hasee-T8-Pro-Core-i7-14700-HX-RTX-5070-16-Laptop-for-1-428-free-shipping/22298954.html?iref=rss-c49",
       "note": "From dealnews feed — confirm spec on retailer site"
+    },
+    {
+      "model": "Lenovo ThinkPad E16 Ryzen 7 250 16\" Laptop for $1,069 + free shipping",
+      "retailer": "Lenovo",
+      "price": 1069,
+      "was": null,
+      "cat": "Windows laptop",
+      "cpu": "Ryzen 7 250",
+      "ram": "—",
+      "storage": "—",
+      "screen": "16\"",
+      "gpu": "—",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://d.dlnws.com/64599/1792400954-b0gjd2610051bb6m5c3.webp?h=240&w=320",
+      "link": "https://www.dealnews.com/Lenovo-Think-Pad-E16-Ryzen-7-250-16-Laptop-for-1-069-free-shipping/22296475.html?iref=rss-c49",
+      "note": "From Lenovo feed — confirm spec on retailer site"
     }
   ]
 }
