@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10 17:29 UTC",
+  "updated": "2026-11-10 22:50 UTC",
   "uk": [
+    {
+      "model": "Apple MacBook Air 13-inch Laptop M5 chip with 10-core CPU and 8-core GPU",
+      "retailer": "Amazon",
+      "price": 1149,
+      "was": null,
+      "cat": "Mac",
+      "cpu": "Apple M5",
+      "ram": "—",
+      "storage": "—",
+      "screen": "13\"",
+      "gpu": "8-core",
+      "battery": "—",
+      "weight": "—",
+      "img": "https://images.hotukdeals.com/threads/raw/fedIF/5028631_1/re/320x320/qt/55/5028631_1.jpg",
+      "link": "https://www.hotukdeals.com/deals/apple-macbook-air-13-inch-laptop-m5-chip-with-10-core-cpu-and-8-core-gpu-5028631",
+      "note": "From Amazon feed — confirm spec on retailer site"
+    },
     {
       "model": "ASUS Zenbook 14 OLED (2026, Core Ultra 5 325, 16GB, 512GB, OLED)",
       "retailer": "Currys",
@@ -109,7 +126,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core 5 320",
+      "cpu": "Intel Core Ultra 5 320",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "14\" 120Hz",
@@ -245,7 +262,7 @@
       "price": 649,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 5 210H",
+      "cpu": "Intel Core Ultra 5 210H",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -374,23 +391,6 @@
       "img": "https://images.hotukdeals.com/threads/raw/lP6OT/5023199_1/re/320x320/qt/55/5023199_1.jpg",
       "link": "https://www.hotukdeals.com/deals/asus-rog-strix-x870-i-gaming-wifi-amd-mini-itx-motherboard-for-amd-am5-ryzen-9800x3d-9000-8000-7000-processor-5023199",
       "note": "From Amazon feed — confirm spec on retailer site"
-    },
-    {
-      "model": "ASUS PRIME NVIDIA GeForce RTX 5080 OC Graphics Card with ASUS TUF GAMING B850…",
-      "retailer": "Scan",
-      "price": 1600,
-      "was": null,
-      "cat": "Gaming",
-      "cpu": "—",
-      "ram": "—",
-      "storage": "—",
-      "screen": "—",
-      "gpu": "RTX 5080",
-      "battery": "—",
-      "weight": "—",
-      "img": "https://images.hotukdeals.com/threads/raw/xHpgk/5022476_1/re/320x320/qt/55/5022476_1.jpg",
-      "link": "https://www.hotukdeals.com/deals/asus-prime-nvidia-geforce-rtx-5080-oc-graphics-card-with-asus-tuf-gaming-b850-plus-wifi-motherboard-sell-for-ps150-5022476",
-      "note": "From Scan feed — confirm spec on retailer site"
     }
   ],
   "us": [
@@ -570,7 +570,7 @@
       "price": 800,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core 7 150U",
+      "cpu": "Intel Core Ultra 7 150U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
