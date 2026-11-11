@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 22:50 UTC",
+  "updated": "2026-11-11 02:31 UTC",
   "uk": [
     {
       "model": "Apple MacBook Air 13-inch Laptop M5 chip with 10-core CPU and 8-core GPU",
@@ -126,7 +126,7 @@
       "price": 499,
       "was": null,
       "cat": "Premium / ultrabook",
-      "cpu": "Intel Core Ultra 5 320",
+      "cpu": "Intel Core 5 320",
       "ram": "8GB",
       "storage": "512GB",
       "screen": "14\" 120Hz",
@@ -262,7 +262,7 @@
       "price": 649,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 5 210H",
+      "cpu": "Intel Core 5 210H",
       "ram": "16GB",
       "storage": "512GB",
       "screen": "16\"",
@@ -502,7 +502,7 @@
       "price": 629,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core i7 (13th Gen)",
+      "cpu": "Intel Core i7 (13th-Gen)",
       "ram": "—",
       "storage": "1TB",
       "screen": "14\"",
@@ -570,7 +570,7 @@
       "price": 800,
       "was": null,
       "cat": "Windows laptop",
-      "cpu": "Intel Core Ultra 7 150U",
+      "cpu": "Intel Core 7 150U",
       "ram": "—",
       "storage": "—",
       "screen": "17.3\"",
