@@ -8,6 +8,7 @@
 //   BRAVE_API_KEY   Brave Search API
 //
 //   node scripts/buyback.mjs          search + rewrite buyback.json
+//   node scripts/buyback.mjs --telegram-test   send one sample Telegram alert
 //   node scripts/buyback.mjs --add    add one post from a GitHub issue form
 //                                     (reads GITHUB_EVENT_PATH) to buyback-manual.json
 // No dependencies. Node 18+.
@@ -377,7 +378,12 @@ function runAdd(){
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href){
   try {
-    if (process.argv.includes("--add")) runAdd();
+    if (process.argv.includes("--telegram-test")){
+      // Sends one sample alert so the bot token and chat id can be checked.
+      const sent = await notifyTelegram([{ kind: "Needs disposal", region: "UK", headline: "Test alert from your IT disposal leads tracker — Telegram is connected.", qty: null, models: [], link: "https://www.linkedin.com/feed/" }]);
+      if (!sent) throw new Error("Telegram test was not delivered — check TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID.");
+    }
+    else if (process.argv.includes("--add")) runAdd();
     else await runSearch();
   } catch (e){
     console.error(e.message);
