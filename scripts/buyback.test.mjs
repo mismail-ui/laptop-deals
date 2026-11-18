@@ -1,7 +1,7 @@
 // Run: node --test scripts/buyback.test.mjs
 import test from "node:test";
 import assert from "node:assert/strict";
-import { toItem, stripAuthor, canonicalLink, postDate, kindOf, regionOf, quantityOf, modelsOf, priceOf, mergeItems, parseIssueForm, queriesForRun, pickProvider, PROVIDERS, QUERIES } from "./buyback.mjs";
+import { toItem, stripAuthor, canonicalLink, postDate, kindOf, regionOf, quantityOf, modelsOf, priceOf, mergeItems, parseIssueForm, queriesForRun, pickProvider, PROVIDERS, QUERIES, notifyTelegram, telegramText } from "./buyback.mjs";
 
 const DAY = 86400000;
 const idFor = ms => String(BigInt(ms) << 22n).padStart(19, "0");
@@ -91,5 +91,22 @@ test("each provider maps its response shape to title/url/snippet", async () => {
       globalThis.fetch = async () => new Response(JSON.stringify(body), { status: 200 });
       assert.deepEqual(await PROVIDERS[name].search(QUERIES[0], "k"), [{ title: "T", url: "U", snippet: "S" }]);
     }
+  } finally { globalThis.fetch = real; }
+});
+
+test("telegram: only real leads are sent, and nothing without a token", async () => {
+  const items = [
+    { id: "1", kind: "Needs disposal", region: "UK", headline: "Old laptops need collecting", qty: 40, models: [], link: "https://www.linkedin.com/posts/a" },
+    { id: "2", kind: "ITAD / buyer advert", region: "UK", headline: "We buy laptops", link: "https://www.linkedin.com/posts/b" }
+  ];
+  assert.equal(telegramText(items[0]), "♻️ Needs disposal · UK\nOld laptops need collecting\nQty: 40\nhttps://www.linkedin.com/posts/a");
+  const real = globalThis.fetch; const calls = [];
+  try {
+    globalThis.fetch = async (url, init) => { calls.push([url, JSON.parse(init.body)]); return new Response("{}", { status: 200 }); };
+    assert.equal(await notifyTelegram(items, {}), 0);
+    assert.equal(await notifyTelegram(items, { TELEGRAM_BOT_TOKEN: "T", TELEGRAM_CHAT_ID: "42" }), 1);
+    assert.equal(calls.length, 1);
+    assert.equal(calls[0][0], "https://api.telegram.org/botT/sendMessage");
+    assert.equal(calls[0][1].chat_id, "42");
   } finally { globalThis.fetch = real; }
 });

@@ -255,6 +255,33 @@ function readJson(file, fallback){
 }
 const stamp = () => new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
 
+// ---------- Telegram alerts (optional) ----------
+
+export function telegramText(it){
+  const facts = [it.qty ? "Qty: " + it.qty : "", (it.models || []).length ? "Models: " + it.models.join(", ") : "", it.price ? "Price: " + it.price : "", it.posted ? "Posted: " + it.posted : ""].filter(Boolean);
+  return [`${it.kind === "Needs disposal" ? "♻️" : "💻"} ${it.kind} · ${it.region}`, it.headline, facts.join(" · "), it.link].filter(Boolean).join("\n");
+}
+
+// Sends each newly found lead to a Telegram chat when TELEGRAM_BOT_TOKEN and
+// TELEGRAM_CHAT_ID are set. Adverts from other ITAD firms are not sent.
+export async function notifyTelegram(items, env = process.env){
+  const token = env.TELEGRAM_BOT_TOKEN, chat = env.TELEGRAM_CHAT_ID;
+  const leads = items.filter(it => it.kind === "Needs disposal" || it.kind === "For sale").slice(0, 10);
+  if (!token || !chat || !leads.length) return 0;
+  let sent = 0;
+  for (const it of leads){
+    try {
+      const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+        method: "POST", headers: { "content-type": "application/json" },
+        body: JSON.stringify({ chat_id: chat, text: telegramText(it), disable_web_page_preview: true })
+      });
+      if (res.ok) sent++; else console.error("Telegram: HTTP " + res.status + " " + (await res.text()).slice(0, 160));
+    } catch (e){ console.error("Telegram failed:", String(e.message).split(token).join("***")); }
+  }
+  console.log(`Telegram: sent ${sent} of ${leads.length} new leads.`);
+  return sent;
+}
+
 // ---------- search mode ----------
 
 async function runSearch(){
@@ -296,6 +323,8 @@ async function runSearch(){
   const items = mergeItems(prev.items, fresh);
   writeFileSync(AUTO_FILE, JSON.stringify({ updated: stamp(), status: "ok", provider: provider.name, items }, null, 2) + "\n");
   console.log(`Wrote ${AUTO_FILE} — ${items.length} posts (${fresh.length} matched this run).`);
+  const known = new Set((prev.items || []).map(it => it.id));
+  await notifyTelegram(items.filter(it => !known.has(it.id)));
 }
 
 // ---------- add-from-issue mode ----------
