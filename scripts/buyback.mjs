@@ -199,9 +199,11 @@ export function priceOf(text){
 function cut(s, n){ return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s; }
 
 // Turn one search hit (or hand-added post) into a card, or null if it isn't relevant.
-export function toItem({ title, url, snippet }, { now = Date.now(), manual = false, location = "" } = {}){
+// onReject(reason) is called when a hit is dropped, so the run log shows why.
+export function toItem({ title, url, snippet }, { now = Date.now(), manual = false, location = "", onReject = () => {} } = {}){
+  const no = reason => { onReject(reason); return null; };
   const link = canonicalLink(url);
-  if (!link) return null;
+  if (!link) return no("not a post link");
   const host = (() => { try { return new URL(url).hostname; } catch { return ""; } })();
   const body = clean(snippet);
   const head = stripAuthor(title);
@@ -210,11 +212,13 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
   const pid = postIdFromUrl(link);
   const posted = postDate(pid);
   if (!manual){
-    if (!EQUIP_RE.test(text) || !INTENT_RE.test(text) || NOISE_RE.test(text)) return null;
-    if (posted && now - posted > MAX_AGE_DAYS * DAY) return null;
+    if (!EQUIP_RE.test(text)) return no("no equipment mentioned");
+    if (!INTENT_RE.test(text)) return no("no disposal/sale wording");
+    if (NOISE_RE.test(text)) return no("job advert or event");
+    if (posted && now - posted > MAX_AGE_DAYS * DAY) return no("older than " + MAX_AGE_DAYS + " days (" + new Date(posted).toISOString().slice(0, 10) + ")");
   }
   const region = regionOf(text, host) || (manual ? "Unspecified" : null);
-  if (!region) return null;
+  if (!region) return no("outside UK/Europe");
 
   const firstSentence = (body.match(/^.{20,110}?[.!?](?=\s|$)/) || [])[0];
   const headline = cut(head.length >= 15 ? head : (firstSentence || body || "LinkedIn post"), 110);
@@ -267,7 +271,14 @@ async function runSearch(){
   for (const query of queries){
     try {
       const hits = await provider.search(query, provider.key);
-      const kept = hits.map(h => toItem(h)).filter(Boolean);
+      const kept = [];
+      for (const h of hits){
+        const item = toItem(h, { onReject: why => {
+          let where = ""; try { where = new URL(h.url).pathname.split("/")[1] || ""; } catch {}
+          console.log(`  skip — ${why} — /${where}/ — ${stripAuthor(h.title).slice(0, 70)}`);
+        } });
+        if (item) kept.push(item);
+      }
       console.log(`${provider.name}: ${hits.length} results, ${kept.length} relevant — ${query.plain}`);
       fresh.push(...kept);
     } catch (e){
