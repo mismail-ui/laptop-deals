@@ -173,14 +173,16 @@ function leadChips(label, which, current, values){
 }
 // Shortcuts into LinkedIn's own post search. They open in the visitor's logged-in
 // LinkedIn; nothing here reads LinkedIn automatically.
+// Exact phrases (in quotes): without them LinkedIn's "Latest" sort matches any of the words.
 const LI_SEARCHES = [
-  ['IT equipment disposal', 'IT equipment disposal'],
-  ['Redundant IT equipment', 'redundant IT equipment'],
-  ['Old laptops', 'old laptops recycle'],
-  ['IT recycling', 'IT recycling recommendations'],
-  ['ITAD provider', 'ITAD provider'],
-  ['Office clearance', 'office clearance IT equipment'],
-  ['Laptops for sale', 'surplus laptops for sale']
+  ['Recommendations wanted', '"IT equipment" "recommendations"'],
+  ['IT equipment disposal', '"IT equipment disposal"'],
+  ['Redundant IT equipment', '"redundant IT equipment"'],
+  ['IT disposal', '"IT disposal"'],
+  ['IT recycling', '"IT recycling"'],
+  ['Old laptops', '"old laptops"'],
+  ['Office clearance', '"office clearance"'],
+  ['Laptops for sale', '"laptops for sale"']
 ];
 const liSearchUrl = q => 'https://www.linkedin.com/search/results/content/?keywords=' + encodeURIComponent(q) +
   '&datePosted=' + encodeURIComponent('"past-month"') + '&sortBy=' + encodeURIComponent('"date_posted"') + '&origin=FACETED_SEARCH';
