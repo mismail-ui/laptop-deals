@@ -27,6 +27,7 @@ test("kinds", () => {
 
 test("irrelevant, stale, non-LinkedIn and far-away posts are dropped", () => {
   const stale = `https://www.linkedin.com/posts/x_y-activity-${idFor(NOW - 90 * DAY)}-AbCd`;
+  assert.equal(toItem({ title: "", url: recentUrl, snippet: "Licences and certifications in IT recycling and disposal, UK" }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: recentUrl, snippet: "Great day at the conference with the team!" }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: stale, snippet: LEAD }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: "https://example.com/posts/x", snippet: LEAD }, { now: NOW }), null);

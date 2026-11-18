@@ -18,7 +18,7 @@ import { pathToFileURL } from "node:url";
 
 const AUTO_FILE = "buyback.json";
 const MANUAL_FILE = "buyback-manual.json";
-const MAX_AGE_DAYS = 45;      // drop search-found posts older than this
+const MAX_AGE_DAYS = 60;      // drop search-found posts older than this
 const MANUAL_AGE_DAYS = 90;   // drop hand-added posts older than this
 const MAX_ITEMS = 80;
 const DAY = 86400000;
@@ -55,7 +55,7 @@ export const PROVIDERS = {
     env: "SERPAPI_KEY", perRun: 4,   // 4 x 2 runs/day ≈ 240 searches/month
     async search(query, key){
       const u = new URL("https://serpapi.com/search.json");
-      for (const [k, v] of Object.entries({ engine: "google", q: query.q, gl: "uk", hl: "en", num: "20", tbs: "qdr:m", api_key: key })) u.searchParams.set(k, v);
+      for (const [k, v] of Object.entries({ engine: "google", q: query.q, gl: "uk", hl: "en", num: "20", tbs: "qdr:m3,sbd:1", api_key: key })) u.searchParams.set(k, v);
       const j = await getJson(u.href);
       return (j.organic_results || []).map(r => ({ title: r.title, url: r.link, snippet: r.snippet }));
     }
@@ -230,6 +230,8 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
   }
   const region = regionOf(text, host) || (manual ? "Unspecified" : null);
   if (!region) return no("outside UK/Europe");
+  const kind = kindOf(text);
+  if (!manual && kind === "Other") return no("not a request, sale or advert");
 
   const firstSentence = (body.match(/^.{20,110}?[.!?](?=\s|$)/) || [])[0];
   const headline = cut(head.length >= 15 ? head : (firstSentence || body || "LinkedIn post"), 110);
@@ -237,7 +239,7 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
     id: pid || createHash("sha1").update(link).digest("hex").slice(0, 16),
     headline,
     snippet: cut(body, 320),
-    kind: kindOf(text),
+    kind,
     region,
     qty: quantityOf(text),
     models: modelsOf(text),
