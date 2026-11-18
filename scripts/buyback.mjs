@@ -320,7 +320,7 @@ async function runSearch(){
       const kept = [];
       for (const h of hits){
         const item = toItem(h, { onReject: why => {
-          let where = ""; try { const raw = new URL(h.url), u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || "") + (u.hostname.includes("google.") ? " ?url=" + String(raw.searchParams.get("url")).slice(0, 34) : ""); } catch {}
+          let where = ""; try { const u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || ""); } catch {}
           console.log(`  skip — ${why} — ${where} — ${stripAuthor(h.title).slice(0, 70)}`);
         } });
         if (item){ kept.push(item); console.log(`  keep — ${item.kind} — ${item.region} — ${item.posted || "undated"} — ${item.headline.slice(0, 70)}`); }
