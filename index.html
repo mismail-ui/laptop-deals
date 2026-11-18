@@ -90,7 +90,7 @@ body[data-mode="leads"] .dealsonly { display: none; }
   </div>
 
   <div class="leadsonly">
-    <div class="section-title" style="margin-top:0">Check LinkedIn yourself — opens your own LinkedIn search, past week, newest first</div>
+    <div class="section-title" style="margin-top:0">Check LinkedIn yourself — opens your own LinkedIn search, past month, newest first</div>
     <div class="retailers" id="lisearches" style="margin-bottom:18px"></div>
   </div>
 
@@ -174,16 +174,16 @@ function leadChips(label, which, current, values){
 // Shortcuts into LinkedIn's own post search. They open in the visitor's logged-in
 // LinkedIn; nothing here reads LinkedIn automatically.
 const LI_SEARCHES = [
-  ['Disposal recommendations', '"IT equipment" disposal recommendations'],
-  ['Redundant IT equipment', '"redundant IT equipment"'],
-  ['Old laptops', '"old laptops" recommend'],
-  ['IT recycling wanted', '"IT recycling" looking for'],
-  ['ITAD recommendations', 'ITAD recommend'],
-  ['Office clearance', '"office clearance" IT equipment'],
-  ['Laptops for sale', 'laptops "for sale" surplus']
+  ['IT equipment disposal', 'IT equipment disposal'],
+  ['Redundant IT equipment', 'redundant IT equipment'],
+  ['Old laptops', 'old laptops recycle'],
+  ['IT recycling', 'IT recycling recommendations'],
+  ['ITAD provider', 'ITAD provider'],
+  ['Office clearance', 'office clearance IT equipment'],
+  ['Laptops for sale', 'surplus laptops for sale']
 ];
 const liSearchUrl = q => 'https://www.linkedin.com/search/results/content/?keywords=' + encodeURIComponent(q) +
-  '&datePosted=' + encodeURIComponent('"past-week"') + '&sortBy=' + encodeURIComponent('"date_posted"') + '&origin=FACETED_SEARCH';
+  '&datePosted=' + encodeURIComponent('"past-month"') + '&sortBy=' + encodeURIComponent('"date_posted"') + '&origin=FACETED_SEARCH';
 document.getElementById('lisearches').innerHTML = LI_SEARCHES.map(([label, q]) =>
   `<a href="${esc(liSearchUrl(q))}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`).join('');
 const KIND_ORDER = ['Needs disposal','For sale','ITAD / buyer advert','Other'];
