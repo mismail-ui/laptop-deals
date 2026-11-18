@@ -25,6 +25,8 @@ function decode(s){
     .replace(/&amp;/g,"&").replace(/&lt;/g,"<").replace(/&gt;/g,">")
     .replace(/&#0?39;|&apos;/g,"'").replace(/&quot;/g,'"').replace(/&pound;/g,"£")
     .replace(/&#(\d+);/g,(_,n)=>String.fromCharCode(+n))
+    .replace(/&#x([0-9a-f]+);/gi,(_,h)=>String.fromCharCode(parseInt(h,16)))
+    .replace(/<[^>]*>/g, " ")   // strip again: entity-encoded markup (&lt;img …&gt;) is live after decoding
     .replace(/\s+/g," ").trim();
 }
 

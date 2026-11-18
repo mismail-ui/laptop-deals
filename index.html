@@ -134,6 +134,8 @@ const storeFilterEl = document.getElementById('storefilter');
 function pct(d){ return (d.was && d.was > d.price) ? Math.round((1 - d.price/d.was) * 100) : null; }
 function specRow(k,v){ return (v && v !== "—") ? `<div><span>${k}</span><span>${v}</span></div>` : ""; }
 function setRegion(r){ region = r; store = "All"; document.getElementById('tab-uk').classList.toggle('active', r==='uk'); document.getElementById('tab-us').classList.toggle('active', r==='us'); render(); }
+function esc(v){ return String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function safeUrl(u){ return /^https?:\/\//i.test(u || '') ? u : ''; }
 function setStore(s){ store = s; render(); }
 const sym = () => region === 'uk' ? '£' : '$';
 
@@ -141,8 +143,9 @@ function renderStoreChips(){
   const stores = [...new Set(DATA[region].map(d => d.retailer))].sort();
   const chips = ['All', ...stores];
   storeFilterEl.innerHTML = `<span class="lbl">Store</span>` + chips.map(s =>
-    `<button class="storechip ${s===store?'active':''}" onclick="setStore('${s.replace(/'/g,"\\'")}')">${s}</button>`
+    `<button class="storechip ${s===store?'active':''}" data-store="${esc(s)}">${esc(s)}</button>`
   ).join('');
+  storeFilterEl.querySelectorAll('button').forEach(b => b.onclick = () => setStore(b.dataset.store));
 }
 
 function render(){
@@ -163,25 +166,26 @@ function render(){
   else cardsEl.innerHTML = list.map(d => {
     const p = pct(d); const big = p!==null && p>=30;
     const saved = (d.was && d.was>d.price) ? d.was-d.price : null;
-    const specs = [specRow('CPU',d.cpu),specRow('RAM',d.ram),specRow('Storage',d.storage),specRow('Screen',d.screen),specRow('Graphics',d.gpu),specRow('Battery',d.battery),specRow('Weight',d.weight)].join('');
+    const specs = [['CPU',d.cpu],['RAM',d.ram],['Storage',d.storage],['Screen',d.screen],['Graphics',d.gpu],['Battery',d.battery],['Weight',d.weight]].map(([k,v]) => specRow(k, esc(v))).join('');
+    const img = safeUrl(d.img), link = safeUrl(d.link);
     return `<div class="card">
-      ${d.img ? `<div class="thumb"><img src="${d.img}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb').remove()"></div>` : ''}
+      ${img ? `<div class="thumb"><img src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.thumb').remove()"></div>` : ''}
       <div class="top">
-        <span class="model">${d.model}</span>
+        <span class="model">${esc(d.model)}</span>
         ${p!==null?`<span class="disc ${big?'big':''}">-${p}%</span>`:''}
       </div>
       <div class="priceline">
-        <span class="price">${d.price?s$+d.price:'See site'}</span>
-        ${d.was&&d.was>d.price?`<span class="was">${s$}${d.was}</span>`:''}
+        <span class="price">${d.price?s$+esc(d.price):'See site'}</span>
+        ${d.was&&d.was>d.price?`<span class="was">${s$}${esc(d.was)}</span>`:''}
         ${saved!==null?`<span class="save ${big?'big':''}">Save ${s$}${saved}</span>`:''}
       </div>
       <div class="meta">
-        <span class="chip retailer">${d.retailer}</span>
-        ${d.cat?`<span class="chip">${d.cat}</span>`:''}
+        <span class="chip retailer">${esc(d.retailer)}</span>
+        ${d.cat?`<span class="chip">${esc(d.cat)}</span>`:''}
       </div>
       ${specs?`<div class="specs">${specs}</div>`:''}
-      ${d.note?`<div class="note">${d.note}</div>`:''}
-      <a class="link" href="${d.link}" target="_blank" rel="noopener">View deal →</a>
+      ${d.note?`<div class="note">${esc(d.note)}</div>`:''}
+      ${link?`<a class="link" href="${esc(link)}" target="_blank" rel="noopener noreferrer">View deal →</a>`:''}
     </div>`;
   }).join('');
   countEl.textContent = list.length + ' deal' + (list.length===1?'':'s');
