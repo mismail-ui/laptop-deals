@@ -1,7 +1,7 @@
 // Run: node --test scripts/buyback.test.mjs
 import test from "node:test";
 import assert from "node:assert/strict";
-import { toItem, stripAuthor, canonicalLink, postDate, kindOf, regionOf, quantityOf, modelsOf, priceOf, mergeItems, parseIssueForm, queriesForRun, pickProvider, PROVIDERS, QUERIES } from "./buyback.mjs";
+import { toItem, stripAuthor, canonicalLink, postDate, kindOf, regionOf, quantityOf, modelsOf, priceOf, mergeItems, parseIssueForm, queriesForRun, pickProvider, PROVIDERS, QUERIES, notifyTelegram, telegramText } from "./buyback.mjs";
 
 const DAY = 86400000;
 const idFor = ms => String(BigInt(ms) << 22n).padStart(19, "0");
@@ -27,6 +27,7 @@ test("kinds", () => {
 
 test("irrelevant, stale, non-LinkedIn and far-away posts are dropped", () => {
   const stale = `https://www.linkedin.com/posts/x_y-activity-${idFor(NOW - 90 * DAY)}-AbCd`;
+  assert.equal(toItem({ title: "", url: recentUrl, snippet: "Licences and certifications in IT recycling and disposal, UK" }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: recentUrl, snippet: "Great day at the conference with the team!" }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: stale, snippet: LEAD }, { now: NOW }), null);
   assert.equal(toItem({ title: "", url: "https://example.com/posts/x", snippet: LEAD }, { now: NOW }), null);
@@ -40,6 +41,10 @@ test("links", () => {
   assert.equal(canonicalLink("https://evil-linkedin.com/posts/a"), null);
   assert.equal(canonicalLink("https://www.linkedin.com/in/someone"), null);
   assert.equal(postDate("123"), null);
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://uk.linkedin.com/posts/a_b-activity-1?x=1") + "&sa=U"), "https://www.linkedin.com/posts/a_b-activity-1");
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://www.gumtree.com/for-sale")), null);
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent(encodeURIComponent("https://www.linkedin.com/posts/a_b-activity-1"))), "https://www.linkedin.com/posts/a_b-activity-1");
+  assert.equal(canonicalLink("https://www.google.com/goto?url=uk.linkedin.com/posts/a_b-activity-1"), "https://www.linkedin.com/posts/a_b-activity-1");
 });
 
 test("titles lose the poster's name", () => {
@@ -73,7 +78,7 @@ test("issue form parsing", () => {
 
 test("query rotation covers every query and provider choice follows the key", () => {
   const seen = new Set();
-  for (let s = 0; s < 6; s++) queriesForRun(4, s * 12 * 3600 * 1000).forEach(q => seen.add(q.q));
+  for (let s = 0; s < 6; s++) queriesForRun(3, s * 12 * 3600 * 1000).forEach(q => seen.add(q.q));
   assert.equal(seen.size, QUERIES.length);
   assert.equal(pickProvider({}), null);
   assert.equal(pickProvider({ TAVILY_API_KEY: "k" }).name, "tavily");
@@ -91,5 +96,22 @@ test("each provider maps its response shape to title/url/snippet", async () => {
       globalThis.fetch = async () => new Response(JSON.stringify(body), { status: 200 });
       assert.deepEqual(await PROVIDERS[name].search(QUERIES[0], "k"), [{ title: "T", url: "U", snippet: "S" }]);
     }
+  } finally { globalThis.fetch = real; }
+});
+
+test("telegram: only real leads are sent, and nothing without a token", async () => {
+  const items = [
+    { id: "1", kind: "Needs disposal", region: "UK", headline: "Old laptops need collecting", qty: 40, models: [], link: "https://www.linkedin.com/posts/a" },
+    { id: "2", kind: "ITAD / buyer advert", region: "UK", headline: "We buy laptops", link: "https://www.linkedin.com/posts/b" }
+  ];
+  assert.equal(telegramText(items[0]), "♻️ Needs disposal · UK\nOld laptops need collecting\nQty: 40\nhttps://www.linkedin.com/posts/a");
+  const real = globalThis.fetch; const calls = [];
+  try {
+    globalThis.fetch = async (url, init) => { calls.push([url, JSON.parse(init.body)]); return new Response("{}", { status: 200 }); };
+    assert.equal(await notifyTelegram(items, {}), 0);
+    assert.equal(await notifyTelegram(items, { TELEGRAM_BOT_TOKEN: "T", TELEGRAM_CHAT_ID: "42" }), 1);
+    assert.equal(calls.length, 1);
+    assert.equal(calls[0][0], "https://api.telegram.org/botT/sendMessage");
+    assert.equal(calls[0][1].chat_id, "42");
   } finally { globalThis.fetch = real; }
 });

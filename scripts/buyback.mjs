@@ -18,7 +18,7 @@ import { pathToFileURL } from "node:url";
 
 const AUTO_FILE = "buyback.json";
 const MANUAL_FILE = "buyback-manual.json";
-const MAX_AGE_DAYS = 45;      // drop search-found posts older than this
+const MAX_AGE_DAYS = 60;      // drop search-found posts older than this
 const MANUAL_AGE_DAYS = 90;   // drop hand-added posts older than this
 const MAX_ITEMS = 80;
 const DAY = 86400000;
@@ -28,18 +28,18 @@ const DAY = 86400000;
 // Every block of four is three UK queries and one Europe query.
 // q = operator form (Google / Brave); plain = natural-language form (Tavily).
 export const QUERIES = [
-  { q: 'site:linkedin.com/posts "looking for recommendations" ("IT equipment" OR laptops) (disposal OR recycling) UK', plain: "looking for recommendations IT equipment disposal recycling UK" },
-  { q: 'site:linkedin.com/posts ("dispose of" OR "disposal of") ("old laptops" OR "redundant IT" OR "IT equipment") (recommend OR recommendations) UK', plain: "need to dispose of redundant IT equipment old laptops recommendations UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" (collected OR collection) (recycling OR disposal) "can anyone recommend"', plain: "can anyone recommend IT equipment collection recycling disposal UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" (disposal OR recycling) (recommendations OR "looking for") (Ireland OR Netherlands OR Germany OR Europe)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
-  { q: 'site:linkedin.com/posts ITAD (recommend OR recommendations OR "looking for") (provider OR company) UK', plain: "looking for ITAD provider recommendations UK" },
-  { q: 'site:linkedin.com/posts "old laptops" ("get rid of" OR recycle OR sell OR donate) (anyone OR recommend) UK', plain: "old laptops to get rid of recycle sell anyone recommend UK" },
-  { q: 'site:linkedin.com/posts WEEE "IT equipment" "looking for" (provider OR company OR recommendations)', plain: "looking for WEEE IT equipment disposal provider recommendations" },
-  { q: 'site:linkedin.com/posts ("hard drive destruction" OR "data destruction" OR "IT disposal") "looking for" (provider OR recommendations) (Ireland OR EU OR Europe)', plain: "looking for hard drive destruction IT disposal provider Ireland Europe" },
-  { q: 'site:linkedin.com/posts ("office clearance" OR "office closure" OR "office move") (laptops OR monitors OR "IT equipment") (sell OR disposal OR recycle) UK', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
-  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR "job lot" OR "ex-corporate" OR redundant) UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" ("for sale" OR surplus OR clearance) UK', plain: "IT equipment for sale surplus clearance UK" },
-  { q: 'site:linkedin.com/posts ("off-lease" OR "ex-lease" OR surplus) laptops ("for sale" OR available) (Europe OR EU OR Netherlands OR Germany)', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
+  { q: 'site:linkedin.com/posts "looking for recommendations" "IT equipment" disposal', plain: "looking for recommendations IT equipment disposal recycling UK" },
+  { q: 'site:linkedin.com/posts "can anyone recommend" (laptops OR "IT equipment") (recycling OR disposal)', plain: "can anyone recommend company to recycle or dispose of old laptops IT equipment UK" },
+  { q: 'site:linkedin.com/posts "redundant IT equipment" (collected OR "looking for" OR recommend)', plain: "redundant IT equipment needs to be collected disposed looking for provider UK" },
+  { q: 'site:linkedin.com/posts "IT equipment" disposal "looking for" (Ireland OR Netherlands OR Germany OR Europe)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
+  { q: 'site:linkedin.com/posts "any recommendations" ("old laptops" OR "old IT equipment" OR "IT disposal")', plain: "any recommendations for disposing of old laptops old IT equipment UK" },
+  { q: 'site:linkedin.com/posts "old laptops" ("does anyone" OR "anyone know" OR "get rid of") UK', plain: "old laptops does anyone know who can take them get rid of UK" },
+  { q: 'site:linkedin.com/posts "dispose of" laptops ("looking for" OR recommend) UK', plain: "need to dispose of laptops looking for recommendations UK" },
+  { q: 'site:linkedin.com/posts ("IT recycling" OR "IT disposal" OR ITAD) "looking for a" (provider OR company OR partner) Europe', plain: "looking for an IT recycling or ITAD provider Europe" },
+  { q: 'site:linkedin.com/posts ("office clearance" OR "office closure") (laptops OR monitors OR "IT equipment")', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
+  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR redundant OR "job lot") UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
+  { q: 'site:linkedin.com/posts "IT equipment" "for sale" UK', plain: "IT equipment for sale surplus clearance UK" },
+  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR "off-lease" OR "ex-lease") Europe', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
 ];
 
 // ---------- search providers ----------
@@ -52,10 +52,10 @@ async function getJson(url, init){
 
 export const PROVIDERS = {
   serpapi: {
-    env: "SERPAPI_KEY", perRun: 4,   // 4 x 2 runs/day ≈ 240 searches/month
+    env: "SERPAPI_KEY", perRun: 3,   // 3 x 2 runs/day ≈ 180 searches/month
     async search(query, key){
       const u = new URL("https://serpapi.com/search.json");
-      for (const [k, v] of Object.entries({ engine: "google", q: query.q, gl: "uk", hl: "en", num: "20", tbs: "qdr:m", api_key: key })) u.searchParams.set(k, v);
+      for (const [k, v] of Object.entries({ engine: "google", q: query.q, gl: "uk", hl: "en", num: "20", tbs: "qdr:m3,sbd:1", api_key: key })) u.searchParams.set(k, v);
       const j = await getJson(u.href);
       return (j.organic_results || []).map(r => ({ title: r.title, url: r.link, snippet: r.snippet }));
     }
@@ -97,7 +97,7 @@ export function queriesForRun(perRun, now = Date.now()){
 
 // ---------- understanding a post ----------
 
-const EQUIP_RE = /\b(laptops?|notebooks?|desktops?|workstations?|servers?|monitors?|macbooks?|imacs?|thinkpads?|elitebooks?|latitudes?|optiplex|chromebooks?|ipads?|iphones?|tablets?|smartphones?|thin clients?|docking stations?|it (?:equipment|assets?|hardware|kit|stock))\b/i;
+const EQUIP_RE = /\b(laptops?|notebooks?|desktops?|workstations?|servers?|monitors?|macbooks?|imacs?|thinkpads?|elitebooks?|latitudes?|optiplex|chromebooks?|ipads?|iphones?|tablets?|smartphones?|thin clients?|docking stations?|computers?|hard drives?|e-?waste|weee|itad|it (?:equipment|assets?|hardware|kit|stock|recycling|disposal))\b/i;
 const INTENT_RE = /\b(dispos\w+|recycl\w+|collect(?:ed|ion)|recommend\w*|weee|get rid of|clearance|for sale|available|in stock|stock (?:list|offer)|surplus|buy[\s-]?back|clearance|job lots?|wholesale|redundant|ex[\s-](?:corporate|lease|business|rental)|off[\s-]lease|end[\s-]of[\s-]lease|decommission\w*|trade (?:only|price|stock)|bulk|pallets?|units|qty|moq|offers? (?:invited|welcome)|we (?:buy|sell|have)|selling|wanted|wtb|wts|looking to (?:buy|sell|purchase|source))\b/i;
 const NOISE_RE = /\b(we(?:'|’)?re hiring|we are hiring|now hiring|job (?:opening|vacancy|opportunity)|vacancy|apply now|webinar|podcast|giveaway)\b/i;
 // Someone asking for help getting rid of kit — the posts worth replying to.
@@ -128,10 +128,27 @@ export function postDate(id){
   return (ms > Date.UTC(2015, 0, 1) && ms < Date.now() + DAY) ? ms : null;
 }
 
+// Google sometimes hands back a redirect (google.com/goto?…, /url?…) instead of the
+// page itself; the real address is one of its query parameters.
+export function unwrap(url){
+  try {
+    const u = new URL(String(url).trim());
+    if (!/(^|\.)google\.[a-z.]+$/.test(u.hostname)) return u.href;
+    for (let v of u.searchParams.values()){
+      for (let i = 0; i < 2 && /%2F/i.test(v); i++){ try { v = decodeURIComponent(v); } catch { break; } }
+      v = v.trim();
+      if (v.startsWith("//")) v = "https:" + v;
+      else if (/^([a-z0-9-]+\.)*linkedin\.com\//i.test(v)) v = "https://" + v;
+      if (/^https?:\/\//i.test(v)) return v;
+    }
+    return u.href;
+  } catch { return String(url || ""); }
+}
+
 // Only LinkedIn post URLs are accepted; the query string (tracking) is dropped.
 export function canonicalLink(url){
   let u;
-  try { u = new URL(String(url).trim()); } catch { return null; }
+  try { u = new URL(unwrap(url)); } catch { return null; }
   if (u.protocol !== "https:") return null;
   if (u.hostname === "lnkd.in") return u.origin + u.pathname;
   if (!/(^|\.)linkedin\.com$/.test(u.hostname)) return null;
@@ -199,10 +216,12 @@ export function priceOf(text){
 function cut(s, n){ return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s; }
 
 // Turn one search hit (or hand-added post) into a card, or null if it isn't relevant.
-export function toItem({ title, url, snippet }, { now = Date.now(), manual = false, location = "" } = {}){
+// onReject(reason) is called when a hit is dropped, so the run log shows why.
+export function toItem({ title, url, snippet }, { now = Date.now(), manual = false, location = "", onReject = () => {} } = {}){
+  const no = reason => { onReject(reason); return null; };
   const link = canonicalLink(url);
-  if (!link) return null;
-  const host = (() => { try { return new URL(url).hostname; } catch { return ""; } })();
+  if (!link) return no("not a post link");
+  const host = (() => { try { return new URL(unwrap(url)).hostname; } catch { return ""; } })();
   const body = clean(snippet);
   const head = stripAuthor(title);
   const text = (head + " " + body + " " + clean(location)).trim();
@@ -210,11 +229,15 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
   const pid = postIdFromUrl(link);
   const posted = postDate(pid);
   if (!manual){
-    if (!EQUIP_RE.test(text) || !INTENT_RE.test(text) || NOISE_RE.test(text)) return null;
-    if (posted && now - posted > MAX_AGE_DAYS * DAY) return null;
+    if (!EQUIP_RE.test(text)) return no("no equipment mentioned");
+    if (!INTENT_RE.test(text)) return no("no disposal/sale wording");
+    if (NOISE_RE.test(text)) return no("job advert or event");
+    if (posted && now - posted > MAX_AGE_DAYS * DAY) return no("older than " + MAX_AGE_DAYS + " days (" + new Date(posted).toISOString().slice(0, 10) + ")");
   }
   const region = regionOf(text, host) || (manual ? "Unspecified" : null);
-  if (!region) return null;
+  if (!region) return no("outside UK/Europe");
+  const kind = kindOf(text);
+  if (!manual && kind === "Other") return no("not a request, sale or advert");
 
   const firstSentence = (body.match(/^.{20,110}?[.!?](?=\s|$)/) || [])[0];
   const headline = cut(head.length >= 15 ? head : (firstSentence || body || "LinkedIn post"), 110);
@@ -222,7 +245,7 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
     id: pid || createHash("sha1").update(link).digest("hex").slice(0, 16),
     headline,
     snippet: cut(body, 320),
-    kind: kindOf(text),
+    kind,
     region,
     qty: quantityOf(text),
     models: modelsOf(text),
@@ -251,6 +274,33 @@ function readJson(file, fallback){
 }
 const stamp = () => new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC";
 
+// ---------- Telegram alerts (optional) ----------
+
+export function telegramText(it){
+  const facts = [it.qty ? "Qty: " + it.qty : "", (it.models || []).length ? "Models: " + it.models.join(", ") : "", it.price ? "Price: " + it.price : "", it.posted ? "Posted: " + it.posted : ""].filter(Boolean);
+  return [`${it.kind === "Needs disposal" ? "♻️" : "💻"} ${it.kind} · ${it.region}`, it.headline, facts.join(" · "), it.link].filter(Boolean).join("\n");
+}
+
+// Sends each newly found lead to a Telegram chat when TELEGRAM_BOT_TOKEN and
+// TELEGRAM_CHAT_ID are set. Adverts from other ITAD firms are not sent.
+export async function notifyTelegram(items, env = process.env){
+  const token = env.TELEGRAM_BOT_TOKEN, chat = env.TELEGRAM_CHAT_ID;
+  const leads = items.filter(it => it.kind === "Needs disposal" || it.kind === "For sale").slice(0, 10);
+  if (!token || !chat || !leads.length) return 0;
+  let sent = 0;
+  for (const it of leads){
+    try {
+      const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+        method: "POST", headers: { "content-type": "application/json" },
+        body: JSON.stringify({ chat_id: chat, text: telegramText(it), disable_web_page_preview: true })
+      });
+      if (res.ok) sent++; else console.error("Telegram: HTTP " + res.status + " " + (await res.text()).slice(0, 160));
+    } catch (e){ console.error("Telegram failed:", String(e.message).split(token).join("***")); }
+  }
+  console.log(`Telegram: sent ${sent} of ${leads.length} new leads.`);
+  return sent;
+}
+
 // ---------- search mode ----------
 
 async function runSearch(){
@@ -267,8 +317,15 @@ async function runSearch(){
   for (const query of queries){
     try {
       const hits = await provider.search(query, provider.key);
-      const kept = hits.map(h => toItem(h)).filter(Boolean);
-      console.log(`${provider.name}: ${hits.length} results, ${kept.length} relevant — ${query.plain}`);
+      const kept = [];
+      for (const h of hits){
+        const item = toItem(h, { onReject: why => {
+          let where = ""; try { const u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || ""); } catch {}
+          console.log(`  skip — ${why} — ${where} — ${stripAuthor(h.title).slice(0, 70)}`);
+        } });
+        if (item){ kept.push(item); console.log(`  keep — ${item.kind} — ${item.region} — ${item.posted || "undated"} — ${item.headline.slice(0, 70)}`); }
+      }
+      console.log(`${provider.name}: ${hits.length} results, ${kept.length} relevant — ${provider.name === "tavily" ? query.plain : query.q}`);
       fresh.push(...kept);
     } catch (e){
       failed++;
@@ -285,6 +342,8 @@ async function runSearch(){
   const items = mergeItems(prev.items, fresh);
   writeFileSync(AUTO_FILE, JSON.stringify({ updated: stamp(), status: "ok", provider: provider.name, items }, null, 2) + "\n");
   console.log(`Wrote ${AUTO_FILE} — ${items.length} posts (${fresh.length} matched this run).`);
+  const known = new Set((prev.items || []).map(it => it.id));
+  await notifyTelegram(items.filter(it => !known.has(it.id)));
 }
 
 // ---------- add-from-issue mode ----------
