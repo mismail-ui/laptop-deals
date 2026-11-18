@@ -8,7 +8,12 @@ name: Find IT disposal leads
 on:
   schedule:
     - cron: "23 5,17 * * *"   # twice a day (UTC) — search engines lag by a day or more anyway
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      telegram_test:
+        description: "Only send a test Telegram alert (no search)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,7 +32,15 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Send Telegram test
+        if: inputs.telegram_test
+        run: node scripts/buyback.mjs --telegram-test
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
       - name: Search for posts
+        if: ${{ !inputs.telegram_test }}
         run: node scripts/buyback.mjs
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
@@ -37,7 +50,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       - name: Commit if changed
-        if: github.ref == 'refs/heads/main'   # test runs from other branches only log
+        if: github.ref == 'refs/heads/main' && !inputs.telegram_test   # test runs only log
         run: |
           git config user.name  "deals-bot"
           git config user.email "deals-bot@users.noreply.github.com"
