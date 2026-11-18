@@ -90,7 +90,7 @@ body[data-mode="leads"] .dealsonly { display: none; }
   </div>
 
   <div class="leadsonly">
-    <div class="section-title" style="margin-top:0">Check LinkedIn yourself — opens your own LinkedIn search, past month, newest first</div>
+    <div class="section-title" style="margin-top:0">Check LinkedIn yourself — opens your own LinkedIn search for posts from the past week</div>
     <div class="retailers" id="lisearches" style="margin-bottom:18px"></div>
   </div>
 
@@ -173,7 +173,8 @@ function leadChips(label, which, current, values){
 }
 // Shortcuts into LinkedIn's own post search. They open in the visitor's logged-in
 // LinkedIn; nothing here reads LinkedIn automatically.
-// Exact phrases (in quotes): without them LinkedIn's "Latest" sort matches any of the words.
+// Sorted by LinkedIn's default "Top match": its "Latest" sort returned unrelated new posts
+// whatever the keywords were. Exact phrases (in quotes) keep results on topic.
 const LI_SEARCHES = [
   ['Recommendations wanted', '"IT equipment" "recommendations"'],
   ['IT equipment disposal', '"IT equipment disposal"'],
@@ -185,7 +186,7 @@ const LI_SEARCHES = [
   ['Laptops for sale', '"laptops for sale"']
 ];
 const liSearchUrl = q => 'https://www.linkedin.com/search/results/content/?keywords=' + encodeURIComponent(q) +
-  '&datePosted=' + encodeURIComponent('"past-month"') + '&sortBy=' + encodeURIComponent('"date_posted"') + '&origin=FACETED_SEARCH';
+  '&datePosted=' + encodeURIComponent('"past-week"') + '&origin=FACETED_SEARCH';
 document.getElementById('lisearches').innerHTML = LI_SEARCHES.map(([label, q]) =>
   `<a href="${esc(liSearchUrl(q))}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`).join('');
 const KIND_ORDER = ['Needs disposal','For sale','ITAD / buyer advert','Other'];
