@@ -89,6 +89,11 @@ body[data-mode="leads"] .dealsonly { display: none; }
     <br><a class="addpost" href="https://github.com/mismail-ui/laptop-deals/issues/new?template=add-linkedin-post.yml" target="_blank" rel="noopener">+ Add a post you've seen</a>
   </div>
 
+  <div class="leadsonly">
+    <div class="section-title" style="margin-top:0">Check LinkedIn yourself — opens your own LinkedIn search, past week, newest first</div>
+    <div class="retailers" id="lisearches" style="margin-bottom:18px"></div>
+  </div>
+
   <div class="bar">
     <input id="search" type="text" placeholder="Filter by model, brand, retailer or spec…">
     <select id="sort">
@@ -166,6 +171,21 @@ function leadChips(label, which, current, values){
   return `<span class="lbl">${label}</span>` + ['All', ...values].map(v =>
     `<button class="storechip ${v===current?'active':''}" data-which="${which}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
 }
+// Shortcuts into LinkedIn's own post search. They open in the visitor's logged-in
+// LinkedIn; nothing here reads LinkedIn automatically.
+const LI_SEARCHES = [
+  ['Disposal recommendations', '"IT equipment" disposal recommendations'],
+  ['Redundant IT equipment', '"redundant IT equipment"'],
+  ['Old laptops', '"old laptops" recommend'],
+  ['IT recycling wanted', '"IT recycling" looking for'],
+  ['ITAD recommendations', 'ITAD recommend'],
+  ['Office clearance', '"office clearance" IT equipment'],
+  ['Laptops for sale', 'laptops "for sale" surplus']
+];
+const liSearchUrl = q => 'https://www.linkedin.com/search/results/content/?keywords=' + encodeURIComponent(q) +
+  '&datePosted=' + encodeURIComponent('"past-week"') + '&sortBy=' + encodeURIComponent('"date_posted"') + '&origin=FACETED_SEARCH';
+document.getElementById('lisearches').innerHTML = LI_SEARCHES.map(([label, q]) =>
+  `<a href="${esc(liSearchUrl(q))}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`).join('');
 const KIND_ORDER = ['Needs disposal','For sale','ITAD / buyer advert','Other'];
 function renderLeads(){
   const seen = new Set();
