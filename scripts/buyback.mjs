@@ -97,7 +97,7 @@ export function queriesForRun(perRun, now = Date.now()){
 
 // ---------- understanding a post ----------
 
-const EQUIP_RE = /\b(laptops?|notebooks?|desktops?|workstations?|servers?|monitors?|macbooks?|imacs?|thinkpads?|elitebooks?|latitudes?|optiplex|chromebooks?|ipads?|iphones?|tablets?|smartphones?|thin clients?|docking stations?|it (?:equipment|assets?|hardware|kit|stock))\b/i;
+const EQUIP_RE = /\b(laptops?|notebooks?|desktops?|workstations?|servers?|monitors?|macbooks?|imacs?|thinkpads?|elitebooks?|latitudes?|optiplex|chromebooks?|ipads?|iphones?|tablets?|smartphones?|thin clients?|docking stations?|computers?|hard drives?|e-?waste|weee|itad|it (?:equipment|assets?|hardware|kit|stock|recycling|disposal))\b/i;
 const INTENT_RE = /\b(dispos\w+|recycl\w+|collect(?:ed|ion)|recommend\w*|weee|get rid of|clearance|for sale|available|in stock|stock (?:list|offer)|surplus|buy[\s-]?back|clearance|job lots?|wholesale|redundant|ex[\s-](?:corporate|lease|business|rental)|off[\s-]lease|end[\s-]of[\s-]lease|decommission\w*|trade (?:only|price|stock)|bulk|pallets?|units|qty|moq|offers? (?:invited|welcome)|we (?:buy|sell|have)|selling|wanted|wtb|wts|looking to (?:buy|sell|purchase|source))\b/i;
 const NOISE_RE = /\b(we(?:'|’)?re hiring|we are hiring|now hiring|job (?:opening|vacancy|opportunity)|vacancy|apply now|webinar|podcast|giveaway)\b/i;
 // Someone asking for help getting rid of kit — the posts worth replying to.
@@ -128,10 +128,21 @@ export function postDate(id){
   return (ms > Date.UTC(2015, 0, 1) && ms < Date.now() + DAY) ? ms : null;
 }
 
+// Google sometimes hands back a redirect (google.com/goto?…, /url?…) instead of the
+// page itself; the real address is one of its query parameters.
+export function unwrap(url){
+  try {
+    const u = new URL(String(url).trim());
+    if (!/(^|\.)google\.[a-z.]+$/.test(u.hostname)) return u.href;
+    for (const v of u.searchParams.values()) if (/^https?:\/\//i.test(v)) return v;
+    return u.href;
+  } catch { return String(url || ""); }
+}
+
 // Only LinkedIn post URLs are accepted; the query string (tracking) is dropped.
 export function canonicalLink(url){
   let u;
-  try { u = new URL(String(url).trim()); } catch { return null; }
+  try { u = new URL(unwrap(url)); } catch { return null; }
   if (u.protocol !== "https:") return null;
   if (u.hostname === "lnkd.in") return u.origin + u.pathname;
   if (!/(^|\.)linkedin\.com$/.test(u.hostname)) return null;
@@ -204,7 +215,7 @@ export function toItem({ title, url, snippet }, { now = Date.now(), manual = fal
   const no = reason => { onReject(reason); return null; };
   const link = canonicalLink(url);
   if (!link) return no("not a post link");
-  const host = (() => { try { return new URL(url).hostname; } catch { return ""; } })();
+  const host = (() => { try { return new URL(unwrap(url)).hostname; } catch { return ""; } })();
   const body = clean(snippet);
   const head = stripAuthor(title);
   const text = (head + " " + body + " " + clean(location)).trim();
@@ -301,7 +312,7 @@ async function runSearch(){
       const kept = [];
       for (const h of hits){
         const item = toItem(h, { onReject: why => {
-          let where = ""; try { const u = new URL(h.url); where = u.hostname + "/" + (u.pathname.split("/")[1] || ""); } catch {}
+          let where = ""; try { const raw = new URL(h.url), u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || "") + (raw.hostname.includes("google.") ? " ?" + [...raw.searchParams.keys()].join(",") : ""); } catch {}
           console.log(`  skip — ${why} — ${where} — ${stripAuthor(h.title).slice(0, 70)}`);
         } });
         if (item){ kept.push(item); console.log(`  keep — ${item.kind} — ${item.region} — ${item.posted || "undated"} — ${item.headline.slice(0, 70)}`); }

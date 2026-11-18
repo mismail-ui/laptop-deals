@@ -40,6 +40,8 @@ test("links", () => {
   assert.equal(canonicalLink("https://evil-linkedin.com/posts/a"), null);
   assert.equal(canonicalLink("https://www.linkedin.com/in/someone"), null);
   assert.equal(postDate("123"), null);
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://uk.linkedin.com/posts/a_b-activity-1?x=1") + "&sa=U"), "https://www.linkedin.com/posts/a_b-activity-1");
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://www.gumtree.com/for-sale")), null);
 });
 
 test("titles lose the poster's name", () => {
