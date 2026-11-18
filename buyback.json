@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-18 21:48 UTC",
+  "updated": "2026-11-18 21:57 UTC",
   "status": "ok",
   "provider": "serpapi",
-  "items": []
+  "items": [
+    {
+      "id": "7519336896553050112",
+      "headline": "... for sale, and how audit-ready reporting turns resale into a controlled ...",
+      "snippet": "... for sale, and how audit-ready reporting turns resale into a controlled ... For businesses retiring IT equipment, this puts more pressure on record ...",
+      "kind": "For sale",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-10-23",
+      "firstSeen": "2026-11-18",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/centerprise-international_cilifecycle-centerpriseinternational-itad-activity-7519336896553050112-nN9J"
+    }
+  ]
 }
