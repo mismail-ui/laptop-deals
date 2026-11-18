@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Laptop Deals Tracker — UK & US</title>
+<title>Laptop Deals Tracker — UK &amp; US</title>
 <style>
 :root { color-scheme: light; }
 * { box-sizing: border-box; }
@@ -55,7 +55,14 @@ header h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: -.01em; }
 .retailers a:hover { background: #eef3ff; border-color: #2455c2; }
 .banner { background: #fff6e6; border: 1px solid #f2dba8; color: #715315; font-size: 14px; padding: 13px 15px; border-radius: 12px; margin-bottom: 18px; }
 footer { margin-top: 32px; font-size: 13px; color: #9aa1ab; }
-.empty { padding: 40px; text-align: center; color: #8a929c; font-size: 15px; }
+.empty { padding: 40px; text-align: center; color: #8a929c; font-size: 15px; grid-column: 1 / -1; }
+.leadsonly { display: none; }
+body[data-mode="leads"] .leadsonly { display: block; }
+body[data-mode="leads"] .dealsonly { display: none; }
+.chip.lead { background: #e8f7ee; color: #1a7f4b; font-weight: 700; }
+.chip.sale { background: #fff1dc; color: #8a5a00; font-weight: 700; }
+.snippet { font-size: 13.5px; color: #41495a; overflow-wrap: anywhere; }
+.addpost { display: inline-block; margin-top: 8px; font-weight: 700; color: #1f4fb8; }
 </style>
 </head>
 <body>
@@ -68,12 +75,18 @@ footer { margin-top: 32px; font-size: 13px; color: #9aa1ab; }
   <div class="regiontabs">
     <button id="tab-uk" class="active" onclick="setRegion('uk')">🇬🇧 UK (£)</button>
     <button id="tab-us" onclick="setRegion('us')">🇺🇸 US ($)</button>
+    <button id="tab-leads" onclick="setRegion('leads')">♻️ IT disposal leads</button>
   </div>
 
   <div class="storefilter" id="storefilter"></div>
 
-  <div class="banner">
+  <div class="banner dealsonly">
     Live deals pulled hourly from community deal feeds (hotukdeals, dealnews, Slickdeals) and refreshed automatically — no app needed. Discounts and specs are shown where the source provides them; always confirm price and spec on the retailer's site before buying.
+  </div>
+
+  <div class="banner leadsonly">
+    Public LinkedIn posts from organisations in the UK and Europe that want redundant IT equipment collected, disposed of or sold — found through a web-search engine twice a day (last checked: <strong id="leads-updated">—</strong>). Search engines only see public posts and can lag by a day or more, so add anything you spot yourself.
+    <br><a class="addpost" href="https://github.com/mismail-ui/laptop-deals/issues/new?template=add-linkedin-post.yml" target="_blank" rel="noopener">+ Add a post you've seen</a>
   </div>
 
   <div class="bar">
@@ -88,8 +101,8 @@ footer { margin-top: 32px; font-size: 13px; color: #9aa1ab; }
 
   <div class="cards" id="cards"></div>
 
-  <div class="section-title">Browse every seller's deals page</div>
-  <div class="retailers" id="retailers"></div>
+  <div class="section-title dealsonly">Browse every seller's deals page</div>
+  <div class="retailers dealsonly" id="retailers"></div>
 
   <footer>
     Auto-updating via GitHub Actions + Vercel. Data curated from public deal feeds. Not affiliated with any retailer; no prices guaranteed.
@@ -122,6 +135,9 @@ const RETAILERS = {
 };
 
 let DATA = { updated: "—", uk: [], us: [] };
+let LEADS = { status: "loading", updated: null, items: [] };
+let MANUAL = { items: [] };
+let leadRegion = "All", leadKind = "All";
 let region = "uk";
 let store = "All";
 const cardsEl = document.getElementById('cards');
@@ -133,7 +149,66 @@ const storeFilterEl = document.getElementById('storefilter');
 
 function pct(d){ return (d.was && d.was > d.price) ? Math.round((1 - d.price/d.was) * 100) : null; }
 function specRow(k,v){ return (v && v !== "—") ? `<div><span>${k}</span><span>${v}</span></div>` : ""; }
-function setRegion(r){ region = r; store = "All"; document.getElementById('tab-uk').classList.toggle('active', r==='uk'); document.getElementById('tab-us').classList.toggle('active', r==='us'); render(); }
+const DEAL_SORTS = [['disc','Sort: biggest discount'],['priceup','Sort: price low → high'],['pricedown','Sort: price high → low']];
+const LEAD_SORTS = [['newest','Sort: newest first'],['qty','Sort: largest quantity']];
+function setRegion(r){
+  region = r; store = "All";
+  for (const t of ['uk','us','leads']) document.getElementById('tab-'+t).classList.toggle('active', r===t);
+  const leads = r === 'leads';
+  document.body.dataset.mode = leads ? 'leads' : 'deals';
+  sortEl.innerHTML = (leads ? LEAD_SORTS : DEAL_SORTS).map(([v,l]) => `<option value="${v}">${l}</option>`).join('');
+  searchEl.placeholder = leads ? 'Filter by keyword, model or place…' : 'Filter by model, brand, retailer or spec…';
+  render();
+}
+function esc(v){ return String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function setLeadFilter(which, v){ if (which === 'region') leadRegion = v; else leadKind = v; render(); }
+function leadChips(label, which, current, values){
+  return `<span class="lbl">${label}</span>` + ['All', ...values].map(v =>
+    `<button class="storechip ${v===current?'active':''}" data-which="${which}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
+}
+const KIND_ORDER = ['Needs disposal','For sale','ITAD / buyer advert','Other'];
+function renderLeads(){
+  const seen = new Set();
+  const cutoff = Date.now() - 90 * 86400000;
+  const all = [...(MANUAL.items || []), ...(LEADS.items || [])].filter(d => {
+    if (!d || seen.has(d.id) || !/^https:\/\/(www\.linkedin\.com|lnkd\.in)\//.test(d.link || '')) return false;
+    if ((Date.parse(d.posted || d.firstSeen) || 0) < cutoff) return false;
+    seen.add(d.id); return true;
+  });
+  const regions = ['UK','Europe','Unspecified'].filter(r => all.some(d => d.region === r));
+  const kinds = KIND_ORDER.filter(k => all.some(d => d.kind === k));
+  if (!regions.includes(leadRegion)) leadRegion = 'All';
+  if (!kinds.includes(leadKind)) leadKind = 'All';
+  storeFilterEl.innerHTML = leadChips('Where', 'region', leadRegion, regions) + leadChips('Type', 'kind', leadKind, kinds);
+  storeFilterEl.querySelectorAll('button').forEach(b => b.onclick = () => setLeadFilter(b.dataset.which, b.dataset.v));
+  const q = searchEl.value.trim().toLowerCase();
+  const list = all.filter(d =>
+    (leadRegion === 'All' || d.region === leadRegion) && (leadKind === 'All' || d.kind === leadKind) &&
+    (!q || [d.headline, d.snippet, d.kind, d.region, (d.models || []).join(' ')].join(' ').toLowerCase().includes(q)));
+  const when = d => Date.parse(d.posted || d.firstSeen) || 0;
+  list.sort((a, b) => sortEl.value === 'qty' ? (b.qty || 0) - (a.qty || 0) || when(b) - when(a) : when(b) - when(a));
+  document.getElementById('leads-updated').textContent = LEADS.updated || 'not yet';
+  if (!list.length){
+    const why = all.length ? 'No posts match these filters.'
+      : LEADS.status === 'no-key' ? 'Automatic search isn’t switched on yet — it needs a search API key added to the repository (see the README). You can still add posts by hand with the link above.'
+      : 'No posts found yet — the next search will add any that turn up.';
+    cardsEl.innerHTML = `<div class="empty">${why}</div>`;
+  } else cardsEl.innerHTML = list.map(d => {
+    const specs = [specRow('Quantity', d.qty ? esc(Number(d.qty).toLocaleString('en-GB')) : ''), specRow('Models', esc((d.models || []).join(', '))), specRow('Price', esc(d.price || '')), specRow(d.posted ? 'Posted' : 'Found', esc(d.posted || d.firstSeen || ''))].join('');
+    return `<div class="card">
+      <div class="top"><span class="model">${esc(d.headline)}</span></div>
+      <div class="meta">
+        <span class="chip ${d.kind === 'Needs disposal' ? 'lead' : d.kind === 'For sale' ? 'sale' : ''}">${esc(d.kind)}</span>
+        <span class="chip retailer">${esc(d.region)}</span>
+        ${d.source === 'manual' ? '<span class="chip">Added by hand</span>' : ''}
+      </div>
+      ${d.snippet && d.snippet !== d.headline ? `<div class="snippet">${esc(d.snippet)}</div>` : ''}
+      ${specs ? `<div class="specs">${specs}</div>` : ''}
+      <a class="link" href="${esc(d.link)}" target="_blank" rel="noopener noreferrer">Open post on LinkedIn →</a>
+    </div>`;
+  }).join('');
+  countEl.textContent = list.length + ' post' + (list.length === 1 ? '' : 's');
+}
 function setStore(s){ store = s; render(); }
 const sym = () => region === 'uk' ? '£' : '$';
 
@@ -146,6 +221,7 @@ function renderStoreChips(){
 }
 
 function render(){
+  if (region === 'leads') return renderLeads();
   renderStoreChips();
   const s$ = sym();
   const q = searchEl.value.trim().toLowerCase();
@@ -195,6 +271,10 @@ fetch('./deals.json?t=' + Date.now())
   .then(r => r.json())
   .then(j => { DATA = j; document.getElementById('updated').textContent = j.updated || '—'; render(); })
   .catch(() => { document.getElementById('updated').textContent = 'feed unavailable'; render(); });
+const loadJson = (f, fallback) => fetch('./' + f + '?t=' + Date.now()).then(r => r.ok ? r.json() : fallback).catch(() => fallback);
+Promise.all([loadJson('buyback.json', { status: 'error', items: [] }), loadJson('buyback-manual.json', { items: [] })])
+  .then(([a, m]) => { LEADS = a; MANUAL = m; if (region === 'leads') render(); });
+if (location.hash === '#leads') setRegion('leads');
 </script>
 </body>
 </html>

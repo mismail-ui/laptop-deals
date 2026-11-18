@@ -56,10 +56,42 @@ Discovery stays free via RSS; only spec-filling uses the API. Ask and this can
 be wired in: it reads an `ANTHROPIC_API_KEY` GitHub secret and enriches
 `deals.json` before commit.
 
+## IT disposal leads tab (LinkedIn posts)
+
+The **♻️ IT disposal leads** tab lists public LinkedIn posts from organisations
+in the UK and Europe that want redundant IT equipment collected, disposed of or
+sold (plus traders listing surplus stock).
+
+It does **not** log in to or scrape LinkedIn. Twice a day
+`.github/workflows/buyback.yml` runs `scripts/buyback.mjs`, which asks a
+web-search API for matching public posts and writes `buyback.json`. Cards show
+the post text, type, region, and any quantity / models / price it can pick out,
+with a link to the post. The poster's name is not shown.
+
+**To switch it on**, add ONE search key as a repository secret
+(repo → Settings → Secrets and variables → Actions → New repository secret):
+
+| Secret name | Service | Notes |
+|---|---|---|
+| `SERPAPI_KEY` | serpapi.com | Google results — best coverage of LinkedIn posts. Small free monthly allowance; the job is sized to about 240 searches a month. |
+| `TAVILY_API_KEY` | tavily.com | Free monthly allowance, no card needed. |
+| `BRAVE_API_KEY` | Brave Search API | Monthly credit; needs a card on file. |
+
+Check the provider's current free allowance before signing up — they change.
+Then run **Actions → Find IT disposal leads → Run workflow** once.
+
+**Limits:** search engines only index public posts, often a day or more late,
+and miss many. For anything you spot in your own feed, use **+ Add a post
+you've seen** on the tab: it opens a short GitHub form (link + pasted text), and
+`.github/workflows/add-post.yml` adds it to `buyback-manual.json`. Only the repo
+owner / collaborators can add posts. The repo is public, so what you paste is too.
+
 ## Run locally (optional)
 
 ```
 node scripts/refresh.mjs   # writes deals.json
+SERPAPI_KEY=... node scripts/buyback.mjs   # writes buyback.json (optional)
+node --test scripts/buyback.test.mjs       # tests for the leads finder
 # then open index.html via a local server, e.g.:
 npx serve .
 ```

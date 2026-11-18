@@ -1,0 +1,48 @@
+name: Find IT disposal leads
+
+# Looks for public LinkedIn posts from organisations that want redundant IT
+# equipment collected, disposed of or sold. Uses a web-search API — it never
+# logs in to or scrapes LinkedIn. Does nothing until one search key is added
+# as a repository secret: SERPAPI_KEY, TAVILY_API_KEY or BRAVE_API_KEY.
+
+on:
+  schedule:
+    - cron: "23 5,17 * * *"   # twice a day (UTC) — search engines lag by a day or more anyway
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buyback-search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Search for posts
+        run: node scripts/buyback.mjs
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "deals-bot"
+          git config user.email "deals-bot@users.noreply.github.com"
+          git add buyback.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh disposal leads ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git pull --rebase --autostash origin main || true
+            git push || (git pull --rebase --autostash origin main && git push)
+          fi
