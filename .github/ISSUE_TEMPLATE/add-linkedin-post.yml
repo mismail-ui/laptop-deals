@@ -1,0 +1,28 @@
+name: Add a LinkedIn post
+description: Add a post you spotted on LinkedIn to the Leads tab.
+title: "Add LinkedIn post"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This repository is public, so anything pasted here is public too. Leave out names, emails and phone numbers.
+  - type: input
+    id: link
+    attributes:
+      label: Post link
+      description: On the post, tap ⋯ → "Copy link to post".
+      placeholder: https://www.linkedin.com/posts/...
+    validations:
+      required: true
+  - type: textarea
+    id: text
+    attributes:
+      label: Post text
+      description: Paste the post's text. Quantity, models, price and location are picked out automatically.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Optional — e.g. "Manchester, UK" if the post doesn't say.

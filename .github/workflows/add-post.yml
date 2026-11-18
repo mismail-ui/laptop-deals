@@ -1,0 +1,58 @@
+name: Add a LinkedIn post by hand
+
+# Opening an "Add a LinkedIn post" issue (the button on the Leads tab) adds
+# that post to buyback-manual.json and closes the issue.
+# Only the repo owner / collaborators can trigger it.
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  add:
+    if: >-
+      startsWith(github.event.issue.title, 'Add LinkedIn post') &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Add post and push
+        run: |
+          git config user.name  "deals-bot"
+          git config user.email "deals-bot@users.noreply.github.com"
+          # Re-apply on top of the latest main if another run pushed first.
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/buyback.mjs --add 2> add-error.txt || { cat add-error.txt; exit 1; }
+            git add buyback-manual.json
+            if git diff --staged --quiet; then echo "Already added."; exit 0; fi
+            git commit -m "chore: add LinkedIn post from issue #$ISSUE"
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 3))
+          done
+          echo "Could not push after 3 attempts." > add-error.txt
+          exit 1
+
+      - name: Close the issue
+        run: gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY" --comment "Added — it will appear on the Leads tab once the site redeploys (about a minute)."
+
+      - name: Say what went wrong
+        if: failure()
+        run: |
+          { echo "Couldn't add this post:"; echo; cat add-error.txt 2>/dev/null || echo "see the workflow run log."; } > comment.txt
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file comment.txt
