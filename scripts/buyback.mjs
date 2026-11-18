@@ -28,18 +28,18 @@ const DAY = 86400000;
 // Every block of four is three UK queries and one Europe query.
 // q = operator form (Google / Brave); plain = natural-language form (Tavily).
 export const QUERIES = [
-  { q: 'site:linkedin.com/posts "looking for recommendations" ("IT equipment" OR laptops) (disposal OR recycling) UK', plain: "looking for recommendations IT equipment disposal recycling UK" },
-  { q: 'site:linkedin.com/posts ("dispose of" OR "disposal of") ("old laptops" OR "redundant IT" OR "IT equipment") (recommend OR recommendations) UK', plain: "need to dispose of redundant IT equipment old laptops recommendations UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" (collected OR collection) (recycling OR disposal) "can anyone recommend"', plain: "can anyone recommend IT equipment collection recycling disposal UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" (disposal OR recycling) (recommendations OR "looking for") (Ireland OR Netherlands OR Germany OR Europe)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
-  { q: 'site:linkedin.com/posts ITAD (recommend OR recommendations OR "looking for") (provider OR company) UK', plain: "looking for ITAD provider recommendations UK" },
-  { q: 'site:linkedin.com/posts "old laptops" ("get rid of" OR recycle OR sell OR donate) (anyone OR recommend) UK', plain: "old laptops to get rid of recycle sell anyone recommend UK" },
-  { q: 'site:linkedin.com/posts WEEE "IT equipment" "looking for" (provider OR company OR recommendations)', plain: "looking for WEEE IT equipment disposal provider recommendations" },
-  { q: 'site:linkedin.com/posts ("hard drive destruction" OR "data destruction" OR "IT disposal") "looking for" (provider OR recommendations) (Ireland OR EU OR Europe)', plain: "looking for hard drive destruction IT disposal provider Ireland Europe" },
-  { q: 'site:linkedin.com/posts ("office clearance" OR "office closure" OR "office move") (laptops OR monitors OR "IT equipment") (sell OR disposal OR recycle) UK', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
-  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR "job lot" OR "ex-corporate" OR redundant) UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" ("for sale" OR surplus OR clearance) UK', plain: "IT equipment for sale surplus clearance UK" },
-  { q: 'site:linkedin.com/posts ("off-lease" OR "ex-lease" OR surplus) laptops ("for sale" OR available) (Europe OR EU OR Netherlands OR Germany)', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
+  { q: 'site:linkedin.com/posts "IT equipment" disposal recommendations', plain: "looking for recommendations IT equipment disposal recycling UK" },
+  { q: 'site:linkedin.com/posts "old laptops" recommend recycle', plain: "old laptops to get rid of recycle anyone recommend UK" },
+  { q: 'site:linkedin.com/posts "redundant IT equipment" collected', plain: "redundant IT equipment needs to be collected disposed UK" },
+  { q: 'site:linkedin.com/posts "IT equipment" disposal recommendations (Ireland OR Netherlands OR Germany)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
+  { q: 'site:linkedin.com/posts ITAD "can anyone recommend"', plain: "can anyone recommend ITAD provider UK" },
+  { q: 'site:linkedin.com/posts "old IT equipment" anyone UK', plain: "old IT equipment does anyone want or recommend disposal UK" },
+  { q: 'site:linkedin.com/posts "dispose of" laptops recommendations UK', plain: "need to dispose of laptops recommendations UK" },
+  { q: 'site:linkedin.com/posts "IT recycling" "looking for" Europe', plain: "looking for IT recycling hard drive destruction provider Europe" },
+  { q: 'site:linkedin.com/posts "office clearance" laptops monitors', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
+  { q: 'site:linkedin.com/posts laptops "for sale" surplus UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
+  { q: 'site:linkedin.com/posts "IT equipment" "for sale" UK', plain: "IT equipment for sale surplus clearance UK" },
+  { q: 'site:linkedin.com/posts laptops "for sale" surplus Europe', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
 ];
 
 // ---------- search providers ----------
@@ -301,12 +301,12 @@ async function runSearch(){
       const kept = [];
       for (const h of hits){
         const item = toItem(h, { onReject: why => {
-          let where = ""; try { where = new URL(h.url).pathname.split("/")[1] || ""; } catch {}
-          console.log(`  skip — ${why} — /${where}/ — ${stripAuthor(h.title).slice(0, 70)}`);
+          let where = ""; try { const u = new URL(h.url); where = u.hostname + "/" + (u.pathname.split("/")[1] || ""); } catch {}
+          console.log(`  skip — ${why} — ${where} — ${stripAuthor(h.title).slice(0, 70)}`);
         } });
-        if (item) kept.push(item);
+        if (item){ kept.push(item); console.log(`  keep — ${item.kind} — ${item.region} — ${item.posted || "undated"} — ${item.headline.slice(0, 70)}`); }
       }
-      console.log(`${provider.name}: ${hits.length} results, ${kept.length} relevant — ${query.plain}`);
+      console.log(`${provider.name}: ${hits.length} results, ${kept.length} relevant — ${provider.name === "tavily" ? query.plain : query.q}`);
       fresh.push(...kept);
     } catch (e){
       failed++;
