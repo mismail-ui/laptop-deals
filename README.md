@@ -73,12 +73,18 @@ with a link to the post. The poster's name is not shown.
 
 | Secret name | Service | Notes |
 |---|---|---|
-| `SERPAPI_KEY` | serpapi.com | Google results — best coverage of LinkedIn posts. Small free monthly allowance; the job is sized to about 240 searches a month. |
+| `SERPAPI_KEY` | serpapi.com | Google results — best coverage of LinkedIn posts. Small free monthly allowance; the job is sized to about 180 searches a month. |
 | `TAVILY_API_KEY` | tavily.com | Free monthly allowance, no card needed. |
 | `BRAVE_API_KEY` | Brave Search API | Monthly credit; needs a card on file. |
 
 Check the provider's current free allowance before signing up — they change.
 Then run **Actions → Find IT disposal leads → Run workflow** once.
+
+**Telegram alerts (optional):** create a bot with @BotFather in Telegram, send
+your new bot any message, then add two more repository secrets:
+`TELEGRAM_BOT_TOKEN` (the token BotFather gives you) and `TELEGRAM_CHAT_ID`
+(your numeric chat id — @userinfobot will tell you). Each newly found
+"Needs disposal" or "For sale" post is then sent to that chat.
 
 **Limits:** search engines only index public posts, often a day or more late,
 and miss many. For anything you spot in your own feed, use **+ Add a post

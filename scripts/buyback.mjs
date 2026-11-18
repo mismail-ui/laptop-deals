@@ -28,18 +28,18 @@ const DAY = 86400000;
 // Every block of four is three UK queries and one Europe query.
 // q = operator form (Google / Brave); plain = natural-language form (Tavily).
 export const QUERIES = [
-  { q: 'site:linkedin.com/posts "IT equipment" disposal recommendations', plain: "looking for recommendations IT equipment disposal recycling UK" },
-  { q: 'site:linkedin.com/posts "old laptops" recommend recycle', plain: "old laptops to get rid of recycle anyone recommend UK" },
-  { q: 'site:linkedin.com/posts "redundant IT equipment" collected', plain: "redundant IT equipment needs to be collected disposed UK" },
-  { q: 'site:linkedin.com/posts "IT equipment" disposal recommendations (Ireland OR Netherlands OR Germany)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
-  { q: 'site:linkedin.com/posts ITAD "can anyone recommend"', plain: "can anyone recommend ITAD provider UK" },
-  { q: 'site:linkedin.com/posts "old IT equipment" anyone UK', plain: "old IT equipment does anyone want or recommend disposal UK" },
-  { q: 'site:linkedin.com/posts "dispose of" laptops recommendations UK', plain: "need to dispose of laptops recommendations UK" },
-  { q: 'site:linkedin.com/posts "IT recycling" "looking for" Europe', plain: "looking for IT recycling hard drive destruction provider Europe" },
-  { q: 'site:linkedin.com/posts "office clearance" laptops monitors', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
-  { q: 'site:linkedin.com/posts laptops "for sale" surplus UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
+  { q: 'site:linkedin.com/posts "looking for recommendations" "IT equipment" disposal', plain: "looking for recommendations IT equipment disposal recycling UK" },
+  { q: 'site:linkedin.com/posts "can anyone recommend" (laptops OR "IT equipment") (recycling OR disposal)', plain: "can anyone recommend company to recycle or dispose of old laptops IT equipment UK" },
+  { q: 'site:linkedin.com/posts "redundant IT equipment" (collected OR "looking for" OR recommend)', plain: "redundant IT equipment needs to be collected disposed looking for provider UK" },
+  { q: 'site:linkedin.com/posts "IT equipment" disposal "looking for" (Ireland OR Netherlands OR Germany OR Europe)', plain: "looking for IT equipment disposal recycling provider Ireland Netherlands Germany Europe" },
+  { q: 'site:linkedin.com/posts "any recommendations" ("old laptops" OR "old IT equipment" OR "IT disposal")', plain: "any recommendations for disposing of old laptops old IT equipment UK" },
+  { q: 'site:linkedin.com/posts "old laptops" ("does anyone" OR "anyone know" OR "get rid of") UK', plain: "old laptops does anyone know who can take them get rid of UK" },
+  { q: 'site:linkedin.com/posts "dispose of" laptops ("looking for" OR recommend) UK', plain: "need to dispose of laptops looking for recommendations UK" },
+  { q: 'site:linkedin.com/posts ("IT recycling" OR "IT disposal" OR ITAD) "looking for a" (provider OR company OR partner) Europe', plain: "looking for an IT recycling or ITAD provider Europe" },
+  { q: 'site:linkedin.com/posts ("office clearance" OR "office closure") (laptops OR monitors OR "IT equipment")', plain: "office clearance closure laptops monitors IT equipment to sell or dispose UK" },
+  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR redundant OR "job lot") UK', plain: "surplus redundant ex-corporate laptops for sale job lot UK" },
   { q: 'site:linkedin.com/posts "IT equipment" "for sale" UK', plain: "IT equipment for sale surplus clearance UK" },
-  { q: 'site:linkedin.com/posts laptops "for sale" surplus Europe', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
+  { q: 'site:linkedin.com/posts laptops "for sale" (surplus OR "off-lease" OR "ex-lease") Europe', plain: "off-lease ex-lease surplus laptops for sale Europe Netherlands Germany" }
 ];
 
 // ---------- search providers ----------
@@ -52,7 +52,7 @@ async function getJson(url, init){
 
 export const PROVIDERS = {
   serpapi: {
-    env: "SERPAPI_KEY", perRun: 4,   // 4 x 2 runs/day ≈ 240 searches/month
+    env: "SERPAPI_KEY", perRun: 3,   // 3 x 2 runs/day ≈ 180 searches/month
     async search(query, key){
       const u = new URL("https://serpapi.com/search.json");
       for (const [k, v] of Object.entries({ engine: "google", q: query.q, gl: "uk", hl: "en", num: "20", tbs: "qdr:m3,sbd:1", api_key: key })) u.searchParams.set(k, v);
@@ -134,7 +134,13 @@ export function unwrap(url){
   try {
     const u = new URL(String(url).trim());
     if (!/(^|\.)google\.[a-z.]+$/.test(u.hostname)) return u.href;
-    for (const v of u.searchParams.values()) if (/^https?:\/\//i.test(v)) return v;
+    for (let v of u.searchParams.values()){
+      for (let i = 0; i < 2 && /%2F/i.test(v); i++){ try { v = decodeURIComponent(v); } catch { break; } }
+      v = v.trim();
+      if (v.startsWith("//")) v = "https:" + v;
+      else if (/^([a-z0-9-]+\.)*linkedin\.com\//i.test(v)) v = "https://" + v;
+      if (/^https?:\/\//i.test(v)) return v;
+    }
     return u.href;
   } catch { return String(url || ""); }
 }
@@ -314,7 +320,7 @@ async function runSearch(){
       const kept = [];
       for (const h of hits){
         const item = toItem(h, { onReject: why => {
-          let where = ""; try { const raw = new URL(h.url), u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || "") + (raw.hostname.includes("google.") ? " ?" + [...raw.searchParams.keys()].join(",") : ""); } catch {}
+          let where = ""; try { const raw = new URL(h.url), u = new URL(unwrap(h.url)); where = u.hostname + "/" + (u.pathname.split("/")[1] || "") + (u.hostname.includes("google.") ? " ?url=" + String(raw.searchParams.get("url")).slice(0, 34) : ""); } catch {}
           console.log(`  skip — ${why} — ${where} — ${stripAuthor(h.title).slice(0, 70)}`);
         } });
         if (item){ kept.push(item); console.log(`  keep — ${item.kind} — ${item.region} — ${item.posted || "undated"} — ${item.headline.slice(0, 70)}`); }

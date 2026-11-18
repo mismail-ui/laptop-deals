@@ -43,6 +43,8 @@ test("links", () => {
   assert.equal(postDate("123"), null);
   assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://uk.linkedin.com/posts/a_b-activity-1?x=1") + "&sa=U"), "https://www.linkedin.com/posts/a_b-activity-1");
   assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent("https://www.gumtree.com/for-sale")), null);
+  assert.equal(canonicalLink("https://www.google.com/goto?url=" + encodeURIComponent(encodeURIComponent("https://www.linkedin.com/posts/a_b-activity-1"))), "https://www.linkedin.com/posts/a_b-activity-1");
+  assert.equal(canonicalLink("https://www.google.com/goto?url=uk.linkedin.com/posts/a_b-activity-1"), "https://www.linkedin.com/posts/a_b-activity-1");
 });
 
 test("titles lose the poster's name", () => {
@@ -76,7 +78,7 @@ test("issue form parsing", () => {
 
 test("query rotation covers every query and provider choice follows the key", () => {
   const seen = new Set();
-  for (let s = 0; s < 6; s++) queriesForRun(4, s * 12 * 3600 * 1000).forEach(q => seen.add(q.q));
+  for (let s = 0; s < 6; s++) queriesForRun(3, s * 12 * 3600 * 1000).forEach(q => seen.add(q.q));
   assert.equal(seen.size, QUERIES.length);
   assert.equal(pickProvider({}), null);
   assert.equal(pickProvider({ TAVILY_API_KEY: "k" }).name, "tavily");
