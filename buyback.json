@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-18 21:57 UTC",
+  "updated": "2026-11-19 14:30 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
+    {
+      "id": "7522948373553803264",
+      "headline": "... any recommendations!",
+      "snippet": "... any recommendations! #ITAssetDisposal #ITAD #WEEE #ITRecycling ... Close menu. I would suggest contacting any of these companies Vyta n2s Rapid IT Lifecycle Asset ...",
+      "kind": "Needs disposal",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-02",
+      "firstSeen": "2026-11-19",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/mark-bricknell_itassetdisposal-itad-weee-activity-7522948373553803264-ZvgS"
+    },
     {
       "id": "7519336896553050112",
       "headline": "... for sale, and how audit-ready reporting turns resale into a controlled ...",
