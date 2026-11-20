@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-19 23:37 UTC",
+  "updated": "2026-11-20 14:08 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
+    {
+      "id": "7526186320017158144",
+      "headline": "KLK Networks has some great refurbished laptops for sale!",
+      "snippet": "KLK Networks has some great refurbished laptops for sale! Contact information is included on the flyer. #supportsmallbusiness. No alternative text ...",
+      "kind": "For sale",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-11",
+      "firstSeen": "2026-11-20",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/the-big-goal_togetherchanginglivesthroughfootball-ewaste-activity-7526186320017158144-S01J"
+    },
     {
       "id": "7522948373553803264",
       "headline": "... any recommendations!",
