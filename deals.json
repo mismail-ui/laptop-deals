@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21 22:00 UTC",
+  "updated": "2026-11-22 02:48 UTC",
   "uk": [
     {
       "model": "Apple 13-Inch MacBook Neo (2026) - A18 Pro Chip with 6‑Core CPU and 5‑Core GP…",
@@ -245,7 +245,7 @@
       "price": 1569,
       "was": null,
       "cat": "Gaming",
-      "cpu": "Intel Ultra 9 275HX",
+      "cpu": "Intel Core Ultra 9 275HX",
       "ram": "16GB",
       "storage": "1TB",
       "screen": "16\" WQXGA 240Hz",
@@ -454,7 +454,7 @@
       "cpu": "Ryzen AI 5 430",
       "ram": "—",
       "storage": "—",
-      "screen": "14\" OLED 2-in-1",
+      "screen": "14\" OLED",
       "gpu": "—",
       "battery": "—",
       "weight": "—",
