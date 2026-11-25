@@ -1,8 +1,22 @@
 {
-  "updated": "2026-11-24 15:58 UTC",
+  "updated": "2026-11-25 01:28 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
+    {
+      "id": "7528836388616613888",
+      "headline": "Looking for recommendations – IT Equipment Disposal & Recycling I'm looking to connect with companies special…",
+      "snippet": "Looking for recommendations – IT Equipment Disposal & Recycling I'm looking to connect with companies specialising in the secure and environmentally ...",
+      "kind": "Needs disposal",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-18",
+      "firstSeen": "2026-11-25",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/hermann-kann-a77a7761_looking-for-recommendations-it-equipment-activity-7528836388616613888-VN5b"
+    },
     {
       "id": "7526186320017158144",
       "headline": "KLK Networks has some great refurbished laptops for sale!",
