@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 15:46 UTC",
+  "updated": "2026-11-26 01:02 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
@@ -30,6 +30,20 @@
       "firstSeen": "2026-11-20",
       "source": "search",
       "link": "https://www.linkedin.com/posts/the-big-goal_togetherchanginglivesthroughfootball-ewaste-activity-7526186320017158144-S01J"
+    },
+    {
+      "id": "7525860331470884865",
+      "headline": "Laptops, servers and printers left behind are another, because ...",
+      "snippet": "Laptops, servers and printers left behind are another, because ... Office Clearance for Landlords London redeploy.eco.",
+      "kind": "For sale",
+      "region": "UK",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-10",
+      "firstSeen": "2026-11-26",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/redeploy-technology-asset-clearance_office-clearance-for-landlords-london-activity-7525860331470884865-PgCW"
     },
     {
       "id": "7524470455403986944",
@@ -156,6 +170,20 @@
       "firstSeen": "2026-11-24",
       "source": "search",
       "link": "https://www.linkedin.com/posts/the-host-broker-the-msp-broker_the-msp-finance-flywheel-for-sale-ready-businesses-activity-7516532117825060865-AVwA"
+    },
+    {
+      "id": "7516242818118492160",
+      "headline": "Reduce E-Waste, Boost Social Impact with REvivED Tech ...",
+      "snippet": "... looking for a more responsible way to manage ... dispose of our redundant IT?\" It should be: \"What ... devices for struggling schools and Veterans IT Centres across ...",
+      "kind": "Needs disposal",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-10-14",
+      "firstSeen": "2026-11-26",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/simon-priest-87372a58_revivedtech-circulareconomy-itad-activity-7516242818118492160-eYSY"
     },
     {
       "id": "7515333487055413249",
