@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 15:27 UTC",
+  "updated": "2026-11-27 01:02 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
@@ -30,6 +30,20 @@
       "firstSeen": "2026-11-20",
       "source": "search",
       "link": "https://www.linkedin.com/posts/the-big-goal_togetherchanginglivesthroughfootball-ewaste-activity-7526186320017158144-S01J"
+    },
+    {
+      "id": "7526283436852985856",
+      "headline": "Looking for a logistics partner that understands the full technology lifecycle?",
+      "snippet": "Looking for a logistics partner that understands the full technology lifecycle? ... redundant IT equipment into something useful, while making sure the ...",
+      "kind": "Needs disposal",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-11",
+      "firstSeen": "2026-11-27",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/tech3pl_it-asset-disposal-is-about-more-than-getting-activity-7526283436852985856-h4XI"
     },
     {
       "id": "7525860331470884865",
@@ -75,8 +89,8 @@
     },
     {
       "id": "7522948373553803264",
-      "headline": "... any recommendations!",
-      "snippet": "... any recommendations! #ITAssetDisposal #ITAD #WEEE #ITRecycling ... Close menu. I would suggest contacting any of these companies Vyta n2s Rapid IT Lifecycle Asset ...",
+      "headline": "Recommendations Wanted – IT Asset Disposal / Recycling (WEEE) We're looking to clear a substantial quantity o…",
+      "snippet": "Recommendations Wanted – IT Asset Disposal / Recycling (WEEE) We're looking to clear a substantial quantity of redundant IT equipment accumulated over the ...",
       "kind": "Needs disposal",
       "region": "Unspecified",
       "qty": null,
@@ -128,6 +142,20 @@
       "firstSeen": "2026-11-24",
       "source": "search",
       "link": "https://www.linkedin.com/posts/himanshu-reddy-pm_induxitllp-ewastemanagement-sustainability-activity-7518566810179231744-sdiA"
+    },
+    {
+      "id": "7518239152568700928",
+      "headline": "Lowe & Oliver Partners with J Brand for Secure IT Asset Disposal",
+      "snippet": "... redundant IT equipment. With data protection ... Looking for a reliable ITAD and e-waste disposal partner? ... recommend the most energy efficient means ...",
+      "kind": "Needs disposal",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-10-20",
+      "firstSeen": "2026-11-27",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/lowe-oliver_lowe-oliver-is-pleased-to-be-working-with-activity-7518239152568700928-GKTB"
     },
     {
       "id": "7516679596285575169",
