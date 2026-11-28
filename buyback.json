@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27 15:17 UTC",
+  "updated": "2026-11-28 00:35 UTC",
   "status": "ok",
   "provider": "serpapi",
   "items": [
@@ -16,6 +16,20 @@
       "firstSeen": "2026-11-25",
       "source": "search",
       "link": "https://www.linkedin.com/posts/hermann-kann-a77a7761_looking-for-recommendations-it-equipment-activity-7528836388616613888-VN5b"
+    },
+    {
+      "id": "7528370105655681024",
+      "headline": "... laptops. 3. Real People, Fast Turnaround: Need an urgent office clearance before a lease dilapidation dea…",
+      "snippet": "... laptops. 3. Real People, Fast Turnaround: Need an urgent office clearance before a lease dilapidation deadline on Friday? You speak directly to our ...",
+      "kind": "For sale",
+      "region": "Unspecified",
+      "qty": null,
+      "models": [],
+      "price": null,
+      "posted": "2026-11-17",
+      "firstSeen": "2026-11-28",
+      "source": "search",
+      "link": "https://www.linkedin.com/posts/valewood-recycling_m4corridor-wiltshire-bristol-activity-7528370105655681024-GRYX"
     },
     {
       "id": "7526186320017158144",
